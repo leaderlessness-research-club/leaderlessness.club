@@ -50,7 +50,27 @@ thought it was important to make such a process easily replicatable and usable.
 David Graeber defines _revolutionary action_ in _Fragments of an Anarchist
 Anthropology_ as direct action which subverts
 the necessity for the state, the application of real leaderless solutions, and the
-proposal of such systems.
+proposal of such systems, in fact David graber states:
+
+    It’s not just that anarchism does not tend to have much use for high
+    theory.  It’s that it is primarily concerned with forms of pracice; it insists,
+    before anything else, that one’s means must be consonant with one’s ends; one
+    cannot create freedom through authoritarian means; in fact, as much as
+    possible, one must oneself, in one’s relations with one’s friends and allies,
+    embody the society one wishes to create
+
+    The key term in the new movement is “process,” by which is meant,
+    decision-making process. In North America, this is almost invariably done
+    through some process of finding consensus. This is as I mentioned much less
+    ideologically stifling than it may sound because the assumption behind all good
+    consensus process is that one should not even try to convert others to one’s
+    overall point of view; the point of consensus process is to allow a group to
+    decide on a common course of action. Instead of voting proposals up and down,
+    then, proposals are worked and reworked, scotched or reinvented, until one ends
+    up with something everyone can live with.
+
+_Consensus-Oriented Decision-Making_ does exactly that, with some exceptions,
+it offers a feasible, tried and tested method for consensus...
 
 The CODM model consists of seven steps:
 
