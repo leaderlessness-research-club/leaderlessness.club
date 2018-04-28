@@ -6,7 +6,7 @@ authors: Lily Mayfield
 
 Here are some books I have in my possession as of now, of which I hope will
 aid LRC in their goal of creating an informed proposal for an Internet-based
-group decision-making process which will be turned into an app. I also hope
+group decision-making process, which we will develop into an app. I also hope
 these books will become part of the LRC book club!
 
 For each book I'll try to provide:
