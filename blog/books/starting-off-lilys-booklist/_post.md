@@ -90,7 +90,7 @@ https://smile.amazon.com/gp/product/0520075641/
 
 _Mutual Aid: A Factor in Evolution_ by Peter Kropotkin...
 
-# Grey Eminence
+## Grey Eminence
 
 _Grey Eminence_ by Aldous Huxley...
 
@@ -98,7 +98,7 @@ _Grey Eminence_ by Aldous Huxley...
 
 _Bartleby, the Scrivner: A Story of Wall Street_ by Herman Melville...
 
-# The Politics of Fear
+## The Politics of Fear
 
 _The Politics of Fear: What Right-Wing Populist Discourses Mean_ by Ruth
 Wodak...
