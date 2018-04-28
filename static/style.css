@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT|Playfair+Display+SC');
+
+html,
+body {
+  font-family: 'Playfair Display SC', serif;
+  word-spacing: 0.25rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+h1 {
+  font-family: 'Old Standard TT', serif;
+  word-spacing: -0.125rem;
+  font-size: 1.5rem;
+}
