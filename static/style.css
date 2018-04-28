@@ -18,8 +18,7 @@ h1 {
 }
 
 p {
-  min-width: 45em;
-  max-width: 75em;
+  width: 50em;
 }
 
 p + p {
