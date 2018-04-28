@@ -87,17 +87,27 @@ https://smile.amazon.com/gp/product/0520075641/
 
 "Das Kapital" by Marx...
 
+How could I *not* hear about this?
+
 ## Mutual Aid
 
 _Mutual Aid: A Factor in Evolution_ by Peter Kropotkin...
+
+I'm not sure if i heard about this through Brian Callahan first or simply
+because its one fo the major anarchist texts...
 
 ## Grey Eminence
 
 _Grey Eminence_ by Aldous Huxley...
 
+I heard of this through a Zizek talk...
+
 ## Bartleby, the Scrivener
 
 _Bartleby, the Scrivner: A Story of Wall Street_ by Herman Melville...
+
+Became interested in revisiting this after Zizek... I had watched the Crispen
+Glvoer movie of the same title...
 
 ## The Politics of Fear
 
@@ -115,6 +125,8 @@ Fortun, exploring the ways in which Writing Culture has changed the face of
 ethnography over the last 25 years."
 Recommended to me by Brian Callahan of RPI.
 
+Hopefully helps with field research.
+
 https://smile.amazon.com/gp/product/0520266021/
 
 ## Fragments of an Anarchist Anthropology
@@ -126,6 +138,8 @@ Recommended to me by Brian Callahan of RPI...
 
 _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
 Jacques Rancière. Recommended to me by Brian Callahan of RPI...
+
+Helps with generativity?
 
 ## Capitalist Realism
 
@@ -140,3 +154,5 @@ https://smile.amazon.com/gp/product/1846943175/
 _The Starfish and the Spider: The Unstoppable Power of Leaderless
 Organizations_ by Ori Brafman and Rod A. Beckstorm.
 Recommended to me by Brian Callahan of RPI.
+
+Quite specifically aids in LRC's goal...
