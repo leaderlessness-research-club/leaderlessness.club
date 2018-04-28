@@ -4,7 +4,7 @@ html,
 body {
   word-spacing: 0.25rem;
   font-family: 'Old Standard TT', serif;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1.5;
   max-width: 100vw;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 p {
-  width: 50em;
+  max-width: 75em;
 }
 
 p + p {
