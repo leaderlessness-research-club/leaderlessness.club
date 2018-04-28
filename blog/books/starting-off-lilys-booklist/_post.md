@@ -28,6 +28,8 @@ Here are some places I like to buy books from:
 I will provide fuller analyses in their own blog posts and update this post
 with links to the articles for each book/section.
 
+## the tyranny of structurelessness
+
 ## Consensus-Oriented Decision-Making
 
 "Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to
