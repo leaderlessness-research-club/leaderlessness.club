@@ -4,6 +4,7 @@
 <link href="/static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+<nav>Go to: <a href="/blog">Blog</a></nav>
 {{ content }}
 </body>
 </html>
