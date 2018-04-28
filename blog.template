@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>{{ title }}</title>
+</head>
+<body>
+
+<p>The latest post for each category:</p>
+
+<dl>
+{% for post in posts %}
+  <dt><a href="/blog/{{ post['category'] }}">{{ post['category'] }}</a></dt>
+  <dd>
+    <blockquote>
+        {{ post['summary'] }}
+        <cite><a href="{{ post['href'] }}">{{ post['title'] }}</a> @ ({{ post['timestamp'] }})</cite>
+    </blockquote>
+  </dd>
+{% endfor %}
+</dl>
+
+{% if pagination %}
+    <ul>
+    {% for link in pagination %}
+      <li>{{ link }}</li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
+</body>
+</html>

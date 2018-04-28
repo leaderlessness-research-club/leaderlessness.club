@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>{{ title }}</title>
+</head>
+<body>
+
+<p>Latest posts in this category:</p>
+
+<ol>
+{% for post in posts %}
+  <li>
+    <blockquote>
+        {{ post['summary'] }}
+        <cite><a href="{{ post['href'] }}">{{ post['title'] }}</a> @ <datetime>{{ post['timestamp'] }}</datetime></cite>
+  </li>
+{% endfor %}
+</ol>
+
+{% if pagination %}
+    <ul>
+    {% for link in pagination %}
+      <li>{{ link }}</li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
+</body>
+</html>
