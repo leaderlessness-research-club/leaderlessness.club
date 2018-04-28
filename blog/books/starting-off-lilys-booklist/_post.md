@@ -130,6 +130,8 @@ _Bartleby, the Scrivner: A Story of Wall Street_ by Herman Melville...
 Became interested in revisiting this after Zizek... I had watched the Crispen
 Glvoer movie of the same title...
 
+http://myheartwillgoonandsoonandsoon.blogspot.com/2017/05/i-would-prefer-not-to-is-to-be-taken.html
+
 ## The Politics of Fear
 
 _The Politics of Fear: What Right-Wing Populist Discourses Mean_ by Ruth
