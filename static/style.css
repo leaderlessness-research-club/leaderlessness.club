@@ -6,8 +6,7 @@ body {
   font-family: 'Old Standard TT', serif;
   font-size: 1.5rem;
   line-height: 1.5rem;
-  min-width: 45em;
-  max-width: 75em;
+  max-width: 100vw;
 }
 
 h1 {
