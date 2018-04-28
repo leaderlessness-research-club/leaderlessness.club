@@ -1,4 +1,3 @@
-
 # LRC: Leaderlessness Research Club
 
 **Our mission** is to make leaderlessness accessible and practical for all
@@ -18,3 +17,5 @@ How we achieve our mission:
   * Create reports, publish research finding
   * Dogfood/experiment with LRC's formalized proposals for group
     decision-making models, based on LRC's research
+
+Interested in learning more? [Join our Discord!](https://discord.gg/bBP3cU)
