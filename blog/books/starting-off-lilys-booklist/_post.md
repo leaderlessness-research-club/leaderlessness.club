@@ -34,9 +34,9 @@ _The Tyranny of Structurelessness_ by Jo Freeman references the
 anarcha-feminism movement, specifically outlining how when powers remain opaque
 and informalized, they're at their most tyrannical. At-a-glance Freeman may
 seem to suggest that there cannot possibly be transparency within any anarchist
-movment, but I believe the bigger takeaway here is underlining the importance
-of formal systems of organization. My friend Xax told me about this article
-some years ago.
+movment, but I believe the bigger takeaway underlines the importance of formal
+systems of organization. My friend Xax told me about this article some years
+ago.
 
 [The Tyranny of Structurelessness on Jo Freeman's website](http://www.jofreeman.com/joreen/tyranny.htm)
 
