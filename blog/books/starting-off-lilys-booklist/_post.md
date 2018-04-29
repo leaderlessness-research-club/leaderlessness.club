@@ -184,7 +184,10 @@ about the inherent anthropological structures behind political theories.
 Through this lense Graeber unveils an equation of the state to kinship systems,
 definitions for revolutionary action, the streangths of anarchy, and anarchy's
 historical role (what anarchy has historically been concerned with).
-Recommended to me by Brian Callahan of RPI...
+Recommended to me by Brian Callahan of RPI. I thought this book would be
+relevant to LRC because it provokes thought deeper than the system itself,
+while simultaneously concerning itself with a framework for these systems
+(which Graeber calls "an anthropology.").
 
 ## The Ignorant Schoolmaster
 
