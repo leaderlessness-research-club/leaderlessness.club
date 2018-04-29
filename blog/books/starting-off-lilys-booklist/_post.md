@@ -179,7 +179,11 @@ https://smile.amazon.com/gp/product/0520266021/
 
 ## Fragments of an Anarchist Anthropology
 
-_Fragments of an Anarchist Anthropology_ by David Graeber...
+_Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
+about the inherent anthropological structures behind political theories.
+Through this lense Graeber unveils an equation of the state to kinship systems,
+definitions for revolutionary action, the streangths of anarchy, and anarchy's
+historical role (what anarchy has historically been concerned with).
 Recommended to me by Brian Callahan of RPI...
 
 ## The Ignorant Schoolmaster
