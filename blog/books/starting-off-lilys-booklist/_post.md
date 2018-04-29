@@ -25,6 +25,14 @@ Here are some places I like to buy books from:
   * [Magers & Quinn Booksellers](https://www.magersandquinn.com/)
   * [Amazon](https://smile.amazon.com/)
 
+Some general takeaways I've gotten from all these booked combined:
+
+  * The _ideology_ (as Zizek uses the word) of statism infects our imagination
+    (Capitalist Realism) and thus creates a reflection of itself across a
+    fractal of society. From pedegogical ideology (The Ignorant Schoolmaster) to
+    our anthropology (Fragments of an Anarchist Anthropology) and thus the lense
+    through which we exhume history (Hellenistic History and Culture).
+
 I will provide fuller analyses in their own blog posts and update this post
 with links to the articles for each book/section.
 
@@ -108,19 +116,23 @@ You can purchase _Consensus-Oriented Decision-Making_ from these stores:
 
 ## Hellenistic History and Culture
 
-_Hellenistic History and Culture_ by Peter Green begins by stating the new
-lense from which this book extrapolates new information: feminism, Marxism,
-more modern views, multiculturalism unveils a deemphasis of Western,
-Greco-Roman tradition and Nubians, Bactrians and other subject peoples of the
-time receive analysis of their own right, not just as reciepients of
-Greco-Roman culture.
+_Hellenistic History and Culture_ by Peter Green begins with a forward on the
+lense from which the book extrapolates new information: Marxism and
+multiculturalism enveils a deemphasis of Nubians, Bactrians and other subject
+peoples of the time as simply reciepients of Greco-Roman culture.
 
-History, like Herakleitos' river, never stands still. These essays share a
-collective sense of discovery and a sparking of new ideas—they are a welcome
-beginning to the reexploration of a fascinatingly complex age. 
+> A distrust of all ideologies has altered old views of ancient political
+> structures, and feminism has also changed earlier assessments. The current
+> emphasis on multiculturalism has consciously deemphasized the Western,
+> Greco-Roman tradition, and Nubians, Bactrians, and other subject peoples of the
+> time are receiving attention in their own right, not just as recipients of
+> Greco-Roman culture.
 
-Peter Green's introduction ... 
-reflects how misrepresentation happens through representation, the
+> History, like Herakleitos' river, never stands still. These essays share a
+> collective sense of discovery and a sparking of new ideas—they are a welcome
+> beginning to the reexploration of a fascinatingly complex age.
+
+This introduction reflects on how misrepresentation occurs through representation, a
 postcolonial theory thing which weaves into Writing Culture, ...
 
 https://smile.amazon.com/gp/product/0520075641/
