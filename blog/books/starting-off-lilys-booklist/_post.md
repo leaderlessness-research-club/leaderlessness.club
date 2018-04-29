@@ -118,9 +118,7 @@ You can purchase _Consensus-Oriented Decision-Making_ from these stores:
 ## Hellenistic History and Culture
 
 _Hellenistic History and Culture_ by Peter Green begins with a forward on the
-perspective from which the book extrapolates new information: Marxism and
-multiculturalism enveils a deemphasis of Nubians, Bactrians and other subject
-peoples of the time as simply reciepients of Greco-Roman culture.
+perspective from which the book extrapolates new information:
 
 > A distrust of all ideologies has altered old views of ancient political
 > structures, and feminism has also changed earlier assessments. The current
