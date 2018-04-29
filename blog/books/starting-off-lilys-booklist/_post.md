@@ -189,6 +189,12 @@ relevant to LRC because it provokes thought deeper than the system itself,
 while simultaneously concerning itself with a framework for these systems
 (which Graeber calls "an anthropology.").
 
+Graeber's sentiment is echoed in many of the books on this list, of Zizek's
+concept of _ideology_, The Ignorant Schoolmaster's topic of systemic statism
+(how the state embues itself into everything we do), that we not only must
+become aware of our assumptions, the _anthropology_ of any system we may
+implement.
+
 ## The Ignorant Schoolmaster
 
 _The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
