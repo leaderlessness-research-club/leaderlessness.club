@@ -31,7 +31,8 @@ Some general takeaways I've gotten from all these booked combined:
     (Capitalist Realism) and thus creates a reflection of itself across a
     fractal of society. From pedegogical ideology (The Ignorant Schoolmaster) to
     our anthropology (Fragments of an Anarchist Anthropology) and thus the lense
-    through which we exhume history (Hellenistic History and Culture).
+    through which we exhume history (Hellenistic History and Culture), but also
+    the lense of living history as we document it (Writing Culture).
 
 I will provide fuller analyses in their own blog posts and update this post
 with links to the articles for each book/section.
