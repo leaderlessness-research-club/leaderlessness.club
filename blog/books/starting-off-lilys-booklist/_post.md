@@ -69,7 +69,7 @@ language for describing larger concepts.
 Q: however these do sound like they're framed in a highly academic, and a very
 particular kind of academic at that, tone and language.  I strongly dislike
 academia, principally for the politics and that they are completelydisconnected
-with reality.  academics, people who've spent their entire adult life living in
+with reality.  Academics, people who've spent their entire adult life living in
 the sphere of academia don't understand what life outside an ivory tower is
 like.
 
@@ -86,10 +86,10 @@ ivory tower are completely dissonant on what's going on around them--this is a
 result of that state mentality, it is that when you become a teacher that you
 are "house trained" and that you inevitably lose connection as you become
 ever-submerged in an academic culture which demands you speak their language
-and articulate their ideals.  i trace this back to again: the reflection of
-statism reflects itself across a fractal of society. writing culture talks
+and articulate their ideals.  I trace this back to again: the reflection of
+statism reflects itself across a fractal of society. _Writing Culture_ talks
 about how academia can never be representative so long at it is statist (as
-does the ignorant schoolmaster and david graeber's fragments of an anarchist
+does the ignorant schoolmaster and David Graeber's fragments of an anarchist
 anthropology).
 
 Q: So when you say "statist" do you mean the presence of a power dynamic?  Or
@@ -101,93 +101,96 @@ A: David Graeber poses a falseness of the postmodern, of "modernity", because
 from the anthropological identification of capitalism and statism they are
 kinship systems, kinship systems which have persisted, that fundamental
 societal interplay negating any sense of postmodernity through some great
-clataclsmic change (in fact change has never operated this way, but that's
+cataclysmic change (in fact change has never operated this way, but that's
 another topic).  The conceptualization of a shift from kinship systems to
-something greater, "an englightenment" of democracy shifting us away from the
-aforementioned, is this very kind of "clataclysmic change" I specify as being
+something greater, "an enlightenment" of democracy shifting us away from the
+aforementioned, is this very kind of "cataclysmic change" I specify as being
 nonexistant, and thus no such postmodernism exists.  When I say "state" I mean
 exclusive power, the prescriptive, the policy, the ability a nonmajority to
 hold exclusive power as a few over the many. If you want an introduction to
 anarchist theory _Fragments of an Anarchist Anthropology_ offers a great
 framework.
 
-Q: What scale are you talking about in termso of organization?
+Q: What scale are you talking about in terms of organization?
 
-A: again i mean: "[the state] creates a reflection of itself across a fractal
+A: Again, I mean: "[the state] creates a reflection of itself across a fractal
 of society." at every scale of society, affecting organization at every scale,
 statism is an anthropological way of our life--a thing we do not know we know.
-for example, postcolonial theory states that those from outside of a culture
+For example, postcolonial theory states that those from outside of a culture
 misrepresent those they attempt to document inherently because they are
 representatives and those observations are formed from an exclusive 
 
-Q: please humor me and describe how Zizek uses the word _ideology_, and
-what "a reflection of itself a cross a fractal of society" means more
-precisely, since I am unfamiliar with Zizek and I don't know if there are
-subtleties to the meaning of the latter beyond "you can observe this phenomenon
-in a variety of scales in society"
+Q: Describe how Zizek uses the word _ideology_, and what "a reflection of
+itself a cross a fractal of society" means more precisely, since I am
+unfamiliar with Zizek and I don't know if there are subtleties to the meaning
+of the latter beyond "you can observe this phenomenon in a variety of scales in
+society."
 
 A:  Zizek uses the word "ideology" to mean "what we don't know we know" and
-uses that framework to descirbe the danger of capitalism is that it does not
-use the old repressive methods of propaganda as with stalin but rather
-implements itself through this kind of "ideology" again, in regard to "a
+uses that framework to describe the danger of capitalism is that it does not
+use the old repressive methods of Stalin-esque propaganda, but rather
+implements itself through this kind of "ideology," again, in regard to "a
 reflection of itself across a fractal of society" means that statism and
-capitalism embues itself its mentality its essence its "ideology" (Zizek again
+capitalism imbues itself its mentality its essence its "ideology" (Zizek again
 here as we talked about) through everything we do because it is exactly that:
 that which we do not know we know, and as such, it is our understanding of
-organization and interplay for any scale of society.  Another interestig point
-Zizek delivers is this is how capitalism is maintained , rather than in soviet
-russia "communism" was maintained by propaganda directly
+organization and interplay for any scale of society.  It is this interesting point
+Zizek delivers: this is how capitalism is maintained, rather than, again,
+Stalin-esque maintenance through propaganda.
 
 Q: Why do you disagree with Zizek's conclusions that a state is necessary?
 
-A:  because his conceptions of anarchist modes of decision-making are
+A:  Because his conceptions of anarchist modes of decision-making are
 outmoded, because the advent of technology brings possibilities of automating
-consensus, and providing a framework for direct democracy
+consensus and direct democracy. However, Zizek's views are more complicated
+than this (e.g., the selfish locality in a globalist network of humanity).
 
-Q: who decides which methods are used?
+Q: Who decides which methods are used?
 
-A: this is a complicated topic. so its both that revolutionary action
-is the subversion of the state by basically replacing it, but on the other hand
-within the state it is ultimately controlled by the state and the general
-anthropology interplay
+A: This is a complicated topic. It's both that revolutionary action is the
+subversion of the state by basically replacing it, but on the other hand within
+the state it is ultimately controlled by the state and the general anthropology
+interplay
 
-Q: and how do you counteract the desire for power?  I can't imagine a world in
-which people don't pursue the accumulation of power.  perhaps there exist a
+Q: How do you counteract the desire for power?  I can't imagine a world in
+which people don't pursue the accumulation of power.  Perhaps there exist a
 group of people whose predisposition is to exist at the top of a social
-hierarchy there are those who will connive to usurp the structures in place to
-gain power to use for their benefit but if you have any concentration of power
-it inherently becomes one in which a hierarchy exists I see anarchy as a highly
-unstable system a high energy state, so to speak, in which the system will try
-to reach a more stable equilibrium by a redistribution of power (its actors
-pursuing this end) and how does a military without a hierarchy exist
+hierarchy. There are those who will connive to usurp the structures in place to
+gain power to use for their benefit, but if you have any concentration of power
+it inherently becomes one in which a hierarchy exists. I see anarchy as a
+highly unstable system a high energy state, so to speak, in which the system
+will try to reach a more stable equilibrium by a redistribution of power (its
+actors pursuing this end). On that topic, how does a military without a
+hierarchy exist?
 
-A: this is true in any system. Please "The Tyranny of Structurelessness" and my
-analysis of it.  Also, _Mutual Aid: A Factor of Evolution_ is really good as it
-summarizes Darwinian relation to human anthropology (Kropotkin was a close
-friend of Darwin).  you should read it because mutual aid does seem to be THE
-factor of the world's most proliferated species I don't see what your conern
-with people's thirst for power is. people can govern through a formalized
-general agreeance and enforce it in the same way.  that is, what about the
-concentration of power of confederate will?  As long as the people get to have
-order over the military's actions anarchies can obviously create societal
-contracts with representative structures like nuclear facilities and the
-military where snap judgements are reuqired.  the important thing is that
-ultimately the policy and direction of society is set by a ruling few and that
-these services answer to those ruling elite and not the general popoulous o
-it's not because the military holds no exclusive power over policy
+A: It is true in any system that people will have a desire for power. Please
+"The Tyranny of Structurelessness" and my analysis of it.  Also, _Mutual Aid: A
+Factor of Evolution_ is really good as it summarizes Darwinian relation to
+human anthropology (Kropotkin was a close friend of Darwin).  I recommend it
+because mutual aid does seem to be THE factor of the world's most proliferated
+species. People can govern through a formalized general agreeance and enforce
+it in the same way.  That is, what about the concentration of power of
+confederate will?  As long as the people get to have order over the military's
+actions anarchies can obviously create societal contracts with representative
+structures like nuclear facilities and the military where snap judgements are
+required.  The important thing is that ultimately the policy and direction of
+society is set by a ruling few and that these services answer to those ruling
+elite and not the general populous, i.e., in this case the military holds no
+exclusive power over "policy." I hate to talk about "the military" and "policy"
+in this way and in the scope of this booklist, but it does seem to draw some
+useful parallels and analogies to other services an anarchy might
+utilize/render.
 
 Q: So the mob dictates the actions of others? Isn't this tyranny of the
 majority?
 
-A: If you utilize the concepts behind _The Tyranny of the Majority" then you
-have to accept that democracy itself is futile.  I and others have proposed the
-tyranny of tyranny itself is the real hazard.  Also, if you believe this, then
-why trust people to elect representatives in the first place?  I don't think
-popular opinion affects or effects much of any government action. We are forced
-into a bipartisan electoral system in which a kinship system allows us to only
-vote for rich families who have long maintained state structures.  I have heard
-of the new run-off systems being implemented in Maine, St. Louis Park of
-Minnesota.
+A: If you utilize the concepts, the ideology, behind _The Tyranny of the
+Majority_ then you have to accept that democracy itself is futile.  I and
+others have proposed the tyranny of tyranny itself is the real hazard.  Also,
+if you believe this, then why trust people to elect representatives in the
+first place?  We instead are forced into a system in which a kinship system
+allows us to only vote for rich families who have long maintained state
+structures.
 
 Q: But won't abuses of power always happen because power exists and people are animals?
 
@@ -197,33 +200,33 @@ that the state creates the ill soil, enabling power to be abused by the few who
 will act in disregard of the many (those we label as the exceptions, the "bad
 apples").  We should collectively and democratically decide, as a people, what
 our societal agreement is, which these agreements can affect/effect services of
-society, even those with "necessary heirarchy" like the military, those
+society, even those with "necessary hierarchy" like the military, those
 services are still ultimately accountable and managed by the people, rather
-than what we have now where elites decide to go to war on our behalf (iraq,
-afghanistan, libya, etc.).  historically war has not been the role of the
-people but rather the role of people in power to decide.  if you seem to agree
+than what we have now where elites decide to go to war on our behalf (Iraq,
+Afghanistan, Libya, etc.).  Historically war has not been the role of the
+people but rather the role of people in power to decide.  If you seem to agree
 with these ideals, then why prevent yourself--why not aim for something better?
-surely statist capitalism is not the end all be all (in fact capitalist relaism
-is a book which describes the problem in society now where we cannot imagine
-existence without capitalism [and i would say statism as well]).  "if you're
-not a utopianist you're schmuck." and so anarchism provides a framework you
-apparently agree with that we can move toward through revolutionary actions of
-making anarchism paradigm.
+Surely statist capitalism is not the end all be all (in fact _Capitalist
+Realism_ is a book which describes the problem in society now where we cannot
+imagine existence without capitalism [and i would say statism as well]).  "If
+you're not a utopianist you're schmuck," and so anarchism provides a framework
+you apparently agree with that we can move toward through revolutionary actions
+of making anarchism paradigm.
 
-Q: I think that any violent means to change society will inherently
-result in a worse system and I think that the system is too entrenched to be changed
-nonviolently
+Q: I think that any violent or sudden means to change society will inherently
+result in a worse system and I think that the system is too entrenched to be
+changed nonviolently.
 
 A: I personally am a pacifist-but this is likely a position of privilege. It's
 important to realize legislative violence exists and that almost all "peaceful
 movements" that drastically changed society have been accompanied by an equal
-violent movement along side it.  So it's conflicting but utlimately i would say
+violent movement along side it.  So it's conflicting but ultimately I would say
 that 1. I'm a pacifist and I don't believe killing people to get things done,
 and 2. Zizek brings up how in _V for Vendetta_ ends with the government being
 overthrown. The problem is what happens in _V for Vendetta: Part 2_, what
 happens after they've overthrown the government requires a specific plan or
-something worse will take its place.  i don't believe in violent overthrows,
-but this does trace back to something important: that anrchism is concerned
+something worse will take its place.  I don't believe in violent overthrows,
+but this does trace back to something important: that anarchism is concerned
 with the practical implementation, the actual plan of an alternative to
 capitalist statism. This is the failing of the left: an inability to provide an
 actual alternative rather than kneejerk "poverty is bad" type protests .  Zizek
@@ -241,24 +244,24 @@ forcing a leadership role isn't wise.
 
 A: I think its most important that people who are ultimately a part of a system
 ultimately have control over that system and regardless of who they employ to
-render their will (not in the republic sense because this generates exlcusive
-power over the aformentioned), as we talked about with military.
+render their will (not in the republic sense because this generates exclusive
+power over the aforementioned), as we talked about with military.
 
 Q: none of this seems like its something practical that we can control
 
 A: You can subvert the state through the revolutionary action of creating
-paradigm through implementation of anarchism.  The Black Panthers realizeed
+paradigm through implementation of anarchism.  The Black Panthers realized
 this through direct action by implementing services like: breakfast program,
 lawyer tiplines, etc.  The biggest issue in leftist politics rn is actually
 formalizing an explicit alternative. Anarchism has taken the place of Marxism
-in modern academic culture it is a prohibited speech excecpt where used in
+in modern academic culture it is a prohibited speech except where used in
 coded language through topics like mutual aid, direct democracy, etc., but it
 is in these practical applications that the paradigm is set, the revolutionary
-action is played, as was Marxism, increasingly anarchist appilcation and theory
+action is played, as was Marxism, increasingly anarchist application and theory
 becomes an inevitability, so did Marxism entering the sphere introduce to the
 public acceptance of "socialism," and a possibility of someone like Bernie
 Sanders (though this again is in the "worst excesses" thing we talked about
-earlier, this surely expemplifies what I speak of here).
+earlier, this surely exemplifies what I speak of here).
 
 ## The Tyranny of Structurelessness
 
