@@ -119,6 +119,10 @@ History, like Herakleitos' river, never stands still. These essays share a
 collective sense of discovery and a sparking of new ideas—they are a welcome
 beginning to the reexploration of a fascinatingly complex age. 
 
+Peter Green's introduction ... 
+reflects how misrepresentation happens through representation, the
+postcolonial theory thing which weaves into Writing Culture, ...
+
 https://smile.amazon.com/gp/product/0520075641/
 
 ## Capital
@@ -165,7 +169,11 @@ Fortun, exploring the ways in which Writing Culture has changed the face of
 ethnography over the last 25 years."
 Recommended to me by Brian Callahan of RPI.
 
-Hopefully helps with field research.
+Hopefully helps with field research. This in the vein of post colonial theory,
+related to _Can the Subaltern Speak?_ by Gayatri Chakravorty Spivak, and The
+Ignorant Schoolmaster, and perhaps even Capitalist Realism, which poses what
+Zizek defined as "ideology:" that which we don't know we know; the systemic
+proliferation of statist, capitalist ideology into academia.
 
 https://smile.amazon.com/gp/product/0520266021/
 
