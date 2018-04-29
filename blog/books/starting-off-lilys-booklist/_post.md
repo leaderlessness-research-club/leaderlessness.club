@@ -31,8 +31,8 @@ Some general takeaways I've gotten from all these booked combined:
     (Capitalist Realism) and thus creates a reflection of itself across a
     fractal of society. From pedegogical ideology (The Ignorant Schoolmaster) to
     our anthropology (Fragments of an Anarchist Anthropology) and thus the lense
-    through which we exhume history (Hellenistic History and Culture), but also
-    the lense of living history as we document it (Writing Culture).
+    through which we both exhume history (Hellenistic History and Culture) and
+    document living history (Writing Culture).
 
 I will provide fuller analyses in their own blog posts and update this post
 with links to the articles for each book/section.
@@ -118,7 +118,7 @@ You can purchase _Consensus-Oriented Decision-Making_ from these stores:
 ## Hellenistic History and Culture
 
 _Hellenistic History and Culture_ by Peter Green begins with a forward on the
-lense from which the book extrapolates new information: Marxism and
+perspective from which the book extrapolates new information: Marxism and
 multiculturalism enveils a deemphasis of Nubians, Bactrians and other subject
 peoples of the time as simply reciepients of Greco-Roman culture.
 
@@ -194,7 +194,7 @@ https://smile.amazon.com/gp/product/0520266021/
 
 _Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
 about the inherent anthropological structures behind political theories.
-Through this lense Graeber unveils an equation of the state to kinship systems,
+From this context Graeber unveils an equation of the state to kinship systems,
 definitions for revolutionary action, the streangths of anarchy, and anarchy's
 historical role (what anarchy has historically been concerned with).
 Recommended to me by Brian Callahan of RPI. I thought this book would be
