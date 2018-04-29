@@ -52,6 +52,11 @@ Organization](http://hypatiasoftware.org). I was attempting to incorporate
 the voices of the very members the nonprofit benefitted, since the board of
 directors was at time disconnected from the members' concerns.
 
+Tim Hartnett's background as a marriage counselor and facilitator, a PHD in
+psychology, shines as this decision-making approach not only addresses
+pragmatic concerns, but the emotional interplay which ultimately determines the
+fairness of the process.
+
 When Leaderlessness Research Club started it initially was only a software
 project called "Dividita." The goal of Dividita was to provide a
 decision-making model that would make heirarchicalless/leaderless organization
