@@ -265,16 +265,21 @@ earlier, this surely exemplifies what I speak of here).
 
 ## Convo with Alice S
 
-Emergent social interactions dictated the course of FOSS and web
-projects more then traditional corporate structures and thought along the lines
-of "how do you take these emergent patterns and make sure to preserve them by
-making them resistant to hierarchical impositions"
+FOSS/web projects are moved by emergent social interactions, rather than
+traditional corporate structures.
 
-Also the trend of cryptocurrencies/block chain played a large part as well
-though I had fundamental misgivings about "proof of work" because of the
-environmental impact and the ability to shoehorn what is essentially a
-mutualist/consensus bookkeeping system into capitalist modes of production
+Anarchy has an image problem.
 
+Hypatia Software Organization is a system fostering mutual aid, generative
+justice, that is outreach and ideological-warming, independent, but within
+current capitalist statist modes of production. "Warming" as in the boiling
+frog, whereby people not necessarily aware of the ideology support it
+indirectly, whereby "socialism" is a call for communism within a Capitalist
+Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
+Realism." This warming gradually becomes a completely anarchist form of
+governance and commodity production.
+
+Within current capitalist statist modes of production
 Anarchy has an image problem and reasoning about these things within current
 capitalist/statist modes of production (but independent of them) is probably
 the way to go in terms of securing outreach and warming people to the ideas,
