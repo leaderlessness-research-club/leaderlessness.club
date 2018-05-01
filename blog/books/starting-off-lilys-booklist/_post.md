@@ -60,13 +60,13 @@ FOSS advocates were a good initial target, for whom a leaderless system
 could be considered more palatable then most other types, simply due to
 prior exposure to emergent patterns and how they craft software.
 
-I was confronted by classism within Hypatia, ironic considering its intentions,
-when there was a push by the Board of Directors to remove or restrict the cash
-relief program, largely due to a particular homeless beneficiary. I saw this
-disconnect as the inherent misrepresentation of representation. The path I used
-to actually represent member's voices was to actually incorporate their voices:
-consensus. Consensus is an anarchist component, and as I studied it more I
-finally arrived at _leaderlessness_.
+I was confronted by classism within Hypatia (ironic considering its
+intentions!) when there was a push by the Board of Directors to remove or
+restrict the cash relief program, largely due to a particular homeless
+beneficiary. I viewed this disconnect as the inherent misrepresentation of
+representation. The path I used to actually represent member's voices was to
+actually incorporate their voices: consensus. Consensus is an anarchist
+component, and as I studied it more I finally arrived at _leaderlessness_.
 
 David Graeber defines "revolutionary action" in _Fragments of an Anarchist
 Anthropology_ as:
