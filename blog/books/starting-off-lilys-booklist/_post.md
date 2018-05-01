@@ -265,11 +265,6 @@ earlier, this surely exemplifies what I speak of here).
 
 ## Convo with Alice S
 
-FOSS/web projects are moved by emergent social interactions, rather than
-traditional corporate structures.
-
-Anarchy has an image problem.
-
 Hypatia Software Organization is a system fostering mutual aid, generative
 justice, that is outreach and ideological-warming, independent, but within
 current capitalist statist modes of production. "Warming" as in the boiling
@@ -279,18 +274,24 @@ Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
 Realism." This warming gradually becomes a completely anarchist form of
 governance and commodity production.
 
-Within current capitalist statist modes of production
-Anarchy has an image problem and reasoning about these things within current
-capitalist/statist modes of production (but independent of them) is probably
-the way to go in terms of securing outreach and warming people to the ideas,
-doing the boiling frog approach until you've implemented a completely anarchist
-form of governance and commodity production without them necessarily knowing
-This also helps to provide an alternative to the naive
+C: FOSS/web projects are moved by emergent social interactions, rather than
+traditional corporate structures.
+
+C: We have a decent initial target, FOSS advocates, for whom a leaderless system
+could be considered more palatable then most other types of people simply from
+prior exposure to emergent patterns and how they craft software.  I think
+Licklider also had things to say about this kind of emergent activity if you
+look hard enough, and cyberneticians also came close to it tho they reasoned
+more in terms of "how can we quantify and automate the breadth of already
+existing human knowledge" rather then focusing on emergent activity
+specifically.
+
+C: This also helps to provide an alternative to the naive
 libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
 about how I'm helping these poor poc queers while ignoring everyone else"
 mindset that seems to be endemic in silicon valley politics
 
-I encountered "leaderlessness" after witnessing representation causing
+C: I encountered "leaderlessness" after witnessing representation causing
 misrepresentation. I was working with Hypatia Software Organization which whose
 Board of Directors attempted to remove the cash relief program, or at least,
 make the conditions for cash assistance more strict (this was largely because
@@ -317,27 +318,18 @@ misunderstood and feared term than "anarchy").  David Graeber defines
 > revolutionary acts. And history shows us that the continual accumulation of
 > such acts can change (almost) everything.
 
-The way I'm trying perform my own "revolutionary action" is to push the
+C: The way I'm trying perform my own "revolutionary action" is to push the
 paradigm of leaderless systems.
 
-I absolutely think graeber is taking the right approach here, particularly as
+C: I absolutely think graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
 their situations is concerned.
 
-We have a decent initial target, FOSS advocates, for whom a leaderless system
-could be considered more palatable then most other types of people simply from
-prior exposure to emergent patterns and how they craft software.  I think
-Licklider also had things to say about this kind of emergent activity if you
-look hard enough, and cyberneticians also came close to it tho they reasoned
-more in terms of "how can we quantify and automate the breadth of already
-existing human knowledge" rather then focusing on emergent activity
-specifically.
-
-With hypatia there was an underlying class/trans intersection I was trying to
+C: With hypatia there was an underlying class/trans intersection I was trying to
 address and anarchy is a natural conclusion.  all roads lead to rome; those
 paths of mutual aid, consensus, etc.
 
-I think hypatia is a pretty good example of mutual aid in action but we can do
+C: I think hypatia is a pretty good example of mutual aid in action but we can do
 a lot better (even for an organization with hypatias stated goals) given what
 we know now and what we learned from it And that's part of why I like the
 leaderlessness venture so much It provides a way to generalize these patterns
