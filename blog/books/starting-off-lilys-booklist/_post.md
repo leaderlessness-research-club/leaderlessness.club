@@ -263,7 +263,7 @@ public acceptance of "socialism," and a possibility of someone like Bernie
 Sanders (though this again is in the "worst excesses" thing we talked about
 earlier, this surely exemplifies what I speak of here).
 
-## Convo with Alice S
+## Background
 
 Hypatia Software Organization is a system fostering mutual aid, generative
 justice, that is outreach and ideological-warming, independent, but within
