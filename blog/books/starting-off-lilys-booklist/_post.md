@@ -482,6 +482,33 @@ Jacques Rancière. Recommended to me by Brian Callahan of RPI...
 
 Helps with generativity?
 
+## The Postmodern Condition
+
+_The Postmodern Condition_ by Jean-Francois Lyotard...
+
+Postmodernism as a postcolonial abstraction: the imaginary isolation of science
+and societal abstraction; the death of meta...
+https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
+"The ruling class is and will continue to be the class of decision makers. Even
+now it is no longer composed of the traditional political class, but of a
+composite layer of corporate leaders, high-level administrators, and the heads
+of the major professional, labor, political, and religious organisations. "
+Grand narratives are the analysis of history through a lense of an origin and
+inevitabel destination, postmodernism destroys this narrative with more nuanced
+understanding; Marxim analyzes history through the lense of class from the
+means of labor to labor immancipation, and for anarchism from serfdom to
+"increasingly democratic" means of governance--it is perhaps for this reason
+that Graeber identifies not as an anarchist but as someone who believes that
+anarchy is an action, that it is an anthropology, and that this is the ver
+ystrength of anarchism: that is concerns itself far more with the action and
+implmentation and practical, than aligning itself with grand narratives for
+interpreting history and our trajectory through some sort of _grand narrative_,
+and it is thus Graeber is a very postmodern anthropologist believer of
+anarchist action.
+Possibly in the vein of queer theory: where bisexuals are caught between due to
+outmoded grand narratives of sexuality opression, TERFs exist in the same vein
+of outmoded grand narratives of *sexual* opression.
+
 ## Capitalist Realism
 
 _Capitalist Realism: Is There No Alternative?_ by Mark Fisher...
@@ -500,7 +527,7 @@ subvert the current system of economic perticipation.
 C: an example of the Symbolic (Zizek) is given, through PR, branding, and advertising
 the corporation's true nature is _sheathed_:
 
-> Ratner precisely tried to circumvent the Smbolic and "tell it how it is,"
+> Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
 > describing the inexpensive jewelry his shops sold as "crap" in an
 > after-dinner speech. But the consequence of Ratner making this judgment
 > _official_ were immediate, and serious - £500m  was wiped off the value of
@@ -515,6 +542,9 @@ the realities and the symbols are abstractions we create to refer to the
 grounds, but controversially, there exist symbols without any grounds at
 all--this is the Big Other. The little other is perhap those with very real
 grounds--neighbors, fellow citizens, enemies, friends, peers, lovers, etc.
+The "symbolic" is
+
+https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/
 
 ## The Starfish and the Spider
 
