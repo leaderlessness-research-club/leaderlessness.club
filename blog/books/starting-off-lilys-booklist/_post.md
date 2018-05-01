@@ -4,11 +4,13 @@ authors: Lily Mayfield
 
 # Starting Off: Lily's Booklist
 
-Here are some books I have in my possession as of now, of which I hope will
-provide LRC in with newfound perspective their organizational research theory
-goal of creating an informed proposal for an Internet-based group
-decision-making process, which we will develop into an app. I also hope these
-books will become part of the LRC book club!
+I am summarizing knowledge from books I've read recently, while offering my own
+conclusion. I hope that not only will this booklist provide quality suggestions
+for the LRC's book club. I also hope that my book/overall summaries and book/overall
+conclusions will bring the LRC closer to its goal of bringing newfound
+organizational research theory perspective for leaderlessness, ultimately
+aiding LRC in creating an informed proposal for an Internet-based group
+decision-making process, to be developed into a web app.
 
 For each book I'll try to provide:
 
@@ -16,27 +18,16 @@ For each book I'll try to provide:
   * The authors
   * Why I chose this book/found it relevant to LRC
   * How I found out about the book
-  * Where to get the book
+  * Eventually I'll add links later if more thorough blog posts are made about
+    them
 
-Here are some places I like to buy books from:
-
-  * [May Day Books](http://maydaybookstore.org/): "Located in the exciting West
-    Bank community in Minneapolis, May Day Books is a volunteer collective
-    dedicated to selling left-wing literature." Since 1975.
-  * [Magers & Quinn Booksellers](https://www.magersandquinn.com/)
-  * [Amazon](https://smile.amazon.com/)
-
-Some general takeaways I've gotten from all these booked combined:
-
-  * The _ideology_ (as Zizek uses the word) of statism infects our imagination
-    (Capitalist Realism) and thus creates a reflection of itself across a
-    fractal of society. From pedegogical ideology (The Ignorant Schoolmaster) to
-    our anthropology (Fragments of an Anarchist Anthropology) and thus the lense
-    through which we both exhume history (Hellenistic History and Culture) and
-    document living history (Writing Culture).
-
-I will provide fuller analyses in their own blog posts and update this post
-with links to the articles for each book/section.
+A general takeaway of this booklist is that the _ideology_ (as Zizek uses the
+word) of statism infects our imagination (Capitalist Realism) and thus creates
+a reflection of itself across a fractal of society. From pedegogical ideology
+(The Ignorant Schoolmaster) to our anthropology (Fragments of an Anarchist
+Anthropology) and thus the lense through which we both exhume history
+(Hellenistic History and Culture) and document living history (Writing
+Culture).
 
 ## Background
 
