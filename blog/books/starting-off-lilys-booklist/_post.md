@@ -38,7 +38,84 @@ Some general takeaways I've gotten from all these booked combined:
 I will provide fuller analyses in their own blog posts and update this post
 with links to the articles for each book/section.
 
-## BAD CRUST
+## Background
+
+Hypatia Software Organization is a system fostering mutual aid, generative
+justice, that is outreach and ideological-warming, independent, but within
+current capitalist statist modes of production. "Warming" as in the boiling
+frog, whereby people not necessarily aware of the ideology support it
+indirectly, whereby "socialism" is a call for communism within a Capitalist
+Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
+Realism." This warming gradually becomes a completely anarchist form of
+governance and commodity production.
+
+C: FOSS/web projects are moved by emergent social interactions, rather than
+traditional corporate structures.
+
+C: We have a decent initial target, FOSS advocates, for whom a leaderless system
+could be considered more palatable then most other types of people simply from
+prior exposure to emergent patterns and how they craft software.  I think
+Licklider also had things to say about this kind of emergent activity if you
+look hard enough, and cyberneticians also came close to it tho they reasoned
+more in terms of "how can we quantify and automate the breadth of already
+existing human knowledge" rather then focusing on emergent activity
+specifically.
+
+C: This also helps to provide an alternative to the naive
+libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
+about how I'm helping these poor poc queers while ignoring everyone else"
+mindset that seems to be endemic in silicon valley politics
+
+C: I encountered "leaderlessness" after witnessing representation causing
+misrepresentation. I was working with Hypatia Software Organization which whose
+Board of Directors attempted to remove the cash relief program, or at least,
+make the conditions for cash assistance more strict (this was largely because
+of a particular homeless member). I realized that this shocking display of
+class-ignorance signified the disconnect with the members they were supposed to
+benefit, and consensus, to me, was a clear solution to this problem. I hadn't
+known at the time, but incorporating all member's voices through consensus was
+an anarchist component. It was this which lead me to "leaderlessness" (a less
+misunderstood and feared term than "anarchy").  David Graeber defines
+"revolutionary action" in _Fragments of an Anarchist Anthropology_ as:
+
+> A revolution on a world scale will take a very long time. But it is also
+> possible to recognize that it is already starting to happen. The easiest way
+> to get our minds around it is to stop thinking about revolution as a
+> thing--"the" revolution, the great catacylsmic break--and instead ask "what
+> is revolutionary action?" We could then suggest: revolutionary action is any
+> collective action which rejects and therefore confronts, some power of
+> domination and in doing so, reconstitutes social relations--even within the
+> collectivity--in that light. Revolutionary action does not necessarily have
+> to aim to topple governments. Attempts to create autonomous communities in
+> the face of power (using Castoriadis' definition here: ones that constitute
+> themselves, collectively make their own rules or principles of operation, and
+> continually reexamine them), would, for instance, be almost by definition
+> revolutionary acts. And history shows us that the continual accumulation of
+> such acts can change (almost) everything.
+
+C: The way I'm trying perform my own "revolutionary action" is to push the
+paradigm of leaderless systems.
+
+C: I absolutely think graeber is taking the right approach here, particularly as
+breaking into underprivileged communities and working with them to improve
+their situations is concerned.
+
+C: With hypatia there was an underlying class/trans intersection I was trying to
+address and anarchy is a natural conclusion.  all roads lead to rome; those
+paths of mutual aid, consensus, etc.
+
+C: I think hypatia is a pretty good example of mutual aid in action but we can do
+a lot better (even for an organization with hypatias stated goals) given what
+we know now and what we learned from it And that's part of why I like the
+leaderlessness venture so much It provides a way to generalize these patterns
+in an approachable way so that other organizations can apply them to things
+thus far completely outside of our consideration.  And in fact I would argue
+that this is the necessary conclusion of it, since a bunch of ragtag trans
+people (as we are) can't handle every single possible idea that can have these
+patterns applied to them without resorting to some kind of hierarchical system
+that would degenerate them slowly from the inside out
+
+## Maybe delete?
 
 "Realism," of making global decisions. capitalist realism provides a language
 framework for describing "realism" which is similar to zizek's "ideology" i.e.,
@@ -47,7 +124,7 @@ life without capitalism, the saying "well capitalism isnt great but its better
 than anything else!" which is a reductive and gross simplification of the
 concept but its in the right ballpark.
 
-## Q&A style notes (maybe rehashed into summaries? or leave this as is?)
+## Questions & answers
 
 Q: Are all these political? Tyranny of Structurelessness, The Politics of
 Fear, Writing Culture, etc., give me that impression.
@@ -262,83 +339,6 @@ becomes an inevitability, so did Marxism entering the sphere introduce to the
 public acceptance of "socialism," and a possibility of someone like Bernie
 Sanders (though this again is in the "worst excesses" thing we talked about
 earlier, this surely exemplifies what I speak of here).
-
-## Background
-
-Hypatia Software Organization is a system fostering mutual aid, generative
-justice, that is outreach and ideological-warming, independent, but within
-current capitalist statist modes of production. "Warming" as in the boiling
-frog, whereby people not necessarily aware of the ideology support it
-indirectly, whereby "socialism" is a call for communism within a Capitalist
-Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
-Realism." This warming gradually becomes a completely anarchist form of
-governance and commodity production.
-
-C: FOSS/web projects are moved by emergent social interactions, rather than
-traditional corporate structures.
-
-C: We have a decent initial target, FOSS advocates, for whom a leaderless system
-could be considered more palatable then most other types of people simply from
-prior exposure to emergent patterns and how they craft software.  I think
-Licklider also had things to say about this kind of emergent activity if you
-look hard enough, and cyberneticians also came close to it tho they reasoned
-more in terms of "how can we quantify and automate the breadth of already
-existing human knowledge" rather then focusing on emergent activity
-specifically.
-
-C: This also helps to provide an alternative to the naive
-libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
-about how I'm helping these poor poc queers while ignoring everyone else"
-mindset that seems to be endemic in silicon valley politics
-
-C: I encountered "leaderlessness" after witnessing representation causing
-misrepresentation. I was working with Hypatia Software Organization which whose
-Board of Directors attempted to remove the cash relief program, or at least,
-make the conditions for cash assistance more strict (this was largely because
-of a particular homeless member). I realized that this shocking display of
-class-ignorance signified the disconnect with the members they were supposed to
-benefit, and consensus, to me, was a clear solution to this problem. I hadn't
-known at the time, but incorporating all member's voices through consensus was
-an anarchist component. It was this which lead me to "leaderlessness" (a less
-misunderstood and feared term than "anarchy").  David Graeber defines
-"revolutionary action" in _Fragments of an Anarchist Anthropology_ as:
-
-> A revolution on a world scale will take a very long time. But it is also
-> possible to recognize that it is already starting to happen. The easiest way
-> to get our minds around it is to stop thinking about revolution as a
-> thing--"the" revolution, the great catacylsmic break--and instead ask "what
-> is revolutionary action?" We could then suggest: revolutionary action is any
-> collective action which rejects and therefore confronts, some power of
-> domination and in doing so, reconstitutes social relations--even within the
-> collectivity--in that light. Revolutionary action does not necessarily have
-> to aim to topple governments. Attempts to create autonomous communities in
-> the face of power (using Castoriadis' definition here: ones that constitute
-> themselves, collectively make their own rules or principles of operation, and
-> continually reexamine them), would, for instance, be almost by definition
-> revolutionary acts. And history shows us that the continual accumulation of
-> such acts can change (almost) everything.
-
-C: The way I'm trying perform my own "revolutionary action" is to push the
-paradigm of leaderless systems.
-
-C: I absolutely think graeber is taking the right approach here, particularly as
-breaking into underprivileged communities and working with them to improve
-their situations is concerned.
-
-C: With hypatia there was an underlying class/trans intersection I was trying to
-address and anarchy is a natural conclusion.  all roads lead to rome; those
-paths of mutual aid, consensus, etc.
-
-C: I think hypatia is a pretty good example of mutual aid in action but we can do
-a lot better (even for an organization with hypatias stated goals) given what
-we know now and what we learned from it And that's part of why I like the
-leaderlessness venture so much It provides a way to generalize these patterns
-in an approachable way so that other organizations can apply them to things
-thus far completely outside of our consideration.  And in fact I would argue
-that this is the necessary conclusion of it, since a bunch of ragtag trans
-people (as we are) can't handle every single possible idea that can have these
-patterns applied to them without resorting to some kind of hierarchical system
-that would degenerate them slowly from the inside out
 
 ## Can the Subaltern Speak
 
