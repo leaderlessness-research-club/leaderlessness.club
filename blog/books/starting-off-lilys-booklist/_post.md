@@ -15,7 +15,7 @@ decision-making process, to be developed into a web app.
 For each book I'll try to provide:
 
   * A summary
-  * The authors
+  * The author(s)
   * Why I chose this book/found it relevant to LRC
   * How I found out about the book
   * Eventually I'll add links later if more thorough blog posts are made about
@@ -54,34 +54,22 @@ Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
 Realism." This warming gradually becomes a completely anarchist form of
 governance and commodity production.
 
-C: FOSS/web projects are moved by emergent social interactions, rather than
+FOSS/web projects are moved by emergent social interactions, rather than
 traditional corporate structures.
+FOSS advocates were a good initial target, for whom a leaderless system
+could be considered more palatable then most other types, simply due to
+prior exposure to emergent patterns and how they craft software.
 
-C: We have a decent initial target, FOSS advocates, for whom a leaderless system
-could be considered more palatable then most other types of people simply from
-prior exposure to emergent patterns and how they craft software.  I think
-Licklider also had things to say about this kind of emergent activity if you
-look hard enough, and cyberneticians also came close to it tho they reasoned
-more in terms of "how can we quantify and automate the breadth of already
-existing human knowledge" rather then focusing on emergent activity
-specifically.
+I was confronted by classism within Hypatia, ironic considering its intentions,
+when there was a push by the Board of Directors to remove or restrict the cash
+relief program, largely due to a particular homeless beneficiary. I saw this
+disconnect as the inherent misrepresentation of representation. The path I used
+to actually represent member's voices was to actually incorporate their voices:
+consensus. Consensus is an anarchist component, and as I studied it more I
+finally arrived at _leaderlessness_.
 
-C: This also helps to provide an alternative to the naive
-libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
-about how I'm helping these poor poc queers while ignoring everyone else"
-mindset that seems to be endemic in silicon valley politics
-
-C: I encountered "leaderlessness" after witnessing representation causing
-misrepresentation. I was working with Hypatia Software Organization which whose
-Board of Directors attempted to remove the cash relief program, or at least,
-make the conditions for cash assistance more strict (this was largely because
-of a particular homeless member). I realized that this shocking display of
-class-ignorance signified the disconnect with the members they were supposed to
-benefit, and consensus, to me, was a clear solution to this problem. I hadn't
-known at the time, but incorporating all member's voices through consensus was
-an anarchist component. It was this which lead me to "leaderlessness" (a less
-misunderstood and feared term than "anarchy").  David Graeber defines
-"revolutionary action" in _Fragments of an Anarchist Anthropology_ as:
+David Graeber defines "revolutionary action" in _Fragments of an Anarchist
+Anthropology_ as:
 
 > A revolution on a world scale will take a very long time. But it is also
 > possible to recognize that it is already starting to happen. The easiest way
@@ -98,12 +86,10 @@ misunderstood and feared term than "anarchy").  David Graeber defines
 > revolutionary acts. And history shows us that the continual accumulation of
 > such acts can change (almost) everything.
 
-C: The way I'm trying perform my own "revolutionary action" is to push the
-paradigm of leaderless systems.
-
-C: I absolutely think graeber is taking the right approach here, particularly as
+I absolutely think graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
-their situations is concerned.
+their situations is concerned. That is, I'm performing my own "revolutionary
+action" by pushing the _reality_ of leaderless systems.
 
 ## Maybe delete?
 
@@ -113,6 +99,20 @@ things we don't know we know . capitalist realism means that we can't imagine
 life without capitalism, the saying "well capitalism isnt great but its better
 than anything else!" which is a reductive and gross simplification of the
 concept but its in the right ballpark.
+
+c: I think
+Licklider also had things to say about this kind of emergent activity if you
+look hard enough, and cyberneticians also came close to it tho they reasoned
+more in terms of "how can we quantify and automate the breadth of already
+existing human knowledge" rather then focusing on emergent activity
+specifically.
+
+C: This also helps to provide an alternative to the naive
+libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
+about how I'm helping these poor poc queers while ignoring everyone else"
+mindset that seems to be endemic in silicon valley politics
+
+
 
 ## Questions & answers
 
