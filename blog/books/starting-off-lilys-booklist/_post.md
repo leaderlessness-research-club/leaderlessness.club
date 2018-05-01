@@ -29,7 +29,9 @@ Anthropology) and thus the lense through which we both exhume history
 (Hellenistic History and Culture) and document living history (Writing
 Culture).
 
-## Background
+## Preface
+
+### Background
 
 I founded [Hypatia Software Organization](http://hypatiasoftware.org) some
 years ago to help with addressing the class/trans femme intersection. In
@@ -91,7 +93,7 @@ breaking into underprivileged communities and working with them to improve
 their situations is concerned. That is, I'm performing my own "revolutionary
 action" by pushing the _reality_ of leaderless systems.
 
-## Maybe delete?
+### Maybe delete?
 
 "Realism," of making global decisions. capitalist realism provides a language
 framework for describing "realism" which is similar to zizek's "ideology" i.e.,
@@ -112,9 +114,7 @@ libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
 about how I'm helping these poor poc queers while ignoring everyone else"
 mindset that seems to be endemic in silicon valley politics
 
-
-
-## Questions & answers
+### Questions & answers
 
 Q: Are all these political? Tyranny of Structurelessness, The Politics of
 Fear, Writing Culture, etc., give me that impression.
