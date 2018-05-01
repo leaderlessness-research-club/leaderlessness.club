@@ -511,21 +511,74 @@ of outmoded grand narratives of *sexual* opression.
 
 ## Capitalist Realism
 
-_Capitalist Realism: Is There No Alternative?_ by Mark Fisher...
-My introduction to Zizek, as the book references his works many times...
-Recommended to me by a friend at LRC.
+_Capitalist Realism: Is There No Alternative?_ by Mark Fisher illustrates an
+imagination landscape infected by capitalist _ideology_ (one of many terms
+borrowed from Zizek's language). Recommended to me by a friend at LRC. I
+thought this book would be relevant to LRC because it introduces many
+frameworks useful in deciphering our preconceptions about systems of
+organization. The book is on capitalism, but it is easily appropriated to a
+number of things.
 
-C: capitalist realism poses the possibility that capitalism is that vehicle of
+Capitalist Realism poses that capitalism perpetuates itself on _ideology_ and
+_symbolic efficiency_ (Zizek). "Ideology," as Zizek defines it, is easily
+understood through his amusing example of Rumsfeld's amateur philosophizing,
+i.e., "There are known knowns. These are the things we know that we know. There
+are known unknowns.  That is to say, there are things we know we don't know.
+But there are also unknowns. There are things we don't know we don't know."
+Zizek highlights a missing term: the "unknown knowns," the things we don't know
+that we know. _Symbolic Efficiency_ is best described by Zizek himself through
+a joke and an anecdote ([The Big Other Doesn't Exist, Journal of European
+Psychoanalysis, 1997](http://www.lacan.com/zizekother.htm)):
+
+> We all know the old, worn-out joke about a madman who thought he was a grain
+> of corn; after being finally cured and sent home, he immediately returned to
+> the mental institution, explaining to the doctor his panic: "On the road, I
+> encountered a hen, and I was afraid it would eat me!" To the doctor's
+> surprised exclamation, "But what's the problem now? You know you're not a
+> grain but a man who cannot be swallowed by a hen!", the madman answered "Yes,
+> I know I am no longer a grain, but does the hen know it?"... This story,
+> nonsensical at the level of factual reality where you either are a grain or
+> not, is fully sensible if one replaces "grain" with some feature which
+> determines my symbolic identity.
+>
+> [...]
+>
+> A friend of mine was approached for
+> help by an elderly lady from his local constituency. She was convinced that
+> the street number of her house [...] was bringing her
+> bad luck the moment her house was assigned this new number due to some
+> administrative reorganization, misfortunes had started to afflict her
+> (burglers broke in, a storm tore through the roof, neighbors began to annoy
+> her...). She kindly asked [...] to arrange with
+> the municipal authorities for the number to be changed. My friend made a
+> simple suggestion to the lady: why didn't she do it herself? Why didn't she
+> simply repaint or replace the plate with a different number (say, 23A or 231
+> instead of 23)? The old lady answered: "Oh, I tried that a couple of weeks
+> ago, I added an A to 23, but it doesn't work, the misfortunes continue you
+> cannot cheat it, it has to be done properly, by the responsible state
+> institution...". The "it" which cannot be duped is, of course, the "big
+> Other" of the symbolic institution. Symbolic efficiency is thus about this
+> minimum of "reification": to become operative, it is not enough for all
+> concerned individuals to know some fact; "it," the symbolic institution, must
+> also know/"register" this fact. This "it," of course, can ultimately be
+> embodied in the gaze of the absolute "big Other," God Himself. Do we not
+> encounter exactly the same problem as that of unfortunate old lady with those
+> Catholics who, in order to avoid unwanted pregnancy, have intercourse only on
+> days with no ovulation? Whom are they cheating, as if God could not know
+> their desire for pleasurable sex without procreation?
+
+Capitalist realism poses the possibility that capitalism is that vehicle of
 opression which perpetuates itself on ideology (Zizek). That it is both the
-pulse of impulsive boundless hedonism and the utility of _efficiency
-symbolism_ which our minds excuse the contradictions of our participation with
-our own known-ideology, our known-ideology subverted by true ideology--that
-which we do not know we know, but that even in knowing it only goes so far for
-the true predicament is a real, concrete system which will be used and thus
-subvert the current system of economic perticipation.
+pulse of impulsive boundless hedonism and the utility of _efficiency symbolism_
+which our minds excuse the contradictions of our participation with our own
+known-ideology, our known-ideology subverted by true ideology--that which we do
+not know we know, but that even in knowing it only goes so far [for the true
+predicament is a real, concrete system which will be used and thus subvert the
+current system of economic perticipation.]
 
-C: an example of the Symbolic (Zizek) is given, through PR, branding, and advertising
-the corporation's true nature is _sheathed_:
+Another example of Zizek's language, "the Symbolic," is given, illustrated
+through PR, branding, and advertising, whereby the corporation's true nature is
+_sheathed_:
 
 > Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
 > describing the inexpensive jewelry his shops sold as "crap" in an
@@ -542,7 +595,10 @@ the realities and the symbols are abstractions we create to refer to the
 grounds, but controversially, there exist symbols without any grounds at
 all--this is the Big Other. The little other is perhap those with very real
 grounds--neighbors, fellow citizens, enemies, friends, peers, lovers, etc.
-The "symbolic" is
+The "symbolic" is often used in this book to depict "efficiency symbolisms," a
+parallel drawn is Stalin's construction of a channel that was too shallow to be
+functional but nonetheless encompassed a gestural progressiveness, a gold star
+sticker.
 
 https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/
 
