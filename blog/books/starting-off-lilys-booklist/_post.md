@@ -40,6 +40,20 @@ with links to the articles for each book/section.
 
 ## Background
 
+I founded [Hypatia Software Organization](http://hypatiasoftware.org) some
+years ago to help with addressing the class/trans femme intersection. In
+retrospect, anarchy was a natural conclusion to a path of mutual aid and
+consensus. While I think Hypatia is a good example of mutual aid in action, I
+still think a lot better can be done given what we know now and what we learned
+from (and continue to learn from) that experience. In is this essence of why
+Leaderlessness Research Club is so important and amazing: it provides a way to
+generalize these patterns in an approchable way so that other organizations can
+apply them to things beyond our consideration.  In fact I would argue that this
+is the necessary conclusion of it, since a bunch of ragtag trans people (as we
+are) can't handle every single possible idea that can have these patterns
+applied to them without resorting to some kind of hierarchical system that
+would degenerate them slowly from the inside out.
+
 Hypatia Software Organization is a system fostering mutual aid, generative
 justice, that is outreach and ideological-warming, independent, but within
 current capitalist statist modes of production. "Warming" as in the boiling
@@ -99,21 +113,6 @@ paradigm of leaderless systems.
 C: I absolutely think graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
 their situations is concerned.
-
-C: With hypatia there was an underlying class/trans intersection I was trying to
-address and anarchy is a natural conclusion.  all roads lead to rome; those
-paths of mutual aid, consensus, etc.
-
-C: I think hypatia is a pretty good example of mutual aid in action but we can do
-a lot better (even for an organization with hypatias stated goals) given what
-we know now and what we learned from it And that's part of why I like the
-leaderlessness venture so much It provides a way to generalize these patterns
-in an approachable way so that other organizations can apply them to things
-thus far completely outside of our consideration.  And in fact I would argue
-that this is the necessary conclusion of it, since a bunch of ragtag trans
-people (as we are) can't handle every single possible idea that can have these
-patterns applied to them without resorting to some kind of hierarchical system
-that would degenerate them slowly from the inside out
 
 ## Maybe delete?
 
