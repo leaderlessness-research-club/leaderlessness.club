@@ -93,27 +93,6 @@ breaking into underprivileged communities and working with them to improve
 their situations is concerned. That is, I'm performing my own "revolutionary
 action" by pushing the _reality_ of leaderless systems.
 
-### Maybe delete?
-
-"Realism," of making global decisions. capitalist realism provides a language
-framework for describing "realism" which is similar to zizek's "ideology" i.e.,
-things we don't know we know . capitalist realism means that we can't imagine
-life without capitalism, the saying "well capitalism isnt great but its better
-than anything else!" which is a reductive and gross simplification of the
-concept but its in the right ballpark.
-
-c: I think
-Licklider also had things to say about this kind of emergent activity if you
-look hard enough, and cyberneticians also came close to it tho they reasoned
-more in terms of "how can we quantify and automate the breadth of already
-existing human knowledge" rather then focusing on emergent activity
-specifically.
-
-C: This also helps to provide an alternative to the naive
-libertarian/technocommunist/"fuck you I've got mine except let me virtue signal
-about how I'm helping these poor poc queers while ignoring everyone else"
-mindset that seems to be endemic in silicon valley politics
-
 ### Questions & answers
 
 Q: Are all these political? Tyranny of Structurelessness, The Politics of
@@ -405,13 +384,6 @@ The CODM model consists of seven steps:
   5. Choosing a direction
   6. Synthesizing a final proposal
 
-You can purchase _Consensus-Oriented Decision-Making_ from these stores:
-
-  * [Consensus-Oriented Decision-Making via Magers & Quinn
-    Booksellers](https://www.magersandquinn.com/index.php?main_page=product_info&products_id=2483842&isbn_id=5731604)
-  * [Consensus-Oriented Decision-Making via
-    Amazon](https://smile.amazon.com/gp/product/0865716897/)
-
 ## Hellenistic History and Culture
 
 _Hellenistic History and Culture_ by Peter Green begins with a forward on the
@@ -430,8 +402,6 @@ perspective from which the book extrapolates new information:
 
 This introduction reflects on how misrepresentation occurs through representation, a
 postcolonial theory thing which weaves into Writing Culture, ...
-
-https://smile.amazon.com/gp/product/0520075641/
 
 ## Capital
 
@@ -487,8 +457,6 @@ Ignorant Schoolmaster, and perhaps even Capitalist Realism, which poses what
 Zizek defined as "ideology:" that which we don't know we know; the systemic
 proliferation of statist, capitalist ideology into academia.
 
-https://smile.amazon.com/gp/product/0520266021/
-
 ## Fragments of an Anarchist Anthropology
 
 _Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
@@ -520,7 +488,33 @@ _Capitalist Realism: Is There No Alternative?_ by Mark Fisher...
 My introduction to Zizek, as the book references his works many times...
 Recommended to me by a friend at LRC.
 
-https://smile.amazon.com/gp/product/1846943175/
+C: capitalist realism poses the possibility that capitalism is that vehicle of
+opression which perpetuates itself on ideology (Zizek). That it is both the
+pulse of impulsive boundless hedonism and the utility of _efficiency
+symbolism_ which our minds excuse the contradictions of our participation with
+our own known-ideology, our known-ideology subverted by true ideology--that
+which we do not know we know, but that even in knowing it only goes so far for
+the true predicament is a real, concrete system which will be used and thus
+subvert the current system of economic perticipation.
+
+C: an example of the Symbolic (Zizek) is given, through PR, branding, and advertising
+the corporation's true nature is _sheathed_:
+
+> Ratner precisely tried to circumvent the Smbolic and "tell it how it is,"
+> describing the inexpensive jewelry his shops sold as "crap" in an
+> after-dinner speech. But the consequence of Ratner making this judgment
+> _official_ were immediate, and serious - £500m  was wiped off the value of
+> the company and he lost his job. Customers might previously have known that
+> the jewelry Ratners sold was poor quality, but the big Other didn't know; as
+> soon as it did, Ratners collapsed.
+
+The "Big Other" are the abstractions we create, those collections of social
+conventions, codes, norms, laws, etc. George Boole used a linguistic framework
+to identify grounds and symbols in The Laws of Thought, whereas the grounds are
+the realities and the symbols are abstractions we create to refer to the
+grounds, but controversially, there exist symbols without any grounds at
+all--this is the Big Other. The little other is perhap those with very real
+grounds--neighbors, fellow citizens, enemies, friends, peers, lovers, etc.
 
 ## The Starfish and the Spider
 
