@@ -374,7 +374,7 @@ thought it was important to make such a process easily replicatable and usable.
 David Graeber defines _revolutionary action_ in _Fragments of an Anarchist
 Anthropology_ as direct action which subverts
 the necessity for the state, the application of real leaderless solutions, and the
-proposal of such systems, in fact David graber states:
+proposal of such systems, in fact David Graeber states:
 
 > It’s not just that anarchism does not tend to have much use for high
 > theory.  It’s that it is primarily concerned with forms of pracice; it insists,
