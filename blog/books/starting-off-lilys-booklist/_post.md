@@ -5,12 +5,11 @@ authors: Lily Mayfield
 # Starting Off: Lily's Booklist
 
 I am summarizing knowledge from books I've read recently, while offering my own
-conclusion. I hope that not only will this booklist provide quality suggestions
-for the LRC's book club. I also hope that my book/overall summaries and book/overall
-conclusions will bring the LRC closer to its goal of bringing newfound
-organizational research theory perspective for leaderlessness, ultimately
-aiding LRC in creating an informed proposal for an Internet-based group
-decision-making process, to be developed into a web app.
+interpretation. I hope that not only will this booklist provide quality
+suggestions for the LRC's book club, but that my summaries and conclusions will
+bring the LRC closer to its goal of creating an informed proposal for an
+Internet-based group decision-making process, in other words, a collective
+management system, to then be developed into a web app.
 
 For each book I'll try to provide:
 
