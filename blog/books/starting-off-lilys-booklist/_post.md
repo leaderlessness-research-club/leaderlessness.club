@@ -509,6 +509,16 @@ Possibly in the vein of queer theory: where bisexuals are caught between due to
 outmoded grand narratives of sexuality opression, TERFs exist in the same vein
 of outmoded grand narratives of *sexual* opression.
 
+## The Society of the Spectacle
+
+_The Society of the Spectacle_ by Guy Debord (book, 1967)...
+
+There's even a Film by the same name that Guy Debord made:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IoUIHBSiVAY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Capitalist Realism
 
 _Capitalist Realism: Is There No Alternative?_ by Mark Fisher illustrates an
