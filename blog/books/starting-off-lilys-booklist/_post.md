@@ -1,6 +1,6 @@
 timestamp: 2018-04-28
 title: Lily's Initial Booklist
-authors: Lily Mayfield
+authors: Lily Mayfield (Author), Grumbly (Editor)
 
 # Starting Off: Lily's Booklist
 
