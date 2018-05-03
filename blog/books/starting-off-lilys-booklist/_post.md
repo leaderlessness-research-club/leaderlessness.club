@@ -227,38 +227,6 @@ perspective from which the book extrapolates new information:
 This introduction reflects on how misrepresentation occurs through representation, a
 postcolonial theory thing which weaves into Writing Culture, ...
 
-## Capital
-
-"Das Kapital" by Marx...
-
-How could I *not* hear about this?
-
-Maybe delete this?
-
-## Mutual Aid
-
-_Mutual Aid: A Factor in Evolution_ by Peter Kropotkin...
-
-I'm not sure if i heard about this through Brian Callahan first or simply
-because its one fo the major anarchist texts...
-
-Maybe delete this?
-
-## Grey Eminence
-
-_Grey Eminence_ by Aldous Huxley...
-
-I heard of this through a Zizek talk...
-
-## Bartleby, the Scrivener
-
-_Bartleby, the Scrivner: A Story of Wall Street_ by Herman Melville...
-
-Became interested in revisiting this after Zizek... I had watched the Crispen
-Glvoer movie of the same title...
-
-http://myheartwillgoonandsoonandsoon.blogspot.com/2017/05/i-would-prefer-not-to-is-to-be-taken.html
-
 ## The Politics of Fear
 
 _The Politics of Fear: What Right-Wing Populist Discourses Mean_ by Ruth
@@ -512,6 +480,11 @@ Quite specifically aids in LRC's goal...
 ## Other Good Reads
 
   * Foucault
+  * Das Kapital by Marx
+  * Mutual Aid by Kropotkin
+  * _Grey Eminence_ by Aldous Huxley...
+  * Bartleby the Scrivner, see also this article by Zizek:
+    http://myheartwillgoonandsoonandsoon.blogspot.com/2017/05/i-would-prefer-not-to-is-to-be-taken.html
 
 ## Questions & answers
 
