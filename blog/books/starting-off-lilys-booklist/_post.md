@@ -112,7 +112,7 @@ Anthropology_ as:
 > revolutionary acts. And history shows us that the continual accumulation of
 > such acts can change (almost) everything.
 
-I absolutely think graeber is taking the right approach here, particularly as
+I absolutely think Graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
 their situations is concerned. That is, I'm performing my own "revolutionary
 action" by pushing the _reality_ of leaderless systems.
@@ -131,10 +131,32 @@ movment, but I believe the bigger takeaway underlines the importance of formal
 systems of organization. My friend Xax told me about this article some years
 ago.
 
-Formal and informal structures, "there is no such thing as a structureless
-group."
+"There's no such thing as structureless group," Jo Freeman poses that there are
+only formal and informal structures and that structurelessness (informal
+structure) only serves to mask power:
 
-Nature of elitism...
+> A "laissez faire" group is about as realistic as a "laissez faire" society;
+> the idea becomes a smokescreen for the strong or the lucky to establish
+> unquestioned hegemony over others. This hegemony can be so easily established
+> because the idea of "structurelessness" does not prevent the formation of
+> informal structures, only formal ones. Similarly "laissez faire" philosophy
+> did not prevent the economically powerful from establishing control over
+> wages, prices, and distribution of goods; it only prevented the government
+> from doing so.
+
+The informal structure (especiall of of unstructured groups) forms the basis for elites.
+An elite is a small group of people who have power over a larger group which
+they are part, usually without direct responsibility to that larger group,
+often without their knowledge or consent.  (REWORD: pagerism)
+Freeman illustrates elitism as nepotism: that people with external friendships
+to each other will have communication networks, consulting each other in
+decisions, often sharing in the same values and orientations not even by
+conspiracy, those involved with these networks will have more power than those
+who don't. Sometimes two or more of such "networks" or "friend groups" will
+compete for power within the group. Informal communication networks are
+invitably exclusive and elitist. A comparison is drawn that informal systems of
+male-hedgamony are one such network of elites, and that much struggle in
+women's movement has been to formalize the inclusion of women..? 
 
 Political impotence and principles of democratic structuring.... some key points I found relevant:
 
@@ -146,6 +168,11 @@ Political impotence and principles of democratic structuring.... some key points
   * Allocation of tasks along rational criteria.
   * Diffusion of information to everyone as frequently as possible.
   * Equal access to resources needed by the group.
+  * Structure of the group formalized
+  * Everyone is aware of the rules of how decisions are made; open and
+    available to everyone
+  * For everyone to have the opportunity to participate the structure must be
+    explicit (formalize the rules!)
 
 [The Tyranny of Structurelessness on Jo Freeman's website](http://www.jofreeman.com/joreen/tyranny.htm)
 
