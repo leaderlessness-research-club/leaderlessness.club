@@ -131,6 +131,22 @@ movment, but I believe the bigger takeaway underlines the importance of formal
 systems of organization. My friend Xax told me about this article some years
 ago.
 
+Formal and informal structures, "there is no such thing as a structureless
+group."
+
+Nature of elitism...
+
+Political impotence and principles of democratic structuring.... some key points I found relevant:
+
+  * Task oriented
+  * High degree of communication
+  * Delegation, including responsibility for whatever delegated
+  * Distribution of authority
+  * Rotation of tasks among individuals
+  * Allocation of tasks along rational criteria.
+  * Diffusion of information to everyone as frequently as possible.
+  * Equal access to resources needed by the group.
+
 [The Tyranny of Structurelessness on Jo Freeman's website](http://www.jofreeman.com/joreen/tyranny.htm)
 
 ## Consensus-Oriented Decision-Making
