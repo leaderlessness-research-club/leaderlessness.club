@@ -12,7 +12,7 @@ How we achieve our mission:
   * Facilitate discussions, offer presentations, and create general public
     events regarding implementing and experimenting with leaderless
     organization AKA collective management.
-  * Offer feasible guides on implementation of great reductions of bureaocracy
+  * Offer feasible guides on implementation of great reductions of bureaucracy
   * Offer guides on eschewing surveillance in regard to business ontologies,
     how do withdrawal forms of labor which managerialism cannot do without
   * Publish original collective management implementation manuals and guidebooks,
