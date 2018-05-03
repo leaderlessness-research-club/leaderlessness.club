@@ -5,6 +5,6 @@
 </head>
 <body>
 {{ content }}
-<p>Posted on: {{ timestamp }} in <a href="/blog/{{ category }}">{{ category }}</a>!</p>
+<p>Posted on: {{ timestamp }} in <a href="/blog/{{ category }}">{{ category }}</a> by {{ authors }}!</p>
 </body>
 </html>
