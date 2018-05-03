@@ -600,7 +600,72 @@ parallel drawn is Stalin's construction of a channel that was too shallow to be
 functional but nonetheless encompassed a gestural progressiveness, a gold star
 sticker.
 
-https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/
+"Disavowed responsibility," a bureaucratic enjoyment "Sorry, I have not been
+informed, so I can't help you" ties into the "registering of the big Other," a
+sentiment, "It's not me, I'm afraid, its' the regulations," similar to
+Graeber's words on "policy" in Fragments of an Anarchist Anthropology. 
+Kafka illustrates the structure of disavowal inherent to bureaucracy: the quest
+to reach the ultimate authority who will finally resolve k's official status
+can never end, because the big Other cannot be encountered in itself: there are
+only officials, more or less hostile, engaged in acts of intepretation about
+what the big Other's intentions are. And these acts of interpretation, these
+deferals of responsibility, are all the big Other is.
+
+There is no need for the place of surveillance to actually be occupied (from
+managerial to self-survelleince as with teachers). The effect of knowing
+whether you will observed or not produces introspection of the surveilleince
+apparatus... The Society of the Spectator is useful in understanding this.
+Graded not on quality but diligence as a bureaucrat, it is thus symbolic
+efficiency.
+
+Zimbardo's notorious experiment, his sentiments there, are echoed here: there
+are certainly conspiracies in capitalism, but the problem is that they are
+themselves only possible because deeper level structures allow them to
+function. Does anyone really think, for instance, that things would improve if
+we replaced the whole managerial and banking class with a whole new set of
+("better") eople? Surely, on the contrary, it is evident that the vices are
+engendered by the structure, and that while the structure remains the vices
+will reproduce themselves.
+
+2008 banking crisis exemplifies the role of symbolic efficiency in capitalism
+realism--that while we know this was a failure of capitalism, it is not
+registered by the big Other: we are aware that capitalism is that kernel of
+corn, and yet we tell ourselves "but does the (big) other know?" And since it
+has not been registered it remains.
+
+Failure of left to produce viable alternative. The left, for example, should
+argue that it can deliver what neoliberalism has failed to do: a massive
+reduction of bureaucracy. What is needed is a new struggle over work and who
+controls it: an assertion of worker autonomy (as opposed to control by
+management) together witha rejection of certain kinds of labor (such as
+auditing, which has become so central feature of work in post-fordism). It is
+an open question as to whether old structures (such as trad eunions) will be
+capable of nurturing that subjectivity, or whether it will entail the formation
+of wholly new political organizations.
+New forms of industrial action needed to be instituted against managerialism.
+For instance, the tactic of (teacher strikes) were pretty much welcomed by
+management. What is, instead, required is strategic withdrawal of forms of
+labor which will only be noticed by the management which have no effect on the
+dlivery... but which managerialism cannot do without.
+
+Begin to rid (eschew) public services of business ontology. When businesses
+cant be ran as a business, why should public services? (???)
+
+The unhealthiness of these systems.
+
+It is clear that consumer self-regulation and the market will not by themselves
+avert environmental catastrophe. Unlimited license (re: ceaseless "progress" in
+hedonism) leads to misery & disaffectionment, then limitations placed on desire
+are likely to quicken, rather than deaden, it. In any case, rationing of some
+sort is inevitable. The issue is whether it will be collectively managed, or
+wheter it will be imposed by authoritarian means when it is already too late.
+Quite what forms this collective management should take is an open question,
+one that can only be resolved practically and experimentally. Which I believe
+is exactly what Leaderlessness Research Club is all about.
+
+Related reads:
+
+  * [Three Short Essays on Zizek](https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/)
 
 ## The Starfish and the Spider
 

@@ -1,21 +1,24 @@
 # LRC: Leaderlessness Research Club
 
-**Our mission** is to make leaderlessness accessible and practical for all
-scales of organization, from informal collectives to large formal businesses by
-increasing the awareness and amount of information supporting this goal.
+**Our mission** is to practically implement and experiment with forms of
+collective management, paving the path for other organizations to follow.
 
 How we achieve our mission:
 
-  * Conduct and publish field research and general materials regarding
-    leaderless organization
-  * Facilitate discussion, presentations, events on the topic of leaderless
-    organization, and make summaries available to general public
-  * Increase accessibility of new/original and pre-existing materials on leaderlessness
-  * Write about running leaderless organizations, e.g., decision-making
-    process, proposal building, law, experiences/anecdotes
-  * Answer public questions on leaderlessness
-  * Create reports, publish research finding
-  * Dogfood/experiment with LRC's formalized proposals for group
-    decision-making models, based on LRC's research
+  * Conduct and publish field research on existing forms of leaderless
+    organization
+  * Create and publish summaries, critiques, and reviews of existing materials
+    on forms and anthropologies of (hopefully implementable) collective management
+  * Facilitate discussions, offer presentations, and create general public
+    events regarding implementing and experimenting with leaderless
+    organization AKA collective management.
+  * Offer feasible guides on implementation of great reductions of bureaocracy
+  * Offer guides on eschewing surveillance in regard to business ontologies,
+    how do withdrawal forms of labor which managerialism cannot do without
+  * Publish original collective management implementation manuals and guidebooks,
+    report on experiments regarding our real world example-implementations of
+    these manuals and guidebooks, from the high level overall system to the
+    components (like consensus)
+  * Answer public questions on leaderlessness implementation
 
 Interested in learning more? [Join our Discord!](https://discord.gg/bBP3cU)
