@@ -5,8 +5,8 @@ collective management, paving the path for other organizations to follow.
 
 How we achieve our mission:
 
-  * Conduct and publish field research on existing forms of collective
-    management
+  * Conduct and publish field research on existing organizations using
+    collective management
   * Create and publish summaries, critiques, and reviews of existing materials
     on forms and anthropologies of (hopefully implementable) collective management
   * Facilitate discussions, offer presentations, and create general public
