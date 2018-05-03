@@ -20,13 +20,28 @@ For each book I'll try to provide:
   * Eventually I'll add links later if more thorough blog posts are made about
     them
 
-A general takeaway of this booklist is that the _ideology_ (as Zizek uses the
-word) of statism infects our imagination (Capitalist Realism) and thus creates
-a reflection of itself across a fractal of society. From pedegogical ideology
-(The Ignorant Schoolmaster) to our anthropology (Fragments of an Anarchist
-Anthropology) and thus the lense through which we both exhume history
-(Hellenistic History and Culture) and document living history (Writing
-Culture).
+Tying this booklist together is the notion that hierarchal ideologies (statism
+and capitalism, for example) infect our imagination. (Capitalist Realism) These
+ideologies sculpt our pedagogy (The Ignorant Schoolmaster), our anthropology
+(Fragments of an Anarchist Anthropology) and our history (Hellenistic History
+and Culture, Writing Culture) in their image. The consequences of this are not
+all as easy to spot as starvation, exploitation, poverty and imperialism, and
+one of the most insidious parts of these hierarchies is that they convince us
+that nothing else is possible.
+The way to combat the statist ideology is summarized well by Capitalist Realism
+and echoed by David Graeber:
+
+  * Produce a viable alternative, e.g., argue a delivery where neoliberalism
+    has failed: a massive reduction of bureaucracy.
+  * Struggle over work and who controls it, assertion of worker autonomy (as
+    opposted to control by management) together with a rejection of certain
+    kinds of labor (such as auditing) which managerialism cannot do without
+  * Reject business ontologies
+  * Realize the unhealthiness of certain systems...
+  * Resolve things through collective management, practically and experimentally
+  * Join the LRC today! (some kind of action link here) we are the alternative!
+    We build it and experiment with its practical application of collective
+    management constantly!
 
 ## Preface
 
@@ -683,3 +698,7 @@ Organizations_ by Ori Brafman and Rod A. Beckstorm.
 Recommended to me by Brian Callahan of RPI.
 
 Quite specifically aids in LRC's goal...
+
+## Other Good Reads
+
+  * Foucault
