@@ -121,8 +121,8 @@ like.
 A: Then you'd probably enjoy reading  "The Ignorant Schoolmaster." The ideology
 (Zizek) of statism affects this too--pedagogical ideology as academia, again,
 statism casts a reflection of itself here as well, that even in our concept of
-education it is a statist conceptualization: education is a prescriptive
-system, the teacher and the student.  In the first chapter of _Fragments of an
+education it is a statist conceptualization, education is a prescriptive
+system: the teacher and the student.  In the first chapter of _Fragments of an
 Anarchist Anthropology_, Graeber delvies into anarchy being inherently
 incompatible with academia today. That one of the core features of anarchy is
 concerning itself more with application than high theory, however this doesn't
