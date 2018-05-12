@@ -3,11 +3,14 @@ title: "Booklist Summary"
 date: 2018-05-12T00:17:32-05:00
 authors: [Lily Mayfield (Author), Nora Winters (Editor)]
 draft: true
-tags: [statism,capitalism,slavoj zizek,mark fisher,codm,]
+tags: [statism,capitalism,slavoj zizek,mark fisher,codm,jacques lacan,foucoult]
 categories: [books,]
 ---
 
-# Starting Off: Lily's Booklist
+# Starting Research with a Booklist
+
+**Note: this article is incomplete and will be routinely updated for a while
+because I am impatient...**
 
 I am summarizing knowledge from books I've read recently, while offering my own
 interpretation. I hope that not only will this booklist provide quality
@@ -377,62 +380,26 @@ frameworks useful in deciphering our preconceptions about systems of
 organization. The book is on capitalism, but it is easily appropriated to a
 number of things.
 
-Capitalist Realism poses that capitalism perpetuates itself on _ideology_ and
-_symbolic efficiency_ (Zizek). "Ideology," as Zizek defines it, is easily
-understood through his amusing example of Rumsfeld's amateur philosophizing,
-i.e., "There are known knowns. These are the things we know that we know. There
-are known unknowns.  That is to say, there are things we know we don't know.
-But there are also unknowns. There are things we don't know we don't know."
-Zizek highlights a missing term: the "unknown knowns," the things we don't know
-that we know. _Symbolic Efficiency_ is best described by Zizek himself through
-a joke and an anecdote ([The Big Other Doesn't Exist, Journal of European
-Psychoanalysis, 1997](http://www.lacan.com/zizekother.htm)):
+Capitalist Realism proposes capitalism perpetuates itself with _ideology_, it
+is through _the big Other_ which capitalist ideology is reinforced:
 
-> We all know the old, worn-out joke about a madman who thought he was a grain
-> of corn; after being finally cured and sent home, he immediately returned to
-> the mental institution, explaining to the doctor his panic: "On the road, I
-> encountered a hen, and I was afraid it would eat me!" To the doctor's
-> surprised exclamation, "But what's the problem now? You know you're not a
-> grain but a man who cannot be swallowed by a hen!", the madman answered "Yes,
-> I know I am no longer a grain, but does the hen know it?"... This story,
-> nonsensical at the level of factual reality where you either are a grain or
-> not, is fully sensible if one replaces "grain" with some feature which
-> determines my symbolic identity.
->
-> [...]
->
-> A friend of mine was approached for
-> help by an elderly lady from his local constituency. She was convinced that
-> the street number of her house [...] was bringing her
-> bad luck the moment her house was assigned this new number due to some
-> administrative reorganization, misfortunes had started to afflict her
-> (burglers broke in, a storm tore through the roof, neighbors began to annoy
-> her...). She kindly asked [...] to arrange with
-> the municipal authorities for the number to be changed. My friend made a
-> simple suggestion to the lady: why didn't she do it herself? Why didn't she
-> simply repaint or replace the plate with a different number (say, 23A or 231
-> instead of 23)? The old lady answered: "Oh, I tried that a couple of weeks
-> ago, I added an A to 23, but it doesn't work, the misfortunes continue you
-> cannot cheat it, it has to be done properly, by the responsible state
-> institution...". The "it" which cannot be duped is, of course, the "big
-> Other" of the symbolic institution. Symbolic efficiency is thus about this
-> minimum of "reification": to become operative, it is not enough for all
-> concerned individuals to know some fact; "it," the symbolic institution, must
-> also know/"register" this fact. This "it," of course, can ultimately be
-> embodied in the gaze of the absolute "big Other," God Himself. Do we not
-> encounter exactly the same problem as that of unfortunate old lady with those
-> Catholics who, in order to avoid unwanted pregnancy, have intercourse only on
-> days with no ovulation? Whom are they cheating, as if God could not know
-> their desire for pleasurable sex without procreation?
+  * The imaginary of perpetual growth
+  * The symbolic of work and consumption
+  * The real of exploitation and environmental destruction
 
-Capitalist realism poses the possibility that capitalism is that vehicle of
-opression which perpetuates itself on ideology (Zizek). That it is both the
-pulse of impulsive boundless hedonism and the utility of _efficiency symbolism_
-which our minds excuse the contradictions of our participation with our own
-known-ideology, our known-ideology subverted by true ideology--that which we do
-not know we know, but that even in knowing it only goes so far [for the true
-predicament is a real, concrete system which will be used and thus subvert the
-current system of economic perticipation.]
+"Ideology," as Zizek defines it, is understood through his tongue-in-cheek
+example of Donald Rumsfeld's "amateur philosophizing," i.e., "There are known
+knowns. These are the things we know that we know. There are known unknowns.
+That is to say, there are things we know we don't know. There are also things
+we don't know that we don't know." Zizek highlights a missing term: the
+"unknown knowns," the things we don't know that we know. One of those things we
+don't know that we know is that "we can have whatever we want as long as
+someone's selling it." That it is this boundless hedonism which acts as the
+symbolic in economic policy.  Our minds excuse the contradiction of our
+participation with the overvaluation of our beliefs, and it is through this
+sort of object do we practice the symbolic of existence in capitalism, and it
+is the imaginary that these beliefs ultimately amount to anything, and the real
+again is exploitation and environmental destruction.
 
 Another example of Zizek's language, "the Symbolic," is given, illustrated
 through PR, branding, and advertising, whereby the corporation's true nature is
@@ -446,52 +413,99 @@ _sheathed_:
 > the jewelry Ratners sold was poor quality, but the big Other didn't know; as
 > soon as it did, Ratners collapsed.
 
-The "Big Other" are the abstractions we create, those collections of social
-conventions, codes, norms, laws, etc. George Boole used a linguistic framework
-to identify grounds and symbols in The Laws of Thought, whereas the grounds are
-the realities and the symbols are abstractions we create to refer to the
-grounds, but controversially, there exist symbols without any grounds at
-all--this is the Big Other. The little other is perhap those with very real
-grounds--neighbors, fellow citizens, enemies, friends, peers, lovers, etc.
-The "symbolic" is often used in this book to depict "efficiency symbolisms," a
-parallel drawn is Stalin's construction of a channel that was too shallow to be
-functional but nonetheless encompassed a gestural progressiveness, a gold star
-sticker.
+Fisher refers to _the big Other_ as a "collective fiction," the symbolic, the
+imaginary, and the virtual all encourage us to buy into these collective
+fictions, and when there's nothing left to encourage us to buy into those
+collective fictions it adapts, sometimes these adaptations are subtle,
+seemingly insignificant, and sometimes the adaptations are cataclysmic.
 
-"Disavowed responsibility," a bureaucratic enjoyment "Sorry, I have not been
-informed, so I can't help you" ties into the "registering of the big Other," a
-sentiment, "It's not me, I'm afraid, its' the regulations," similar to
-Graeber's words on "policy" in Fragments of an Anarchist Anthropology. 
-Kafka illustrates the structure of disavowal inherent to bureaucracy: the quest
-to reach the ultimate authority who will finally resolve k's official status
-can never end, because the big Other cannot be encountered in itself: there are
-only officials, more or less hostile, engaged in acts of intepretation about
-what the big Other's intentions are. And these acts of interpretation, these
-deferals of responsibility, are all the big Other is.
+> To use one of  Žižek's examples: who was it, for instance, who didn't know
+> that  Really Existing Socialism (RES) was shabby and corrupt?  Not any of the
+> people, who were all too aware of its shortcomings;  nor any of the
+> government administrators, who couldn't but know.  No, it was the big Other
+> who was the one deemed not to  know -  who wasn't allowed to know -   the
+> quotidian reality of  RES.  Yet the distinction between what the big Other
+> knows, i.e.  what is officially accepted, and what is widely known and
+> experienced by actual individuals [...] it is the discrepancy between the two
+> that allows 'ordinary' social reality to function.  When the illusion that
+> the big Other did not know can no longer be maintained, the incorporeal
+> fabric holding the social system together disintegrates. This is why
+> Khrushchev's speech in 1965, in which he 'admitted' the failings of the
+> Soviet state, was so momentous.  It  is not as if anyone in the party was
+> unaware of the atrocities and corruption carried out in its name, but
+> Khrushchev's announcement made it impossible to believe any more that the big
+> Other was ignorant of them.  
 
-There is no need for the place of surveillance to actually be occupied (from
-managerial to self-survelleince as with teachers). The effect of knowing
-whether you will observed or not produces introspection of the surveilleince
-apparatus... The Society of the Spectator is useful in understanding this.
-Graded not on quality but diligence as a bureaucrat, it is thus symbolic
-efficiency.
-
-Zimbardo's notorious experiment, his sentiments there, are echoed here: there
-are certainly conspiracies in capitalism, but the problem is that they are
-themselves only possible because deeper level structures allow them to
-function. Does anyone really think, for instance, that things would improve if
-we replaced the whole managerial and banking class with a whole new set of
-("better") eople? Surely, on the contrary, it is evident that the vices are
-engendered by the structure, and that while the structure remains the vices
-will reproduce themselves.
-
-2008 banking crisis exemplifies the role of symbolic efficiency in capitalism
+2008 banking crisis is an example the role of the Symbolic in capitalism
 realism--that while we know this was a failure of capitalism, it is not
-registered by the big Other: we are aware that capitalism is that kernel of
-corn, and yet we tell ourselves "but does the (big) other know?" And since it
-has not been registered it remains.
+registered by the big Other and thus it remains. Zizek illustrates this with a
+joke about a madman who, when cured and released of believing he is a kernel of
+corn, promptly returns after encountering a chicken, "But why, you are cured of
+believing you're a kernel of corn!" and the madman replies, "Yes, but does the
+chicken know?" We are aware that capitalism is terrible,  and yet we
+unconciously ask ourselves "But does the big Other know?" Since it has not been
+registered it remains.
 
-Failure of left to produce viable alternative. The left, for example, should
+Kafka illustrates the structure of disavowal inherent to bureaucracy with a
+quest to reach the authority who will finally resolve K's official
+status. This quest can never end, because ultimately there are only officials
+engaged in acts of interpretation about what the big Other's intentions are,
+and that these acts of interpretation, deferrals of responsibility, are all the
+big Other is. This makes me think of Graeber's _against policy (a tiny
+manifesto)_ in _Fragments of an Anarchist Anthropology:_
+
+> The notion of “policy” presumes a state or governing apparatus which imposes
+> its will on others. “Policy” is the negation of politics; policy is by
+> definition something concocted by some form of elite, which presumes it knows
+> better than others how their affairs are to be conducted. By participating in
+> policy debates the very best one can achieve is to limit the damage, since the
+> very premise is inimical to the idea of people managing their own affairs.
+
+There isn't a need for self and managerial surveillance. The effect of knowing
+whether you will be observed or not will inevitably result not in quality, but
+diligence as a bureaucrat. The self-surveillance of teachers provides an
+illustration of what reinforces the participation/belief in the big Other, that
+"collective narrative:"
+
+  * The Imaginary: If we pass these metrics we are doing great
+  * Symbolic: People gear education toward success on these metrics
+  * Reality: [Math class needs a makeover (TED
+    Talk)](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover).
+    Students learn to pass tests, not to have deep, fundamental understandings.
+
+The extremes of the big Other are illustrated by Zimbardo's _The Lucifer Effect_:
+
+> Aberrant, illegal, or immoral behavior by individuals in service professions, 
+> such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
+> deeds of "a few bad apples." The implication is that they are a rare exception and 
+> must be set on one side of the impermeable line between evil and good, with the 
+> majority of good apples set on the other side. But who is making the distinction? 
+> Usually it is the guardians of the system, who want to isolate the problem in order 
+> to deflect attention and blame away from those at the top who may be responsible 
+> for creating untenable working conditions or for a lack of oversight or supervision.
+> Again the bad apple-dispositional view ignores the apple barrel and its
+> potentially corrupting situational impact on those within it. A systems
+> analysis focuses on the barrel makers, on those with the power to design the
+> barrel.[^zimbardo]
+
+[^zimbardo]: [The Lucifer Effect: Understanding How Good People Turn
+evil."](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113).
+Accessed 2018-05-12.
+
+... and all of this surely summarized by Capitalist Realism:
+
+> There are certainly conspiracies in capitalism, but the problem is that they
+> are themselves only possible because deeper level structures allow them to
+> function. "Does anyone really think, for instance, that things would improve if
+> we replaced the whole managerial and banking class with a whole new set of
+> ("better") people? Surely, on the contrary, it is evident that the vices are
+> engendered by the structure, and that while the structure remains the vices
+> will reproduce themselves."
+
+XXX: Begin to rid (eschew) public services of business ontology. When businesses
+cant be ran as a business, why should public services? (???)
+
+XXX: Failure of left to produce viable alternative. The left, for example, should
 argue that it can deliver what neoliberalism has failed to do: a massive
 reduction of bureaucracy. What is needed is a new struggle over work and who
 controls it: an assertion of worker autonomy (as opposed to control by
@@ -506,12 +520,10 @@ management. What is, instead, required is strategic withdrawal of forms of
 labor which will only be noticed by the management which have no effect on the
 dlivery... but which managerialism cannot do without.
 
-Begin to rid (eschew) public services of business ontology. When businesses
-cant be ran as a business, why should public services? (???)
 
-The unhealthiness of these systems.
+XXX: The unhealthiness of these systems.
 
-It is clear that consumer self-regulation and the market will not by themselves
+XXX: It is clear that consumer self-regulation and the market will not by themselves
 avert environmental catastrophe. Unlimited license (re: ceaseless "progress" in
 hedonism) leads to misery & disaffectionment, then limitations placed on desire
 are likely to quicken, rather than deaden, it. In any case, rationing of some
@@ -521,9 +533,24 @@ Quite what forms this collective management should take is an open question,
 one that can only be resolved practically and experimentally. Which I believe
 is exactly what Leaderlessness Research Club is all about.
 
+I'd like to close with the three things enforcing the big Other of Capitalist
+Realism:
+
+The imaginary
+:   Perpetual growth: we can have whatever we want as long as someone's selling it.
+
+The symbolic
+: Perpetual growth: working, consuming, unyielding boundless hedonism
+
+The real
+: Environmental damage and exploitation
+
 Related reads:
 
   * [Three Short Essays on Zizek](https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/)
+  * [Lacan through Zizek on the big
+    Other](https://eyeslitcrypt.wordpress.com/2008/03/31/lacan-through-zizek-on-the-big-other/)
+  * https://plato.stanford.edu/entries/lacan/
 
 ## The Starfish and the Spider
 
