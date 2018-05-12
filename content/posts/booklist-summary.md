@@ -1,7 +1,7 @@
 ---
 title: "Booklist Summary"
 date: 2018-05-12T00:17:32-05:00
-authors: [Lily Mayfield (Author), Nora Winters (Editor)]
+authors: [ "Lily Mayfield", "Nora Winters" ]
 draft: true
 tags: [statism,capitalism,slavoj zizek,mark fisher,codm,jacques lacan,foucoult]
 categories: [books,]
@@ -373,51 +373,51 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## Capitalist Realism
 
 _Capitalist Realism: Is There No Alternative?_ by Mark Fisher illustrates an
-imagination landscape infected by capitalist _ideology_ (one of many terms
-borrowed from Zizek's language). Recommended to me by a friend at LRC. I
-thought this book would be relevant to LRC because it introduces many
-frameworks useful in deciphering our preconceptions about systems of
-organization. The book is on capitalism, but it is easily appropriated to a
-number of things.
+imagination landscape infected by capitalist _ideology_ and provides tools for
+navigating "collective fiction" which reinforce it.
 
-Capitalist Realism proposes capitalism perpetuates itself with _ideology_, it
-is through _the big Other_ which capitalist ideology is reinforced:
+Recommended to me by a friend at LRC. I
+thought this book would be relevant to LRC because it introduces many
+frameworks useful for deciphering our preconceptions about systems of
+organization. The book centralizes capitalism, but it can also easily be
+appropriated to a number of things.
+
+Capitalist Realism perpetuates itself with _ideology_, it is through _the big
+Other_ which capitalist ideology is reinforced:
 
   * The imaginary of perpetual growth
   * The symbolic of work and consumption
   * The real of exploitation and environmental destruction
 
-"Ideology," as Zizek defines it, is understood through his tongue-in-cheek
-example of Donald Rumsfeld's "amateur philosophizing," i.e., "There are known
-knowns. These are the things we know that we know. There are known unknowns.
-That is to say, there are things we know we don't know. There are also things
-we don't know that we don't know." Zizek highlights a missing term: the
-"unknown knowns," the things we don't know that we know. One of those things we
-don't know that we know is that "we can have whatever we want as long as
-someone's selling it." That it is this boundless hedonism which acts as the
-symbolic in economic policy.  Our minds excuse the contradiction of our
-participation with the overvaluation of our beliefs, and it is through this
-sort of object do we practice the symbolic of existence in capitalism, and it
-is the imaginary that these beliefs ultimately amount to anything, and the real
-again is exploitation and environmental destruction.
+My favorite explaination of "ideology" is Zizek's tongue-in-cheek extension of
+[Donald Rumsfeld's "amateur
+philosophizing,"](http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636):
 
-Another example of Zizek's language, "the Symbolic," is given, illustrated
-through PR, branding, and advertising, whereby the corporation's true nature is
-_sheathed_:
+> Reports that say that something hasn't happened are always interesting to
+> me, because as we know, there are known knowns; there are things we know we
+> know. We also know there are known unknowns; that is to say we know there are
+> some things we do not know. But there are also unknown unknowns – the ones we
+> don't know we don't know
 
-> Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
-> describing the inexpensive jewelry his shops sold as "crap" in an
-> after-dinner speech. But the consequence of Ratner making this judgment
-> _official_ were immediate, and serious - £500m  was wiped off the value of
-> the company and he lost his job. Customers might previously have known that
-> the jewelry Ratners sold was poor quality, but the big Other didn't know; as
-> soon as it did, Ratners collapsed.
-
-Fisher refers to _the big Other_ as a "collective fiction," the symbolic, the
-imaginary, and the virtual all encourage us to buy into these collective
-fictions, and when there's nothing left to encourage us to buy into those
-collective fictions it adapts, sometimes these adaptations are subtle,
-seemingly insignificant, and sometimes the adaptations are cataclysmic.
+Zizek uses this to highlight a missing term: the "unknown knowns," the things
+we don't know that we know. One of those things we don't know that we know is
+that "we can have whatever we want as long as someone's selling it." That it is
+this boundless hedonism which acts as the symbolic in economic policy.  Our
+minds excuse the contradiction of our participation with the overvaluation of
+our beliefs, and it is through this sort of object do we practice the symbolic
+of existence in capitalism, and it is the imaginary that these beliefs
+ultimately amount to anything, and the real again is exploitation and
+environmental destruction. However, I don't think this is to say that companies
+aren't doing more to destroy the environment than you could ever make up for by
+having every person in the US drive electric, recycle, compost, and all these
+things.  Instead I believe this provides a compass for navigating the ideology
+of capitalism; the symbolic, the real, the imaginary, these terms help us
+navigate and understand the big Other.  Fisher refers to _the big Other_ as a
+"collective fiction," the symbolic, the imaginary, and the virtual all
+encourage us to buy into these collective fictions despite the real, and when
+there's nothing left to encourage us to buy into those collective fictions it
+adapts, sometimes these adaptations are subtle, seemingly insignificant, and
+sometimes the adaptations are cataclysmic.
 
 > To use one of  Žižek's examples: who was it, for instance, who didn't know
 > that  Really Existing Socialism (RES) was shabby and corrupt?  Not any of the
@@ -435,6 +435,18 @@ seemingly insignificant, and sometimes the adaptations are cataclysmic.
 > unaware of the atrocities and corruption carried out in its name, but
 > Khrushchev's announcement made it impossible to believe any more that the big
 > Other was ignorant of them.  
+
+Another example of Zizek's language, "the Symbolic," is given, illustrated
+through PR, branding, and advertising, whereby the corporation's true nature is
+_sheathed_:
+
+> Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
+> describing the inexpensive jewelry his shops sold as "crap" in an
+> after-dinner speech. But the consequence of Ratner making this judgment
+> _official_ were immediate, and serious - £500m  was wiped off the value of
+> the company and he lost his job. Customers might previously have known that
+> the jewelry Ratners sold was poor quality, but the big Other didn't know; as
+> soon as it did, Ratners collapsed.
 
 2008 banking crisis is an example the role of the Symbolic in capitalism
 realism--that while we know this was a failure of capitalism, it is not
@@ -473,7 +485,7 @@ illustration of what reinforces the participation/belief in the big Other, that
     Talk)](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover).
     Students learn to pass tests, not to have deep, fundamental understandings.
 
-The extremes of the big Other are illustrated by Zimbardo's _The Lucifer Effect_:
+The extremes of the big Other are illustrated by [Zimbardo's _The Lucifer Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113):
 
 > Aberrant, illegal, or immoral behavior by individuals in service professions, 
 > such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
@@ -486,13 +498,9 @@ The extremes of the big Other are illustrated by Zimbardo's _The Lucifer Effect_
 > Again the bad apple-dispositional view ignores the apple barrel and its
 > potentially corrupting situational impact on those within it. A systems
 > analysis focuses on the barrel makers, on those with the power to design the
-> barrel.[^zimbardo]
+> barrel.
 
-[^zimbardo]: [The Lucifer Effect: Understanding How Good People Turn
-evil."](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113).
-Accessed 2018-05-12.
-
-... and all of this surely summarized by Capitalist Realism:
+All of this is packaged nicely by this paragraph in Capitalist Realism:
 
 > There are certainly conspiracies in capitalism, but the problem is that they
 > are themselves only possible because deeper level structures allow them to
@@ -502,48 +510,34 @@ Accessed 2018-05-12.
 > engendered by the structure, and that while the structure remains the vices
 > will reproduce themselves."
 
-XXX: Begin to rid (eschew) public services of business ontology. When businesses
-cant be ran as a business, why should public services? (???)
+Capitalist Realism outlines these methods of change:
 
-XXX: Failure of left to produce viable alternative. The left, for example, should
-argue that it can deliver what neoliberalism has failed to do: a massive
-reduction of bureaucracy. What is needed is a new struggle over work and who
-controls it: an assertion of worker autonomy (as opposed to control by
-management) together witha rejection of certain kinds of labor (such as
-auditing, which has become so central feature of work in post-fordism). It is
-an open question as to whether old structures (such as trad eunions) will be
-capable of nurturing that subjectivity, or whether it will entail the formation
-of wholly new political organizations.
-New forms of industrial action needed to be instituted against managerialism.
-For instance, the tactic of (teacher strikes) were pretty much welcomed by
-management. What is, instead, required is strategic withdrawal of forms of
-labor which will only be noticed by the management which have no effect on the
-dlivery... but which managerialism cannot do without.
+  * Remove business ontology from (public) services. In regard to LRC I think
+    about our "key performance indicators."
+  * Produce a viable alternative. LRC needs to not only research and prepare
+    for the unintuitive caveats of real implementations of leaderlessness, but
+    it needs to balance this with real-world application and experimentation, and
+    proposals for methods for accomplishing such.
+  * Assertion of worker autonomy (as opposed to control by management)
+  * Withdraw, evade forms of labor which "will only be noticed by the
+    management which have no effect on the delivery[...] but which
+    managerialism cannot do without." Reject these managerial-types of labor (such
+    as auditing). Institute industrial action against managerialism in general.
+  * Realize the unhealthiness of these systems
 
+This is a powerful conclusion to the book:
 
-XXX: The unhealthiness of these systems.
+> It is clear that consumer self-regulation and the market will not by themselves
+> avert environmental catastrophe. Unlimited license (re: ceaseless "progress" in
+> hedonism) leads to misery & disaffectionment, then limitations placed on desire
+> are likely to quicken, rather than deaden, it. In any case, rationing of some
+> sort is inevitable. The issue is whether it will be collectively managed, or
+> wheter it will be imposed by authoritarian means when it is already too late.
+> Quite what forms this collective management should take is an open question,
+> one that can only be resolved practically and experimentally.
 
-XXX: It is clear that consumer self-regulation and the market will not by themselves
-avert environmental catastrophe. Unlimited license (re: ceaseless "progress" in
-hedonism) leads to misery & disaffectionment, then limitations placed on desire
-are likely to quicken, rather than deaden, it. In any case, rationing of some
-sort is inevitable. The issue is whether it will be collectively managed, or
-wheter it will be imposed by authoritarian means when it is already too late.
-Quite what forms this collective management should take is an open question,
-one that can only be resolved practically and experimentally. Which I believe
-is exactly what Leaderlessness Research Club is all about.
-
-I'd like to close with the three things enforcing the big Other of Capitalist
-Realism:
-
-The imaginary
-:   Perpetual growth: we can have whatever we want as long as someone's selling it.
-
-The symbolic
-: Perpetual growth: working, consuming, unyielding boundless hedonism
-
-The real
-: Environmental damage and exploitation
+I think it's rather strange how close the goals of Leaderlessness Research Club
+are to all of this just through the concept of leaderlessness.
 
 Related reads:
 

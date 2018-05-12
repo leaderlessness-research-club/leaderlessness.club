@@ -31,8 +31,8 @@ publishDir = "docs"
     weight = 200
     url = "/about/"
 
-
 # Taxonomies
 [taxonomies]
    tag = "tags"
    category = "categories"
+   author = "authors"
