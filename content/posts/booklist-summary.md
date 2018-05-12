@@ -533,7 +533,9 @@ Quite what forms this collective management should take is an open question,
 one that can only be resolved practically and experimentally. Which I believe
 is exactly what Leaderlessness Research Club is all about.
 
-I'd like to close with the three things enforcing the big Other of Capitalist
+XXX: it then becomes priority to prove to the big other likr kruschev that the big other is aware of the problems with statism and capitalism or in terms of this project, to make revolutionary action in using real world application of leaderless organization as a realization to the big ither that the big other knows this is possivle and thus can on individual level and that it will inevitably force the recognition of the issues of statism and capitalism and their alternatives
+
+XXX: I'd like to close with the three things enforcing the big Other of Capitalist
 Realism:
 
 The imaginary
