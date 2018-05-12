@@ -121,6 +121,30 @@ action" by pushing the _reality_ of leaderless systems.
 
 Spivak. Brian recommended. In vein of Writing Culture.
 
+## Timeless Tips for 'Simple Sabotage'
+
+Here’s a list of five particularly timeless tips from the Simple Sabotage Field
+Manual:
+
+  1.  Managers and Supervisors: To lower morale and production, be pleasant to
+inefficient workers; give them undeserved promotions. Discriminate against
+efficient workers; complain unjustly about their work.
+  1.  Employees: Work slowly. Think of ways to increase the number of movements
+needed to do your job: use a light hammer instead of a heavy one; try to make a
+small wrench do instead of a big one.
+  1. Organizations and Conferences: When possible, refer all matters to
+committees, for "further study and consideration." Attempt to make the
+committees as large and bureaucratic as possible. Hold conferences when there
+is more critical work to be done.
+  1. Telephone: At office, hotel and local telephone switchboards, delay putting
+calls through, give out wrong numbers, cut people off “accidentally,” or forget
+to disconnect them so that the line cannot be used again.
+  1. Transportation: Make train travel as inconvenient as possible for enemy
+personnel. Issue two tickets for the same seat on a train in order to set up an
+“interesting” argument.
+
+https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/simple-sabotage.html
+
 ## The Tyranny of Structurelessness
 
 _The Tyranny of Structurelessness_ by Jo Freeman references the
