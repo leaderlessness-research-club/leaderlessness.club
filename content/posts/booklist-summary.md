@@ -3,7 +3,7 @@ title: "Booklist Summary"
 date: 2018-05-12T00:17:32-05:00
 authors: [Lily Mayfield (Author), Nora Winters (Editor)]
 draft: true
-tags: [slavoj zizek,mark fisher,]
+tags: [statism,capitalism,slavoj zizek,mark fisher,codm,]
 categories: [books,]
 ---
 
