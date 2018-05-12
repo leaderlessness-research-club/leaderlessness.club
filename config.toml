@@ -1,0 +1,38 @@
+## Hugo Built-in Features
+# enableRobotsTXT = true
+baseURL = "http://leaderlessness.club/"
+languageCode = "en-us"
+title = "Leaderlessness Research Club"
+theme = "kiera"
+publishDir = "docs"
+
+#pygmentsCodeFences = true
+
+#disqusShortname = "" #Disqus shortname
+#googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "LRC"       #Author name
+    github = ""     #Github username
+    twitter = ""    #Twitter username
+
+[params]
+    tagline = "Leaderlessness Research Club"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+
+
+# Taxonomies
+[taxonomies]
+   tag = "tags"
+   category = "categories"

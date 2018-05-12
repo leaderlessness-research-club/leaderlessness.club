@@ -1,3 +1,8 @@
+---
+title: "About"
+date: 2018-05-12T00:20:27-05:00
+---
+
 # LRC: Leaderlessness Research Club
 
 **Our mission** is to practically implement and experiment with forms of
