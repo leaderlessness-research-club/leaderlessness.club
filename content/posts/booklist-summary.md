@@ -442,17 +442,18 @@ _sheathed_:
 > the jewelry Ratners sold was poor quality, but the big Other didn't know; as
 > soon as it did, Ratners collapsed.
 
-The 2008 banking crisis is an example the role of the Symbolic in capitalism
-realism--that while we know this was a failure of capitalism, it is not
-registered by the big Other and thus it remains. Zizek illustrates this with a
+The 2008 banking crisis is an example of the role the Symbolic plays in capitalism
+realism--that while we individually internalize the faults of capitalism, it is not
+registered by the big Other, and thus it remains. Zizek illustrates this with a
 joke about a madman who, when cured and released of believing he is a kernel of
 corn, promptly returns after encountering a chicken, "But why, you are cured of
 believing you're a kernel of corn!" and the madman replies, "Yes, but does the
 chicken know?" We are aware that capitalism is terrible,  and yet we
-unconciously ask ourselves "But does the big Other know?" Since it has not been
-registered by the big Other it remains.
+unconciously ask ourselves "But does the big Other know?" and thus it remains
+because to us it has not been registered by the big Other.
 
-It is through _the big Other_ which capitalist ideology is reinforced:
+It is through _the big Other_ which capitalist ideology is reinforced through
+these terms in understanding how this collective fiction is maintained:
 
   * The imaginary of perpetual growth. The imaginary is the layer aside reality
     we perceive and value equally.
@@ -462,7 +463,9 @@ It is through _the big Other_ which capitalist ideology is reinforced:
     something that is even fully actualized among individuals, but they are
     submerged in the "collective fiction" of the big Other.
 
-I like the way [Zimbardo's _The Lucifer Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113) depicts the extremes of the big Other:
+I like the way [Zimbardo's _The Lucifer
+Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113)
+depicts the extremes of the big Other:
 
 > Aberrant, illegal, or immoral behavior by individuals in service professions, 
 > such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
@@ -547,6 +550,9 @@ believe its narrative and it must adapt. The Leaderlessness Research Club
 provides the revolutionary action of real world application of leaderless
 organization which will be a part of the first steps in this process in
 realizing the alternative.
+
+I think it's rather strange how close the goals of Leaderlessness Research Club
+are to all of this just through the concept of leaderlessness.
 
 Related reads:
 
