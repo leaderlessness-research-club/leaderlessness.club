@@ -504,21 +504,27 @@ proliferation of statist, capitalist ideology into academia.
 
 ### Fragments of an Anarchist Anthropology
 
-_Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
-about the inherent anthropological structures behind political theories.
-From this context Graeber unveils an equation of the state to kinship systems,
-definitions for revolutionary action, the streangths of anarchy, and anarchy's
-historical role (what anarchy has historically been concerned with).
+_Fragments of an Anarchist Anthropology_ by David Graeber explores a
+_fragmented_ outline for the slow accumulation of revolutionary action to
+evolve the big Other.  Graeber begins with defining the the type of project
+which anarchism is in relation to Marxism, that anarchism are largely schools
+of practices, and Marxism schools of authors. This theme is key--_anarchism is
+a practice_. Even looking at [Graeber's
+Twitter](https://twitter.com/davidgraeber) (accessed 2018-05-13) is this
+echoed, his bio reads "I see anarchism as something you do not an identity so
+don't call me the anarchist anthropologist."
+
 Recommended to me by Brian Callahan of RPI. I thought this book would be
 relevant to LRC because it provokes thought deeper than the system itself,
 while simultaneously concerning itself with a framework for these systems
 (which Graeber calls "an anthropology.").
 
-Graeber's sentiment is echoed in many of the books on this list, of Zizek's
-concept of _ideology_, The Ignorant Schoolmaster's topic of systemic statism
-(how the state embues itself into everything we do), that we not only must
-become aware of our assumptions, the _anthropology_ of any system we may
-implement.
+Graeber uses anthropology to analyze the inherent structures behind political
+theories.  From this context Graeber equates the state to the perpetuation of
+the kinship system; produces the true nature of "revolution" as a contradiction
+to the ideology of great cataclysmic breaks, e.g "the French Revolution created
+modernity;" and exemplifies anarchy's historical role. In general Graeber
+describes "anarchist anthropology" as a method for managing the big Other.
 
 ### The Postmodern Condition
 
