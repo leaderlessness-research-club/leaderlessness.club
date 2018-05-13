@@ -374,23 +374,17 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Capitalist Realism: Is There No Alternative?_ by Mark Fisher illustrates an
 imagination landscape infected by capitalist _ideology_ and provides tools for
-navigating "collective fiction" which reinforce it.
+navigating "collective fiction" which reinforces it.
 
-Recommended to me by a friend at LRC. I
-thought this book would be relevant to LRC because it introduces many
-frameworks useful for deciphering our preconceptions about systems of
-organization. The book centralizes capitalism, but it can also easily be
-appropriated to a number of things.
+Recommended to me by a friend at LRC. I thought this book would be useful to
+LRC because it introduces of those tools which can decipher our preconceptions
+about systems of organization, enabling us to both think outside the box, while
+having the diagnostics and caveats to guide us on our periless journey to
+increasingly larger scale leaderless systems of organization in the real world.
 
-Capitalist Realism perpetuates itself with _ideology_, it is through _the big
-Other_ which capitalist ideology is reinforced:
-
-  * The imaginary of perpetual growth
-  * The symbolic of work and consumption
-  * The real of exploitation and environmental destruction
-
-My favorite explaination of "ideology" is Zizek's tongue-in-cheek extension of
-[Donald Rumsfeld's "amateur
+Capitalist Realism perpetuates itself with _ideology_.  My favorite
+explaination of "ideology" is Zizek's tongue-in-cheek extension of [Donald
+Rumsfeld's "amateur
 philosophizing,"](http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636):
 
 > Reports that say that something hasn't happened are always interesting to
@@ -448,7 +442,7 @@ _sheathed_:
 > the jewelry Ratners sold was poor quality, but the big Other didn't know; as
 > soon as it did, Ratners collapsed.
 
-2008 banking crisis is an example the role of the Symbolic in capitalism
+The 2008 banking crisis is an example the role of the Symbolic in capitalism
 realism--that while we know this was a failure of capitalism, it is not
 registered by the big Other and thus it remains. Zizek illustrates this with a
 joke about a madman who, when cured and released of believing he is a kernel of
@@ -457,6 +451,31 @@ believing you're a kernel of corn!" and the madman replies, "Yes, but does the
 chicken know?" We are aware that capitalism is terrible,  and yet we
 unconciously ask ourselves "But does the big Other know?" Since it has not been
 registered it remains.
+
+It is through _the big Other_ which capitalist ideology is reinforced:
+
+  * The imaginary of perpetual growth. The imaginary is the layer aside reality
+    we perceive and value equally.
+  * The symbolic of work and consumption. The symbolic is how we interact
+    through the big Other.
+  * The real of exploitation and environmental destruction. The real may be
+    something that is even fully actualized among individuals, but they are
+    submerged in the "collective fiction" of the big Other.
+
+I like the way [Zimbardo's _The Lucifer Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113) depicts the extremes of the big Other:
+
+> Aberrant, illegal, or immoral behavior by individuals in service professions, 
+> such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
+> deeds of "a few bad apples." The implication is that they are a rare exception and 
+> must be set on one side of the impermeable line between evil and good, with the 
+> majority of good apples set on the other side. But who is making the distinction? 
+> Usually it is the guardians of the system, who want to isolate the problem in order 
+> to deflect attention and blame away from those at the top who may be responsible 
+> for creating untenable working conditions or for a lack of oversight or supervision.
+> Again the bad apple-dispositional view ignores the apple barrel and its
+> potentially corrupting situational impact on those within it. A systems
+> analysis focuses on the barrel makers, on those with the power to design the
+> barrel.
 
 Kafka illustrates the structure of disavowal inherent to bureaucracy with a
 quest to reach the authority who will finally resolve K's official
@@ -484,21 +503,6 @@ illustration of what reinforces the participation/belief in the big Other, that
   * Reality: [Math class needs a makeover (TED
     Talk)](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover).
     Students learn to pass tests, not to have deep, fundamental understandings.
-
-The extremes of the big Other are illustrated by [Zimbardo's _The Lucifer Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113):
-
-> Aberrant, illegal, or immoral behavior by individuals in service professions, 
-> such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
-> deeds of "a few bad apples." The implication is that they are a rare exception and 
-> must be set on one side of the impermeable line between evil and good, with the 
-> majority of good apples set on the other side. But who is making the distinction? 
-> Usually it is the guardians of the system, who want to isolate the problem in order 
-> to deflect attention and blame away from those at the top who may be responsible 
-> for creating untenable working conditions or for a lack of oversight or supervision.
-> Again the bad apple-dispositional view ignores the apple barrel and its
-> potentially corrupting situational impact on those within it. A systems
-> analysis focuses on the barrel makers, on those with the power to design the
-> barrel.
 
 All of this is packaged nicely by this paragraph in Capitalist Realism:
 
