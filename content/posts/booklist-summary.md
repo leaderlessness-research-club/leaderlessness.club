@@ -3,7 +3,8 @@ title: "Booklist Summary"
 date: 2018-05-12T00:17:32-05:00
 authors: [ "Lily Mayfield", "Nora Winters" ]
 draft: true
-tags: [statism,capitalism,slavoj zizek,mark fisher,codm,jacques lacan,foucoult]
+toc: true
+tags: [statism,capitalism,Slavoj Žižek,Mark Fisher,consensus,codm,Jo Freeman,Tim Hartnett,booklist]
 categories: [books,]
 ---
 
@@ -23,6 +24,7 @@ management system, to then be developed into a web app.
 For each book I'll try to provide:
 
   * A summary
+  * An interpretation
   * The author(s)
   * Why I chose this book/found it relevant to LRC
   * How I found out about the book
@@ -58,8 +60,7 @@ Capitalist Realism and Fragments of an Anarchist Anthropology:
 
 I founded Hypatia Software Organization some years ago (put date, just year is
 ok) to help solve the problems that people at the intersection of poverty and
-transmisogyny face.  In retrospect, leaderlessness (can be anarchy still if ur
-fine using that word now) was a natural conclusion of our experiments with
+transmisogyny face.  In retrospect, anarchy was a natural conclusion of our experiments with
 mutual aid and consensus. While I think Hypatia is a good example of mutual aid
 in action, I think that given what we know now and what we learned from (and
 continue to learn from) that experience, there is potential for so much more.
@@ -83,20 +84,11 @@ a completely anarchist form of governance and commodity production, as people
 realize that not only as an alternative possible, but it is in fact preferable
 to the current order of things.
 
-Hypatia Software Organization is a system fostering mutual aid, generative
-justice, that is outreach and ideological-warming, independent, but within
-current capitalist statist modes of production. "Warming" as in the boiling
-frog, whereby people not necessarily aware of the ideology support it
-indirectly, whereby "socialism" is a call for communism within a Capitalist
-Realism, "leaderlessness" is perhaps a call for anarchy within a "Statist
-Realism." This warming gradually becomes a completely anarchist form of
-governance and commodity production.
-
 FOSS/web projects are moved by emergent social interactions, rather than
-traditional corporate structures.
-FOSS advocates were a good initial target, for whom a leaderless system
-could be considered more palatable then most other types, simply due to
-prior exposure to emergent patterns and how they craft software.
+traditional corporate structures.  FOSS advocates were a good initial target,
+for whom a leaderless system could be considered more palatable then most other
+types, simply due to prior exposure to emergent patterns and how they craft
+software.
 
 I was (ironically) confronted by classism within Hypatia when there was a push
 by the Board of Directors to remove or restrict the cash relief program,
@@ -128,251 +120,6 @@ I absolutely think Graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
 their situations is concerned. That is, I'm performing my own "revolutionary
 action" by pushing the _reality_ of leaderless systems.
-
-## Can the Subaltern Speak
-
-Spivak. Brian recommended. In vein of Writing Culture.
-
-## Timeless Tips for 'Simple Sabotage'
-
-Here’s a list of five particularly timeless tips from the Simple Sabotage Field
-Manual:
-
-  1.  Managers and Supervisors: To lower morale and production, be pleasant to
-inefficient workers; give them undeserved promotions. Discriminate against
-efficient workers; complain unjustly about their work.
-  1.  Employees: Work slowly. Think of ways to increase the number of movements
-needed to do your job: use a light hammer instead of a heavy one; try to make a
-small wrench do instead of a big one.
-  1. Organizations and Conferences: When possible, refer all matters to
-committees, for "further study and consideration." Attempt to make the
-committees as large and bureaucratic as possible. Hold conferences when there
-is more critical work to be done.
-  1. Telephone: At office, hotel and local telephone switchboards, delay putting
-calls through, give out wrong numbers, cut people off “accidentally,” or forget
-to disconnect them so that the line cannot be used again.
-  1. Transportation: Make train travel as inconvenient as possible for enemy
-personnel. Issue two tickets for the same seat on a train in order to set up an
-“interesting” argument.
-
-https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/simple-sabotage.html
-
-## The Tyranny of Structurelessness
-
-_The Tyranny of Structurelessness_ by Jo Freeman references the
-anarcha-feminism movement, specifically outlining how when powers remain opaque
-and informalized, they're at their most tyrannical. At-a-glance Freeman may
-seem to suggest that there cannot possibly be transparency within any anarchist
-movment, but I believe the bigger takeaway underlines the importance of formal
-systems of organization. My friend Xax told me about this article some years
-ago.
-
-"There's no such thing as structureless group," Jo Freeman poses that there are
-only formal and informal structures and that structurelessness (informal
-structure) only serves to mask power:
-
-> A "laissez faire" group is about as realistic as a "laissez faire" society;
-> the idea becomes a smokescreen for the strong or the lucky to establish
-> unquestioned hegemony over others. This hegemony can be so easily established
-> because the idea of "structurelessness" does not prevent the formation of
-> informal structures, only formal ones. Similarly "laissez faire" philosophy
-> did not prevent the economically powerful from establishing control over
-> wages, prices, and distribution of goods; it only prevented the government
-> from doing so.
-
-The informal structure (especiall of of unstructured groups) forms the basis for elites.
-An elite is a small group of people who have power over a larger group which
-they are part, usually without direct responsibility to that larger group,
-often without their knowledge or consent.  (REWORD: pagerism)
-Freeman illustrates elitism as nepotism: that people with external friendships
-to each other will have communication networks, consulting each other in
-decisions, often sharing in the same values and orientations not even by
-conspiracy, those involved with these networks will have more power than those
-who don't. Sometimes two or more of such "networks" or "friend groups" will
-compete for power within the group. Informal communication networks are
-invitably exclusive and elitist. A comparison is drawn that informal systems of
-male-hedgamony are one such network of elites, and that much struggle in
-women's movement has been to formalize the inclusion of women..? 
-
-Political impotence and principles of democratic structuring.... some key points I found relevant:
-
-  * Task oriented
-  * High degree of communication
-  * Delegation, including responsibility for whatever delegated
-  * Distribution of authority
-  * Rotation of tasks among individuals
-  * Allocation of tasks along rational criteria.
-  * Diffusion of information to everyone as frequently as possible.
-  * Equal access to resources needed by the group.
-  * Structure of the group formalized
-  * Everyone is aware of the rules of how decisions are made; open and
-    available to everyone
-  * For everyone to have the opportunity to participate the structure must be
-    explicit (formalize the rules!)
-
-[The Tyranny of Structurelessness on Jo Freeman's website](http://www.jofreeman.com/joreen/tyranny.htm)
-
-## Consensus-Oriented Decision-Making
-
-"Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to
-Widespread Agreement" by Tim Hartnett is the first book we discussed a the LRC
-book club. I first came across the CODM model on [the Wikipedia page on
-consensus
-decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making). At
-the time I was the president of the nonprofit I founded, [Hypatia Software
-Organization](http://hypatiasoftware.org). I was attempting to incorporate
-the voices of the very members the nonprofit benefitted, since the board of
-directors was at time disconnected from the members' concerns.
-
-Tim Hartnett's background as a marriage counselor and facilitator, a PHD in
-psychology, shines as this decision-making approach not only addresses
-pragmatic concerns, but the emotional interplay which ultimately determines the
-fairness of the process.
-
-When Leaderlessness Research Club started it initially was only a software
-project called "Dividita." The goal of Dividita was to provide a
-decision-making model that would make heirarchicalless/leaderless organization
-easily replicatable to successfully run organizations (businesses, art
-collectives, nonprofits, etc.). I had found some success with Hypatia Software
-Organization and I had experimented with other leaderless groups and having
-experienced the feasibility, effectiveness, and fairness which they provided, I
-thought it was important to make such a process easily replicatable and usable.
-David Graeber defines _revolutionary action_ in _Fragments of an Anarchist
-Anthropology_ as direct action which subverts
-the necessity for the state, the application of real leaderless solutions, and the
-proposal of such systems, in fact David Graeber states:
-
-> It’s not just that anarchism does not tend to have much use for high
-> theory.  It’s that it is primarily concerned with forms of pracice; it insists,
-> before anything else, that one’s means must be consonant with one’s ends; one
-> cannot create freedom through authoritarian means; in fact, as much as
-> possible, one must oneself, in one’s relations with one’s friends and allies,
-> embody the society one wishes to create
-
-> The key term in the new movement is “process,” by which is meant,
-> decision-making process. In North America, this is almost invariably done
-> through some process of finding consensus. This is as I mentioned much less
-> ideologically stifling than it may sound because the assumption behind all good
-> consensus process is that one should not even try to convert others to one’s
-> overall point of view; the point of consensus process is to allow a group to
-> decide on a common course of action. Instead of voting proposals up and down,
-> then, proposals are worked and reworked, scotched or reinvented, until one ends
-> up with something everyone can live with.
-
-_Consensus-Oriented Decision-Making_ does exactly that, with some exceptions,
-it offers a feasible, tried and tested method for consensus...
-
-The CODM model consists of seven steps:
-
-  1. Framing the topic
-  2. Open discussion
-  3. Identifying underlying concerns
-  4. Collaborative proposal building
-  5. Choosing a direction
-  6. Synthesizing a final proposal
-
-## Hellenistic History and Culture
-
-_Hellenistic History and Culture_ by Peter Green begins with a forward on the
-perspective from which the book extrapolates new information:
-
-> A distrust of all ideologies has altered old views of ancient political
-> structures, and feminism has also changed earlier assessments. The current
-> emphasis on multiculturalism has consciously deemphasized the Western,
-> Greco-Roman tradition, and Nubians, Bactrians, and other subject peoples of the
-> time are receiving attention in their own right, not just as recipients of
-> Greco-Roman culture.
-
-> History, like Herakleitos' river, never stands still. These essays share a
-> collective sense of discovery and a sparking of new ideas—they are a welcome
-> beginning to the reexploration of a fascinatingly complex age.
-
-This introduction reflects on how misrepresentation occurs through representation, a
-postcolonial theory thing which weaves into Writing Culture, ...
-
-## The Politics of Fear
-
-_The Politics of Fear: What Right-Wing Populist Discourses Mean_ by Ruth
-Wodak...
-Friend at LRC recommended this to me...
-
-## Writing Culture
-
-_Writing Culture: The Poetics and Politics of Ethnography_ by James Clifford
-(editor), George E. Marcus (editor), Mike Fortun (foreword), and Kim Fortun
-(foreword). This is the 2010 version, "This seminal collection of essays
-critiquing ethnography as literature is augmented with a new foreword by Kim
-Fortun, exploring the ways in which Writing Culture has changed the face of
-ethnography over the last 25 years."
-Recommended to me by Brian Callahan of RPI.
-
-Hopefully helps with field research. This in the vein of postcolonial theory,
-related to _Can the Subaltern Speak?_ by Gayatri Chakravorty Spivak, and The
-Ignorant Schoolmaster, and perhaps even Capitalist Realism, which poses what
-Zizek defined as "ideology:" that which we don't know we know; the systemic
-proliferation of statist, capitalist ideology into academia.
-
-## Fragments of an Anarchist Anthropology
-
-_Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
-about the inherent anthropological structures behind political theories.
-From this context Graeber unveils an equation of the state to kinship systems,
-definitions for revolutionary action, the streangths of anarchy, and anarchy's
-historical role (what anarchy has historically been concerned with).
-Recommended to me by Brian Callahan of RPI. I thought this book would be
-relevant to LRC because it provokes thought deeper than the system itself,
-while simultaneously concerning itself with a framework for these systems
-(which Graeber calls "an anthropology.").
-
-Graeber's sentiment is echoed in many of the books on this list, of Zizek's
-concept of _ideology_, The Ignorant Schoolmaster's topic of systemic statism
-(how the state embues itself into everything we do), that we not only must
-become aware of our assumptions, the _anthropology_ of any system we may
-implement.
-
-## The Ignorant Schoolmaster
-
-_The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
-Jacques Rancière. Recommended to me by Brian Callahan of RPI...
-
-Helps with generativity?
-
-## The Postmodern Condition
-
-_The Postmodern Condition_ by Jean-Francois Lyotard...
-
-Postmodernism as a postcolonial abstraction: the imaginary isolation of science
-and societal abstraction; the death of meta...
-https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
-"The ruling class is and will continue to be the class of decision makers. Even
-now it is no longer composed of the traditional political class, but of a
-composite layer of corporate leaders, high-level administrators, and the heads
-of the major professional, labor, political, and religious organisations. "
-Grand narratives are the analysis of history through a lense of an origin and
-inevitabel destination, postmodernism destroys this narrative with more nuanced
-understanding; Marxim analyzes history through the lense of class from the
-means of labor to labor immancipation, and for anarchism from serfdom to
-"increasingly democratic" means of governance--it is perhaps for this reason
-that Graeber identifies not as an anarchist but as someone who believes that
-anarchy is an action, that it is an anthropology, and that this is the ver
-ystrength of anarchism: that is concerns itself far more with the action and
-implmentation and practical, than aligning itself with grand narratives for
-interpreting history and our trajectory through some sort of _grand narrative_,
-and it is thus Graeber is a very postmodern anthropologist believer of
-anarchist action.
-Possibly in the vein of queer theory: where bisexuals are caught between due to
-outmoded grand narratives of sexuality opression, TERFs exist in the same vein
-of outmoded grand narratives of *sexual* opression.
-
-## The Society of the Spectacle
-
-_The Society of the Spectacle_ by Guy Debord (book, 1967)...
-
-There's even a Film by the same name that Guy Debord made:
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/IoUIHBSiVAY" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Capitalist Realism
 
@@ -504,7 +251,7 @@ diligence as a bureaucrat. The self-surveillance of teachers provides an
 illustration of what reinforces the participation/belief in the big Other, that
 "collective narrative:"
 
-  * The Imaginary: If we pass these metrics we are doing great
+  * The Imaginary: If we pass these metrics we are a great school
   * Symbolic: People gear education toward success on these metrics
   * Reality: [Math class needs a makeover (TED
     Talk)](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover).
@@ -554,17 +301,260 @@ provides the revolutionary action of real world application of leaderless
 organization which will be a part of the first steps in this process in
 realizing the alternative.
 
-I think it's rather strange how close the goals of Leaderlessness Research Club
-are to all of this just through the concept of leaderlessness.
-
-Related reads:
+Isn't it interesting how close the goals of Leaderlessness Research Club are to
+all of this just through the concept of leaderlessness?  Many of us LRC members
+who are marginalized people (trans femmes, notably) had already experienced the
+real of capitalist-statism as individually-internalized realities, but only
+when we united did the collective fiction crack, through which the real glares
+at us, challenging us to change it. Related reads:
 
   * [Three Short Essays on Zizek](https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/)
   * [Lacan through Zizek on the big
     Other](https://eyeslitcrypt.wordpress.com/2008/03/31/lacan-through-zizek-on-the-big-other/)
   * https://plato.stanford.edu/entries/lacan/
 
-## The Starfish and the Spider
+## Other Reads
+
+This section is for reads I'm not finished nailing into my skull and haven't
+written much of anything about. These sections will likely be updated over
+time, moved into their own sections. Basically, these are notes.
+
+### Can the Subaltern Speak
+
+Spivak. Brian recommended. In vein of Writing Culture.
+
+### Timeless Tips for 'Simple Sabotage'
+
+Here’s a list of five particularly timeless tips from the Simple Sabotage Field
+Manual:
+
+  1.  Managers and Supervisors: To lower morale and production, be pleasant to
+inefficient workers; give them undeserved promotions. Discriminate against
+efficient workers; complain unjustly about their work.
+  1.  Employees: Work slowly. Think of ways to increase the number of movements
+needed to do your job: use a light hammer instead of a heavy one; try to make a
+small wrench do instead of a big one.
+  1. Organizations and Conferences: When possible, refer all matters to
+committees, for "further study and consideration." Attempt to make the
+committees as large and bureaucratic as possible. Hold conferences when there
+is more critical work to be done.
+  1. Telephone: At office, hotel and local telephone switchboards, delay putting
+calls through, give out wrong numbers, cut people off “accidentally,” or forget
+to disconnect them so that the line cannot be used again.
+  1. Transportation: Make train travel as inconvenient as possible for enemy
+personnel. Issue two tickets for the same seat on a train in order to set up an
+“interesting” argument.
+
+https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/simple-sabotage.html
+
+### The Tyranny of Structurelessness
+
+_The Tyranny of Structurelessness_ by Jo Freeman references the
+anarcha-feminism movement, specifically outlining how when powers remain opaque
+and informalized, they're at their most tyrannical. At-a-glance Freeman may
+seem to suggest that there cannot possibly be transparency within any anarchist
+movment, but I believe the bigger takeaway underlines the importance of formal
+systems of organization. My friend Xax told me about this article some years
+ago.
+
+"There's no such thing as structureless group," Jo Freeman poses that there are
+only formal and informal structures and that structurelessness (informal
+structure) only serves to mask power:
+
+> A "laissez faire" group is about as realistic as a "laissez faire" society;
+> the idea becomes a smokescreen for the strong or the lucky to establish
+> unquestioned hegemony over others. This hegemony can be so easily established
+> because the idea of "structurelessness" does not prevent the formation of
+> informal structures, only formal ones. Similarly "laissez faire" philosophy
+> did not prevent the economically powerful from establishing control over
+> wages, prices, and distribution of goods; it only prevented the government
+> from doing so.
+
+The informal structure (especiall of of unstructured groups) forms the basis for elites.
+An elite is a small group of people who have power over a larger group which
+they are part, usually without direct responsibility to that larger group,
+often without their knowledge or consent.  (REWORD: pagerism)
+Freeman illustrates elitism as nepotism: that people with external friendships
+to each other will have communication networks, consulting each other in
+decisions, often sharing in the same values and orientations not even by
+conspiracy, those involved with these networks will have more power than those
+who don't. Sometimes two or more of such "networks" or "friend groups" will
+compete for power within the group. Informal communication networks are
+invitably exclusive and elitist. A comparison is drawn that informal systems of
+male-hedgamony are one such network of elites, and that much struggle in
+women's movement has been to formalize the inclusion of women..? 
+
+Political impotence and principles of democratic structuring.... some key points I found relevant:
+
+  * Task oriented
+  * High degree of communication
+  * Delegation, including responsibility for whatever delegated
+  * Distribution of authority
+  * Rotation of tasks among individuals
+  * Allocation of tasks along rational criteria.
+  * Diffusion of information to everyone as frequently as possible.
+  * Equal access to resources needed by the group.
+  * Structure of the group formalized
+  * Everyone is aware of the rules of how decisions are made; open and
+    available to everyone
+  * For everyone to have the opportunity to participate the structure must be
+    explicit (formalize the rules!)
+
+[The Tyranny of Structurelessness on Jo Freeman's website](http://www.jofreeman.com/joreen/tyranny.htm)
+
+### Consensus-Oriented Decision-Making
+
+"Consensus-Oriented Decision-Making: The CODM Model for Facilitating Groups to
+Widespread Agreement" by Tim Hartnett is the first book we discussed a the LRC
+book club. I first came across the CODM model on [the Wikipedia page on
+consensus
+decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making). At
+the time I was the president of the nonprofit I founded, [Hypatia Software
+Organization](http://hypatiasoftware.org). I was attempting to incorporate
+the voices of the very members the nonprofit benefitted, since the board of
+directors was at time disconnected from the members' concerns.
+
+Tim Hartnett's background as a marriage counselor and facilitator, a PHD in
+psychology, shines as this decision-making approach not only addresses
+pragmatic concerns, but the emotional interplay which ultimately determines the
+fairness of the process.
+
+When Leaderlessness Research Club started it initially was only a software
+project called "Dividita." The goal of Dividita was to provide a
+decision-making model that would make heirarchicalless/leaderless organization
+easily replicatable to successfully run organizations (businesses, art
+collectives, nonprofits, etc.). I had found some success with Hypatia Software
+Organization and I had experimented with other leaderless groups and having
+experienced the feasibility, effectiveness, and fairness which they provided, I
+thought it was important to make such a process easily replicatable and usable.
+David Graeber defines _revolutionary action_ in _Fragments of an Anarchist
+Anthropology_ as direct action which subverts
+the necessity for the state, the application of real leaderless solutions, and the
+proposal of such systems, in fact David Graeber states:
+
+> It’s not just that anarchism does not tend to have much use for high
+> theory.  It’s that it is primarily concerned with forms of pracice; it insists,
+> before anything else, that one’s means must be consonant with one’s ends; one
+> cannot create freedom through authoritarian means; in fact, as much as
+> possible, one must oneself, in one’s relations with one’s friends and allies,
+> embody the society one wishes to create
+
+> The key term in the new movement is “process,” by which is meant,
+> decision-making process. In North America, this is almost invariably done
+> through some process of finding consensus. This is as I mentioned much less
+> ideologically stifling than it may sound because the assumption behind all good
+> consensus process is that one should not even try to convert others to one’s
+> overall point of view; the point of consensus process is to allow a group to
+> decide on a common course of action. Instead of voting proposals up and down,
+> then, proposals are worked and reworked, scotched or reinvented, until one ends
+> up with something everyone can live with.
+
+_Consensus-Oriented Decision-Making_ does exactly that, with some exceptions,
+it offers a feasible, tried and tested method for consensus...
+
+The CODM model consists of seven steps:
+
+  1. Framing the topic
+  2. Open discussion
+  3. Identifying underlying concerns
+  4. Collaborative proposal building
+  5. Choosing a direction
+  6. Synthesizing a final proposal
+
+### Hellenistic History and Culture
+
+_Hellenistic History and Culture_ by Peter Green begins with a forward on the
+perspective from which the book extrapolates new information:
+
+> A distrust of all ideologies has altered old views of ancient political
+> structures, and feminism has also changed earlier assessments. The current
+> emphasis on multiculturalism has consciously deemphasized the Western,
+> Greco-Roman tradition, and Nubians, Bactrians, and other subject peoples of the
+> time are receiving attention in their own right, not just as recipients of
+> Greco-Roman culture.
+
+> History, like Herakleitos' river, never stands still. These essays share a
+> collective sense of discovery and a sparking of new ideas—they are a welcome
+> beginning to the reexploration of a fascinatingly complex age.
+
+This introduction reflects on how misrepresentation occurs through representation, a
+postcolonial theory thing which weaves into Writing Culture, ...
+
+### The Politics of Fear
+
+_The Politics of Fear: What Right-Wing Populist Discourses Mean_ by Ruth
+Wodak...
+Friend at LRC recommended this to me...
+
+### Writing Culture
+
+_Writing Culture: The Poetics and Politics of Ethnography_ by James Clifford
+(editor), George E. Marcus (editor), Mike Fortun (foreword), and Kim Fortun
+(foreword). This is the 2010 version, "This seminal collection of essays
+critiquing ethnography as literature is augmented with a new foreword by Kim
+Fortun, exploring the ways in which Writing Culture has changed the face of
+ethnography over the last 25 years."
+Recommended to me by Brian Callahan of RPI.
+
+Hopefully helps with field research. This in the vein of postcolonial theory,
+related to _Can the Subaltern Speak?_ by Gayatri Chakravorty Spivak, and The
+Ignorant Schoolmaster, and perhaps even Capitalist Realism, which poses what
+Zizek defined as "ideology:" that which we don't know we know; the systemic
+proliferation of statist, capitalist ideology into academia.
+
+### Fragments of an Anarchist Anthropology
+
+_Fragments of an Anarchist Anthropology_ by David Graeber asks us to think
+about the inherent anthropological structures behind political theories.
+From this context Graeber unveils an equation of the state to kinship systems,
+definitions for revolutionary action, the streangths of anarchy, and anarchy's
+historical role (what anarchy has historically been concerned with).
+Recommended to me by Brian Callahan of RPI. I thought this book would be
+relevant to LRC because it provokes thought deeper than the system itself,
+while simultaneously concerning itself with a framework for these systems
+(which Graeber calls "an anthropology.").
+
+Graeber's sentiment is echoed in many of the books on this list, of Zizek's
+concept of _ideology_, The Ignorant Schoolmaster's topic of systemic statism
+(how the state embues itself into everything we do), that we not only must
+become aware of our assumptions, the _anthropology_ of any system we may
+implement.
+
+### The Postmodern Condition
+
+_The Postmodern Condition_ by Jean-Francois Lyotard...
+
+Postmodernism as a postcolonial abstraction: the imaginary isolation of science
+and societal abstraction; the death of meta...
+https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
+"The ruling class is and will continue to be the class of decision makers. Even
+now it is no longer composed of the traditional political class, but of a
+composite layer of corporate leaders, high-level administrators, and the heads
+of the major professional, labor, political, and religious organisations. "
+Grand narratives are the analysis of history through a lense of an origin and
+inevitabel destination, postmodernism destroys this narrative with more nuanced
+understanding; Marxim analyzes history through the lense of class from the
+means of labor to labor immancipation, and for anarchism from serfdom to
+"increasingly democratic" means of governance--it is perhaps for this reason
+that Graeber identifies not as an anarchist but as someone who believes that
+anarchy is an action, that it is an anthropology, and that this is the ver
+ystrength of anarchism: that is concerns itself far more with the action and
+implmentation and practical, than aligning itself with grand narratives for
+interpreting history and our trajectory through some sort of _grand narrative_,
+and it is thus Graeber is a very postmodern anthropologist believer of
+anarchist action.
+Possibly in the vein of queer theory: where bisexuals are caught between due to
+outmoded grand narratives of sexuality opression, TERFs exist in the same vein
+of outmoded grand narratives of *sexual* opression.
+
+### The Ignorant Schoolmaster
+
+_The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
+Jacques Rancière. Recommended to me by Brian Callahan of RPI...
+
+Helps with generativity?
+
+### The Starfish and the Spider
 
 _The Starfish and the Spider: The Unstoppable Power of Leaderless
 Organizations_ by Ori Brafman and Rod A. Beckstorm.
@@ -572,8 +562,21 @@ Recommended to me by Brian Callahan of RPI.
 
 Quite specifically aids in LRC's goal...
 
-## Other Good Reads
+### The Society of the Spectacle
 
+_The Society of the Spectacle_ by Guy Debord (book, 1967)...
+
+There's even a Film by the same name that Guy Debord made:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IoUIHBSiVAY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Miscellaneous reads to check out
+
+  * Debt: The First 5,000 Years by David Graeber. Related: [You Should Care
+    About The Bank Exactly As Much As It Cares About
+    You](https://www.currentaffairs.org/2018/05/you-should-care-about-your-bank-exactly-as-much-as-they-care-about-you)
   * Foucault
   * Das Kapital by Marx
   * Mutual Aid by Kropotkin

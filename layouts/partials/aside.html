@@ -40,5 +40,12 @@
         {{ end }}
 
         <li>{{ .ReadingTime }} min read</li>
+
+        {{ if .Params.toc }}
+        <li>
+        {{ .TableOfContents }}
+        </li>
+        {{ end }}
     </ul>
 </aside>
+
