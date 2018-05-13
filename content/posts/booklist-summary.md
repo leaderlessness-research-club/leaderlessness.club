@@ -374,7 +374,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Capitalist Realism: Is There No Alternative?_ by Mark Fisher illustrates an
 imagination landscape infected by capitalist _ideology_ and provides tools for
-navigating "collective fiction" which reinforces it.
+navigating the "collective fiction" which reinforces it.
 
 Recommended to me by a friend at LRC. I thought this book would be useful to
 LRC because it introduces of those tools which can decipher our preconceptions
@@ -430,9 +430,18 @@ sometimes the adaptations are cataclysmic.
 > Khrushchev's announcement made it impossible to believe any more that the big
 > Other was ignorant of them.  
 
-Another example of Zizek's language, "the Symbolic," is given, illustrated
-through PR, branding, and advertising, whereby the corporation's true nature is
-_sheathed_:
+The 2008 banking crisis is an example of the role the Symbolic plays in
+capitalism realism--that while we individually internalize the faults of
+capitalism, it is not registered by the big Other, and thus it remains. Zizek
+illustrates this with a joke about a madman who, when cured of believing he is
+a kernel of corn and is released from care, promptly returns after encountering
+a chicken. The surprised doctor asks "But why, you are cured of believing
+you're a kernel of corn!" To which the madman replies, "Yes, but does the
+chicken know?" We are aware that capitalism is terrible,  and yet we
+unconciously ask ourselves "But does the big Other know?" and thus it remains
+because to us it has not been registered by the big Other.  Another example of
+Zizek's language, "the Symbolic," is given, illustrated through PR, branding,
+and advertising, whereby the corporation's true nature is _sheathed_:
 
 > Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
 > describing the inexpensive jewelry his shops sold as "crap" in an
@@ -441,16 +450,6 @@ _sheathed_:
 > the company and he lost his job. Customers might previously have known that
 > the jewelry Ratners sold was poor quality, but the big Other didn't know; as
 > soon as it did, Ratners collapsed.
-
-The 2008 banking crisis is an example of the role the Symbolic plays in capitalism
-realism--that while we individually internalize the faults of capitalism, it is not
-registered by the big Other, and thus it remains. Zizek illustrates this with a
-joke about a madman who, when cured and released of believing he is a kernel of
-corn, promptly returns after encountering a chicken, "But why, you are cured of
-believing you're a kernel of corn!" and the madman replies, "Yes, but does the
-chicken know?" We are aware that capitalism is terrible,  and yet we
-unconciously ask ourselves "But does the big Other know?" and thus it remains
-because to us it has not been registered by the big Other.
 
 It is through _the big Other_ which capitalist ideology is reinforced through
 these terms in understanding how this collective fiction is maintained:
