@@ -450,7 +450,7 @@ corn, promptly returns after encountering a chicken, "But why, you are cured of
 believing you're a kernel of corn!" and the madman replies, "Yes, but does the
 chicken know?" We are aware that capitalism is terrible,  and yet we
 unconciously ask ourselves "But does the big Other know?" Since it has not been
-registered it remains.
+registered by the big Other it remains.
 
 It is through _the big Other_ which capitalist ideology is reinforced:
 
@@ -540,8 +540,13 @@ This is a powerful conclusion to the book:
 > Quite what forms this collective management should take is an open question,
 > one that can only be resolved practically and experimentally.
 
-I think it's rather strange how close the goals of Leaderlessness Research Club
-are to all of this just through the concept of leaderlessness.
+It is then apparent that the priority is to bypass the symbolic, much like
+Ratner and Khrushchev did, in a sense making it beyond a doubt that this
+collective fiction we've bought into, the big Other, can no longer possibly
+believe its narrative and it must adapt. The Leaderlessness Research Club
+provides the revolutionary action of real world application of leaderless
+organization which will be a part of the first steps in this process in
+realizing the alternative.
 
 Related reads:
 
