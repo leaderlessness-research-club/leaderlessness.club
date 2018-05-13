@@ -10,7 +10,8 @@ categories: [books,]
 # Starting Research with a Booklist
 
 **Note: this article is incomplete and will be routinely updated for a while
-because I am impatient...**
+because I am impatient. I intend to make future posts elaborating on books and
+concepts mentioned herein, which I'll be sure to link to within this article.**
 
 I am summarizing knowledge from books I've read recently, while offering my own
 interpretation. I hope that not only will this booklist provide quality
@@ -29,15 +30,17 @@ For each book I'll try to provide:
     them
 
 Tying this booklist together is the notion that hierarchal ideologies (statism
-and capitalism, for example) infect our imagination. (Capitalist Realism) These
+and capitalism, for example) infect our imagination (Capitalist Realism). These
 ideologies sculpt our pedagogy (The Ignorant Schoolmaster), our anthropology
 (Fragments of an Anarchist Anthropology) and our history (Hellenistic History
-and Culture, Writing Culture) in their image. The consequences of this are not
-all as easy to spot as starvation, exploitation, poverty and imperialism, and
-one of the most insidious parts of these hierarchies is that they convince us
-that nothing else is possible.
-The way to combat the statist ideology is summarized well by Capitalist Realism
-and echoed by David Graeber:
+and Culture, Writing Culture) in their image, through the "collective fiction"
+(Capitalist Realism) of _the big Other_.  The consequences of this are not all
+as easy to spot as starvation, exploitation, poverty, and imperialism, and one
+of the most insidious parts of these hierarchies is that they convince us that
+nothing else is possible.  How we act and live in this collective fiction
+is often in direct contradiction with our internalized individual beliefs or
+knowledge.  A method of combatting the statist ideology is summarized well by
+Capitalist Realism and Fragments of an Anarchist Anthropology:
 
   * Produce a viable alternative, e.g., argue a delivery where neoliberalism
     has failed: a massive reduction of bureaucracy.
@@ -66,7 +69,8 @@ other organizations can apply them to things beyond our consideration. In fact
 I would argue that this is the necessary conclusion of our experience with
 Hypatia since a bunch of ragtag trans people (as we are) can't handle every
 single possible idea that could benefit from our leaderlessness framework
-without resorting to hierarchies, therefore invalidating the project.
+without resorting to hierarchies, therefore invalidating the project. [XXX:
+WHAT THE HELL IS THIS LAST SENTENCE EVEN SAYING?!]
 
 Hypatia Software Organization is an independent system fostering mutual aid and
 generative justice, via outreach and ideological-warming, abiet within current
