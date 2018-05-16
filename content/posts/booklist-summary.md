@@ -604,7 +604,7 @@ proliferation of statist, capitalist ideology into academia.
 
 _Fragments of an Anarchist Anthropology_ by David Graeber explores a
 _fragmented_ outline for the slow accumulation of revolutionary action to
-evolve the big Other.  Graeber begins with defining the type of project
+evolve the collective fiction.  Graeber begins with defining the type of project
 which anarchism is in relation to Marxism, that anarchism are largely schools
 of practices, and Marxism schools of authors. This theme is key--_anarchism is
 a practice_. Even looking at [Graeber's
@@ -622,7 +622,8 @@ theories.  From this context Graeber equates the state to the perpetuation of
 the kinship system; produces the true nature of "revolution" as a contradiction
 to the ideology of great cataclysmic breaks, e.g "the French Revolution created
 modernity;" and exemplifies anarchy's historical role. In general Graeber
-describes "anarchist anthropology" as a method for managing the big Other.
+describes "anarchist anthropology" as a method for managing the collective
+fiction.
 
 ### The Ignorant Schoolmaster
 
@@ -652,8 +653,6 @@ binary and narrative authority of gender creates a hierarchy of exclusion:
 > way of life that might then serve as a model for readers of the text. Rather,
 > the aim of the text was to open up the field of possibility for gender
 > without dictating which kinds of possibilities ought to be realized.
-
-Talk about trap shit here. Narrative Authority, gender autonomy.
 
 ### The Starfish and the Spider
 
