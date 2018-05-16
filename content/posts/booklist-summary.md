@@ -150,17 +150,10 @@ these hierarchies is that they convince us that nothing else is possible.  How
 we act and live in this collective fiction is often in direct contradiction
 with our internalized individual beliefs or knowledge.
 
-I think even more fundamental to these experiences was anarchist schooling and
+XXX: I think even more fundamental to these experiences was anarchist schooling and
 constantly experiencing the horror of the loss of my autonomy.
-
 Authoritarian narrative (trap exclusionary feminism lol), removal of autonomy,
 this is Gender Trouble.
-
-talk about gender realism in article
-
-talk about how graber basically better defines what capitalist realism
-does--amy mentioned something about linguisitic  and academic elitism. that
-some language is exclusive af "academese."
 
 ## Capitalist Realism
 
