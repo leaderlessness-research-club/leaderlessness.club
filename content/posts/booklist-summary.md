@@ -2,7 +2,7 @@
 title: "Booklist Summary"
 date: 2018-05-12T00:17:32-05:00
 authors: [ "Lily Mayfield", "Nora Winters" ]
-draft: true
+draft: false
 toc: true
 tags: [statism,capitalism,Slavoj Žižek,Mark Fisher,consensus,codm,Jo Freeman,Tim Hartnett,booklist]
 categories: [books,]
