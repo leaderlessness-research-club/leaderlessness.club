@@ -47,13 +47,13 @@ without resorting to hierarchies, therefore invalidating the project. [XXX:
 WHAT THE HELL IS THIS LAST SENTENCE EVEN SAYING?!]
 
 Hypatia Software Organization is an independent system fostering mutual aid and
-generative justice, via outreach and ideological-warming, abiet within current
+generative justice, outreach, and ideological-warming, abiet within current
 capitalist statist modes of production. "Warming" should be looked at in the
-context of the boiling frog, whereby people not necessarily aware of the
-ideology support it incrementally. While "socialism" is a call for communism
-within "Capitalist Realism", "leaderlessness" is perhaps a call for anarchy
-within a "Statist Realism." The act of warming will hopefully pave the way for
-a completely anarchist form of governance and commodity production, as people
+context of the boiling frog: people not necessarily aware of the ideology may
+support it incrementally. While "socialism" is a call for communism within
+"Capitalist Realism", "leaderlessness" is perhaps a call for anarchy within a
+"Statist Realism." The act of warming will hopefully pave the way for a
+completely anarchist form of governance and commodity production, as people
 realize that not only as an alternative possible, but it is in fact preferable
 to the current order of things.
 
@@ -98,22 +98,22 @@ Some of these books may be political, however, all of them offer insight for
 LRC's goal of creating a proposal for a leaderless decision-making process that
 will be turned into an app. I see a lot of these books as an extention or
 forethought for organizational research, these topics are essential in
-implementing a system of humans, to name a few: rhetoric (The Politics fo
+implementing a system for humans, to name a few: rhetoric (The Politics fo
 Fear), framework of unstructured oppression (The Tyranny of Structurelessness),
 anthropology (David Graeber), ideology (Capitalist Realism), pedagogy (The
 Ignorant Schoolmaster), ethnography (Writing Culture), linguistics (Language
 and Symbolic Power).
 
-Some of these books were perhaps prohibatively academic, and I was lucky to
-have time to do the background-research to fully understand those; this is
+Some of these books were perhaps prohibitively academic, and I was lucky to
+have time to do the background research to fully understand those; this is
 something touched upon by both The Ignorant Schoolmaster and Language and
 Symbolic Power. It can also be said that often academics are disconnected to
 the realities which they describe, even if they had an impoverished past (this
 has been referred to as "house training"). I believe this is why ethnography
-(Writing Culture) is so important to include. Graeber's anthropology also
-speaks to this (ethnography is a subfield of anthropology). Truly, does this
-not all describe an inherent issue with the hierarchical mindset, is it not
-"statist realism?"
+(Writing Culture) is so important to consider in this context. Graeber's
+anthropology also speaks to this (ethnography is a subfield of anthropology).
+Truly, does this not all describe an inherent issue with the hierarchical
+mindset, is it not "statist realism?"
 
 The scope of scale for this organizational research is hopefully significant
 enough to at least inch us forward for the organizational structures of small
@@ -127,10 +127,11 @@ power, but encourages encourages the growth of bad behavior.
 
 Surely we can all admit that there are some things which leadership roles don't
 even make sense and are unwise. Experimentation with these models subverts
-statism by finally registering it with the big Other, that is to say, to
-finally infuse the feasibility of leaderlessness and highlight the terribleness
-of statism through juxtaposition, to make this paradigm through accumulative
-action.
+statism by finally [registering it with the big
+Other](http://leaderlessness.club/posts/booklist-summary/#capitalist-realism),
+that is to say, to finally infuse the feasibility of leaderlessness and
+highlight the terribleness of statism through juxtaposition, to make this
+paradigm through accumulative action.
 
 The biggest issue we face is creating an explicit alternative to capitalist
 statism. Anarchism has taken the place of Marxism in modern academic culture.
@@ -185,6 +186,49 @@ about systems of organization, enabling us to both think outside the box, while
 having the diagnostics and caveats to guide us on our periless journey to
 increasingly larger scale leaderless systems of organization in the real world.
 
+XXX: The big Other is the _collective fiction_ (Fisher) society requires for
+supressing aspect(s) of the truth in order to function. For this reason,
+speaking this fiction explicitly disrupts the collective thought.  It
+establishes the conditions which we are recognized in a particular way, by
+others sharing that societal space.  Conventions of social life and laws
+preexist us, they are external to us. We must use the language, law, etc., of
+the big Other to interact with people.
+
+XXX: It's important to take Lacan and Zizek with a grain of salt--these old
+concepts are from a psychoanalyst (Lacan). [Noam Chomsky calls Zizek and Lacan
+charlatans, "empty
+posturing."](http://www.critical-theory.com/noam-chomsky-calls-jacques-lacan-a-charlatan/):
+
+> [...] “fancy words” that mean
+> nothing once they are “decoded”. “Zizek is an extreme example, I don’t see
+> anything in what he’s saying,” said Chomsky.
+>
+> Jacques Lacan I actually knew [...] quite frankly I thought he was a total charlatan, just
+> posturing before the television cameras the way many Paris intellectuals do.
+>
+> Some of the people in these cults [...] I’ve
+> met: [...] Lacan (who I met several
+> times and considered an amusing and perfectly self-conscious charlatan,
+> though his earlier work, pre-cult, was sensible and I’ve discussed it in
+> print).
+>
+> I’ve dipped into what they write out of curiosity, but not very far, for
+> reasons already mentioned: what I find is extremely pretentious, but on
+> examination, a lot of it is simply illiterate, based on extraordinary
+> misreading of texts that I know well (sometimes, that I have written),
+> argument that is appalling in its casual lack of elementary self-criticism,
+> lots of statements that are trivial (though dressed up in complicated
+> verbiage) or false; and a good deal of plain gibberish.
+
+XXX:  I think what Chomsky mentioned is true, but what is interesting about
+Capitalist Realism is it draws on this Zizek-Lacan mythos, as metaphors. These
+metaphors describe something quite similar to what Graeber did in Fragments of
+an Anarchist Anthropology.  However, when I first read Fragments of an
+Anarchist Anthropology (which was after Capitalist Realism) I didn't understand
+its wonderfulness as deeply compared to after studying all this Zizek-Lacanism
+in Capitalist Realism and rereading both books in tandem.  I think there's some
+logic to this madness.
+
 Capitalist Realism perpetuates itself with _ideology_.  My favorite
 explaination of "ideology" is Zizek's tongue-in-cheek extension of [Donald
 Rumsfeld's "amateur
@@ -192,29 +236,30 @@ philosophizing,"](http://archive.defense.gov/Transcripts/Transcript.aspx?Transcr
 
 > Reports that say that something hasn't happened are always interesting to
 > me, because as we know, there are known knowns; there are things we know we
-> know. We also know there are known unknowns; that is to say we know there are
+> know.
+>
+> We also know there are known unknowns; that is to say we know there are
 > some things we do not know. But there are also unknown unknowns – the ones we
 > don't know we don't know
 
 Zizek uses this to highlight a missing term: the "unknown knowns," the things
 we don't know that we know. One of those things we don't know that we know is
 that "we can have whatever we want as long as someone's selling it." That it is
-this boundless hedonism which acts as the symbolic in economic policy.  Our
-minds excuse the contradiction of our participation with the overvaluation of
-our beliefs, and it is through this sort of object do we practice the symbolic
-of existence in capitalism, and it is the imaginary that these beliefs
-ultimately amount to anything, and the real again is exploitation and
-environmental destruction. However, I don't think this is to say that companies
-aren't doing more to destroy the environment than you could ever make up for by
-having every person in the US drive electric, recycle, compost, and all these
-things.  Instead I believe this provides a compass for navigating the ideology
-of capitalism; the symbolic, the real, the imaginary, these terms help us
-navigate and understand the big Other.  Fisher refers to _the big Other_ as a
-"collective fiction," the symbolic, the imaginary, and the virtual all
-encourage us to buy into these collective fictions despite the real, and when
-there's nothing left to encourage us to buy into those collective fictions it
-adapts, sometimes these adaptations are subtle, seemingly insignificant, and
-sometimes the adaptations are cataclysmic.
+this boundless hedonism which acts as economic policy.  Our minds excuse the
+contradiction of our participation through the overvaluation of our beliefs,
+and it is through this sort of object do we practice our existence in
+capitalism, and it is imaginary that these beliefs ultimately amount to
+anything, while the reality is exploitation and environmental destruction.
+However, I don't think this is to say that companies aren't doing more to
+destroy the environment than you could ever make up for by having every person
+in the US drive electric, recycle, compost, and all these things.  Instead I
+believe this provides a compass for navigating the ideology of capitalism; the
+Symbolic whose actions maintain this fiction, and the imaginary which idealizes
+it, terms which help navigate and understand this "collective fiction." This
+order encourages us to buy into ideology, the collective fiction despite
+reality. However, when there's nothing left to encourage us to buy into those
+collective fictions it adapts, sometimes these adaptations are subtle,
+seemingly insignificant, and sometimes the adaptations are cataclysmic.
 
 > To use one of  Žižek's examples: who was it, for instance, who didn't know
 > that  Really Existing Socialism (RES) was shabby and corrupt?  Not any of the
@@ -235,16 +280,19 @@ sometimes the adaptations are cataclysmic.
 
 The 2008 banking crisis is an example of the role the Symbolic plays in
 capitalism realism--that while we individually internalize the faults of
-capitalism, it is not registered by the big Other, and thus it remains. Zizek
-illustrates this with a joke about a madman who, when cured of believing he is
-a kernel of corn and is released from care, promptly returns after encountering
-a chicken. The surprised doctor asks "But why, you are cured of believing
-you're a kernel of corn!" To which the madman replies, "Yes, but does the
-chicken know?" We are aware that capitalism is terrible,  and yet we
-unconciously ask ourselves "But does the big Other know?" and thus it remains
-because to us it has not been registered by the big Other.  Another example of
-Zizek's language, "the Symbolic," is given, illustrated through PR, branding,
-and advertising, whereby the corporation's true nature is _sheathed_:
+capitalism, there was no bypassing of the Symbolic, that layer between the
+inividual and the collective fiction, there was no proving beyond a doubt that
+it was registered by the big Other, and thus it remains as an action based off
+this collective fiction. Zizek illustrates this with a joke about a madman who,
+when cured of believing he is a kernel of corn and is released from care,
+promptly returns after encountering a chicken. The surprised doctor asks "But
+why, you are cured of believing you're a kernel of corn!" To which the madman
+replies, "Yes, but does the chicken know?" We are aware that capitalism is
+terrible,  and yet we unconciously ask ourselves "But does the big Other know?"
+and thus it remains because to us it has not been registered by the big Other.
+Another example of Zizek's language, "the Symbolic," is given, illustrated
+through PR, branding, and advertising, whereby the corporation's true nature is
+_sheathed_:
 
 > Ratner precisely tried to circumvent the Symbolic and "tell it how it is,"
 > describing the inexpensive jewelry his shops sold as "crap" in an
@@ -254,20 +302,12 @@ and advertising, whereby the corporation's true nature is _sheathed_:
 > the jewelry Ratners sold was poor quality, but the big Other didn't know; as
 > soon as it did, Ratners collapsed.
 
-It is through _the big Other_ which capitalist ideology is reinforced through
-these terms in understanding how this collective fiction is maintained:
-
-  * The imaginary of perpetual growth. The imaginary is the layer aside reality
-    we perceive and value equally.
-  * The symbolic of work and consumption. The symbolic is how we interact
-    through the big Other.
-  * The real of exploitation and environmental destruction. The real may be
-    something that is even fully actualized among individuals, but they are
-    submerged in the "collective fiction" of the big Other.
+That is, when Ratner tried to circumvent the behavior which maintains the
+collective narrative, the collective narrative snaped and reshaped.
 
 I like the way [Zimbardo's _The Lucifer
 Effect_](https://archive.org/details/TheLuciferEffectUnderstandingHowGoodPeopleTurnEvilISBN9781400064113)
-depicts the extremes of the big Other:
+depicts the extremes of the Symbolic:
 
 > Aberrant, illegal, or immoral behavior by individuals in service professions, 
 > such as policemen, corrections officers, and soldiers, is typically labeled the mis- 
@@ -281,6 +321,16 @@ depicts the extremes of the big Other:
 > potentially corrupting situational impact on those within it. A systems
 > analysis focuses on the barrel makers, on those with the power to design the
 > barrel.
+
+All of this is packaged nicely by this paragraph in Capitalist Realism:
+
+> There are certainly conspiracies in capitalism, but the problem is that they
+> are themselves only possible because deeper level structures allow them to
+> function. "Does anyone really think, for instance, that things would improve if
+> we replaced the whole managerial and banking class with a whole new set of
+> ("better") people? Surely, on the contrary, it is evident that the vices are
+> engendered by the structure, and that while the structure remains the vices
+> will reproduce themselves."
 
 Kafka illustrates the structure of disavowal inherent to bureaucracy with a
 quest to reach the authority who will finally resolve K's official
@@ -309,30 +359,24 @@ illustration of what reinforces the participation/belief in the big Other, that
     Talk)](https://www.ted.com/talks/dan_meyer_math_curriculum_makeover).
     Students learn to pass tests, not to have deep, fundamental understandings.
 
-All of this is packaged nicely by this paragraph in Capitalist Realism:
-
-> There are certainly conspiracies in capitalism, but the problem is that they
-> are themselves only possible because deeper level structures allow them to
-> function. "Does anyone really think, for instance, that things would improve if
-> we replaced the whole managerial and banking class with a whole new set of
-> ("better") people? Surely, on the contrary, it is evident that the vices are
-> engendered by the structure, and that while the structure remains the vices
-> will reproduce themselves."
-
-Capitalist Realism outlines these methods of change:
+Capitalist Realism finally outlines these methods of change for combatting the
+statist/capitalist ideology:
 
   * Remove business ontology from (public) services. In regard to LRC I think
     about our "key performance indicators."
   * Produce a viable alternative. LRC needs to not only research and prepare
     for the unintuitive caveats of real implementations of leaderlessness, but
     it needs to balance this with real-world application and experimentation, and
-    proposals for methods for accomplishing such.
-  * Assertion of worker autonomy (as opposed to control by management)
-  * Withdraw, evade forms of labor which "will only be noticed by the
+    proposals for methods for accomplishing such.  For example, argue a delivery
+    where neoliberalism has failed: a massive reduction of bureaucracy.
+  * Struggle over work and who controls it, assertion of worker autonomy (as
+    opposted to control by management) together with a rejection of certain
+    kinds of labor (such as auditing) which "will only be noticed by the
     management which have no effect on the delivery[...] but which
-    managerialism cannot do without." Reject these managerial-types of labor (such
-    as auditing). Institute industrial action against managerialism in general.
+    managerialism cannot do without." cannot do without.
+    Institute industrial action against managerialism.
   * Realize the unhealthiness of these systems
+  * Resolve things through collective management, practically and experimentally
 
 This is a powerful conclusion to the book:
 
@@ -345,32 +389,18 @@ This is a powerful conclusion to the book:
 > Quite what forms this collective management should take is an open question,
 > one that can only be resolved practically and experimentally.
 
-It is then apparent that the priority is to bypass the symbolic, much like
-Ratner and Khrushchev did, in a sense making it beyond a doubt that this
-collective fiction we've bought into, the big Other, can no longer possibly
-believe its narrative and it must adapt. The Leaderlessness Research Club
-provides the revolutionary action of real world application of leaderless
-organization which will be a part of the first steps in this process in
-realizing the alternative.
-
-A method of combatting the statist ideology is summarized well by
-the final pages of the book:
-
-  * Produce a viable alternative, e.g., argue a delivery where neoliberalism
-    has failed: a massive reduction of bureaucracy.
-  * Struggle over work and who controls it, assertion of worker autonomy (as
-    opposted to control by management) together with a rejection of certain
-    kinds of labor (such as auditing) which managerialism cannot do without
-  * Reject business ontologies
-  * Realize the unhealthiness of certain systems...
-  * Resolve things through collective management, practically and experimentally
+The priority must be to make apparent to the big Other beyond-a-doubt that
+these alternatives are real, as with the faults of capitalism.  The
+Leaderlessness Research Club provides the revolutionary action of real world
+application of leaderless organization which will be a part of the first steps
+in this process in realizing the alternative.
 
 Isn't it interesting how close the goals of Leaderlessness Research Club are to
 all of this just through the concept of leaderlessness?  Many of us LRC members
-who are marginalized people (trans femmes, notably) had already experienced the
-real of capitalist-statism as individually-internalized realities, but only
-when we united did the collective fiction crack, through which the real glares
-at us, challenging us to change it. Related reads:
+who are marginalized people (trans femmes, notably) have personally experienced the
+reality of capitalist-statism as individually-internalized realities, but only
+when we united did the collective fiction crack, through which reality whispers
+a hope for change. Related reads:
 
   * [Three Short Essays on Zizek](https://sites.williams.edu/cthorne/articles/three-short-essays-on-zizek/)
   * [Lacan through Zizek on the big
@@ -570,7 +600,7 @@ proliferation of statist, capitalist ideology into academia.
 
 _Fragments of an Anarchist Anthropology_ by David Graeber explores a
 _fragmented_ outline for the slow accumulation of revolutionary action to
-evolve the big Other.  Graeber begins with defining the the type of project
+evolve the big Other.  Graeber begins with defining the type of project
 which anarchism is in relation to Marxism, that anarchism are largely schools
 of practices, and Marxism schools of authors. This theme is key--_anarchism is
 a practice_. Even looking at [Graeber's
@@ -635,6 +665,21 @@ Highlights language used as a prohibative to informational liberation.
 
 > This volume brings together Pierre Bourdieu’s highly original writings on
 > language and on the relations among language, power, and politics.
+
+XXX: he basically says that because rich people have this knowledge of symbolic
+power, they can use that to project success symbolic power can be like a
+political dialect that Obama and Hillary have it's a good example trump doesn't
+have that though slime - Today at 1:36 AM eyes gleam Keroko - Today at 1:36 AM
+he has other strategies which I think is interesting i found it very
+interesting about him like coming from a poor background then coming in contact
+with the riches and having all these realizations and i feel like thats exactly
+what happened to me like i felt like he was talking about so many of my
+experiences it was neat i really like how he talked about social capital and
+like this thing i always believed in which is like if you come from a rich
+background even if you are kicked out on your ass you are in much greater
+standing than someone in same situation but come from impoverished background
+tand just like about how they're like compeltely different cultures except only
+a certain one is favored
 
 ### Tangential reads
 
