@@ -31,33 +31,6 @@ For each book I'll try to provide:
   * Eventually I'll add links later if more thorough blog posts are made about
     them
 
-Tying this booklist together is the notion that hierarchal ideologies (statism
-and capitalism, for example) infect our imagination (Capitalist Realism). These
-ideologies sculpt our pedagogy (The Ignorant Schoolmaster), our anthropology
-(Fragments of an Anarchist Anthropology) and our history (Hellenistic History
-and Culture, Writing Culture) in their image, through the "collective fiction"
-(Capitalist Realism) of _the big Other_.  The consequences of this are not all
-as easy to spot as starvation, exploitation, poverty, and imperialism, and one
-of the most insidious parts of these hierarchies is that they convince us that
-nothing else is possible.  How we act and live in this collective fiction
-is often in direct contradiction with our internalized individual beliefs or
-knowledge.  A method of combatting the statist ideology is summarized well by
-Capitalist Realism and Fragments of an Anarchist Anthropology:
-
-  * Produce a viable alternative, e.g., argue a delivery where neoliberalism
-    has failed: a massive reduction of bureaucracy.
-  * Struggle over work and who controls it, assertion of worker autonomy (as
-    opposted to control by management) together with a rejection of certain
-    kinds of labor (such as auditing) which managerialism cannot do without
-  * Reject business ontologies
-  * Realize the unhealthiness of certain systems...
-  * Resolve things through collective management, practically and experimentally
-  * Join the LRC today! (some kind of action link here) we are the alternative!
-    We build it and experiment with its practical application of collective
-    management constantly!
-
-## Background
-
 I founded Hypatia Software Organization some years ago (put date, just year is
 ok) to help solve the problems that people at the intersection of poverty and
 transmisogyny face.  In retrospect, anarchy was a natural conclusion of our experiments with
@@ -91,12 +64,12 @@ types, simply due to prior exposure to emergent patterns and how they craft
 software.
 
 I was (ironically) confronted by classism within Hypatia when there was a push
-by the Board of Directors to remove or restrict the cash relief program,
-largely due to a particular homeless beneficiary. I viewed this disconnect as
-an example of the misrepresentation intrinsic to hierearchal forms of
-representation. The path I used to represent member's voices was simple: to
-actually incorporate their voices via consensus. Consensus is a pillar of
-anarchy, and as I studied it more I finally arrived at leaderlessness.
+by the Board of Directors to restrict the cash relief program, largely due to a
+particular homeless beneficiary. I viewed this disconnect as an example of the
+misrepresentation intrinsic to hierearchal forms of representation. The path I
+used to represent member's voices was simple: to actually incorporate their
+voices via consensus. Consensus is a pillar of anarchy, and as I studied it
+more I finally arrived at leaderlessness.
 
 David Graeber defines "revolutionary action" in _Fragments of an Anarchist
 Anthropology_ as:
@@ -120,6 +93,74 @@ I absolutely think Graeber is taking the right approach here, particularly as
 breaking into underprivileged communities and working with them to improve
 their situations is concerned. That is, I'm performing my own "revolutionary
 action" by pushing the _reality_ of leaderless systems.
+
+Some of these books may be political, however, all of them offer insight for
+LRC's goal of creating a proposal for a leaderless decision-making process that
+will be turned into an app. I see a lot of these books as an extention or
+forethought for organizational research, these topics are essential in
+implementing a system of humans, to name a few: rhetoric (The Politics fo
+Fear), framework of unstructured oppression (The Tyranny of Structurelessness),
+anthropology (David Graeber), ideology (Capitalist Realism), pedagogy (The
+Ignorant Schoolmaster), ethnography (Writing Culture), linguistics (Language
+and Symbolic Power).
+
+Some of these books were perhaps prohibatively academic, and I was lucky to
+have time to do the background-research to fully understand those; this is
+something touched upon by both The Ignorant Schoolmaster and Language and
+Symbolic Power. It can also be said that often academics are disconnected to
+the realities which they describe, even if they had an impoverished past (this
+has been referred to as "house training"). I believe this is why ethnography
+(Writing Culture) is so important to include. Graeber's anthropology also
+speaks to this (ethnography is a subfield of anthropology). Truly, does this
+not all describe an inherent issue with the hierarchical mindset, is it not
+"statist realism?"
+
+The scope of scale for this organizational research is hopefully significant
+enough to at least inch us forward for the organizational structures of small
+groups, all the way up to an alternative to the state. This statist realism is
+reflected in questions like "So the mob dictates the actions of others? Isn't
+that tyranny of the majority?" or "But won't abuses of power always happen
+because power exists and people are animals?" Here I believe Zimbardo paints an
+entertaining picture about "bad apples" vs. "bad barrels." It is in fact the
+exploitability of these power dynamics which not only enables such abuses of
+power, but encourages encourages the growth of bad behavior.
+
+Surely we can all admit that there are some things which leadership roles don't
+even make sense and are unwise. Experimentation with these models subverts
+statism by finally registering it with the big Other, that is to say, to
+finally infuse the feasibility of leaderlessness and highlight the terribleness
+of statism through juxtaposition, to make this paradigm through accumulative
+action.
+
+The biggest issue we face is creating an explicit alternative to capitalist
+statism. Anarchism has taken the place of Marxism in modern academic culture.
+Anarchism is a prohibited speech except where used in coded language through
+topics like mutual aid, direct democracy, etc. However, through quotidian
+application the alternative becomes realized, the paradigm is set, it is
+registerd with the big Other.
+
+Tying this booklist together is the notion that hierarchal ideologies (statism
+and capitalism, for example) infect our imagination (Capitalist Realism). These
+ideologies sculpt our pedagogy (The Ignorant Schoolmaster), our anthropology
+(Fragments of an Anarchist Anthropology), our history (Hellenistic History and
+Culture, Writing Culture), and even gender (Gender Trouble) in their image.
+The consequences of this are not all as easy to spot as starvation,
+exploitation, poverty, and imperialism, and one of the most insidious parts of
+these hierarchies is that they convince us that nothing else is possible.  How
+we act and live in this collective fiction is often in direct contradiction
+with our internalized individual beliefs or knowledge.
+
+I think even more fundamental to these experiences was anarchist schooling and
+constantly experiencing the horror of the loss of my autonomy.
+
+Authoritarian narrative (trap exclusionary feminism lol), removal of autonomy,
+this is Gender Trouble.
+
+talk about gender realism in article
+
+talk about how graber basically better defines what capitalist realism
+does--amy mentioned something about linguisitic  and academic elitism. that
+some language is exclusive af "academese."
 
 ## Capitalist Realism
 
@@ -301,6 +342,18 @@ provides the revolutionary action of real world application of leaderless
 organization which will be a part of the first steps in this process in
 realizing the alternative.
 
+A method of combatting the statist ideology is summarized well by
+the final pages of the book:
+
+  * Produce a viable alternative, e.g., argue a delivery where neoliberalism
+    has failed: a massive reduction of bureaucracy.
+  * Struggle over work and who controls it, assertion of worker autonomy (as
+    opposted to control by management) together with a rejection of certain
+    kinds of labor (such as auditing) which managerialism cannot do without
+  * Reject business ontologies
+  * Realize the unhealthiness of certain systems...
+  * Resolve things through collective management, practically and experimentally
+
 Isn't it interesting how close the goals of Leaderlessness Research Club are to
 all of this just through the concept of leaderlessness?  Many of us LRC members
 who are marginalized people (trans femmes, notably) had already experienced the
@@ -377,7 +430,7 @@ often without their knowledge or consent.  (REWORD: pagerism)
 Freeman illustrates elitism as nepotism: that people with external friendships
 to each other will have communication networks, consulting each other in
 decisions, often sharing in the same values and orientations not even by
-conspiracy, those involved with these networks will have more power than those
+conspiracy: those involved with these networks will have more power than those
 who don't. Sometimes two or more of such "networks" or "friend groups" will
 compete for power within the group. Informal communication networks are
 invitably exclusive and elitist. A comparison is drawn that informal systems of
@@ -526,7 +579,74 @@ to the ideology of great cataclysmic breaks, e.g "the French Revolution created
 modernity;" and exemplifies anarchy's historical role. In general Graeber
 describes "anarchist anthropology" as a method for managing the big Other.
 
-### The Postmodern Condition
+### The Ignorant Schoolmaster
+
+_The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
+Jacques Rancière. Recommended to me by Brian Callahan of RPI...
+
+Helps with generativity?
+
+### Gender Trouble
+
+_Gender Trouble_ by Judith Butler starts off by talking about how the ridgid
+binary and narrative authority of gender creates a hierarchy of exclusion:
+
+> In 1989 I was most concerned to criticize a pervasive heterosexual assumption
+> in feminist literary theory. I shought to counter those views that made
+> presumptions about the limits and propriety of gender and restricted the
+> meaning of gender to received notions of masculinity and feminity. It was and
+> remains my view that any feminist theory that restricts the meaning of gender
+> int he presuppositions of its own practice sets up exclusionary gender norms
+> within feminism, often with homophobic consequences. It seemed to me, and
+> continues to seem, that feminism ought to be careful not to idealize certain
+> expressions of gender that, in turn, produce new forms of hierarchy and
+> exclusion. In particular, I opposed those regimes of truth that stipulated
+> that certain kinds of gendered expressions were found to be false or
+> derivative, and others, true and original. The point was not to prescribe a
+> new gendered way of life that might then serve as a model for new gendered
+> way of life that might then serve as a model for readers of the text. Rather,
+> the aim of the text was to open up the field of possibility for gender
+> without dictating which kinds of possibilities ought to be realized.
+
+Talk about trap shit here. Narrative Authority, gender autonomy.
+
+### The Starfish and the Spider
+
+_The Starfish and the Spider: The Unstoppable Power of Leaderless
+Organizations_ by Ori Brafman and Rod A. Beckstorm.
+Recommended to me by Brian Callahan of RPI.
+
+Quite specifically aids in LRC's goal...
+
+### Language and Symbolic Power
+
+Highlights language used as a prohibative to informational liberation.
+
+> This volume brings together Pierre Bourdieu’s highly original writings on
+> language and on the relations among language, power, and politics.
+
+### Tangential reads
+
+  * _Grey Eminence_ by Aldous Huxley...
+  * The Order of Things by Foucault
+  * Caliban and the Witch
+  * Debt: The First 5,000 Years by David Graeber. Related: [You Should Care
+    About The Bank Exactly As Much As It Cares About
+    You](https://www.currentaffairs.org/2018/05/you-should-care-about-your-bank-exactly-as-much-as-they-care-about-you)
+  * Mutual Aid by Kropotkin
+  * Bullshit Jobs
+
+#### The Society of the Spectacle
+
+_The Society of the Spectacle_ by Guy Debord (book, 1967)...
+
+There's even a Film by the same name that Guy Debord made:
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IoUIHBSiVAY" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### The Postmodern Condition
 
 _The Postmodern Condition_ by Jean-Francois Lyotard...
 
@@ -552,262 +672,3 @@ anarchist action.
 Possibly in the vein of queer theory: where bisexuals are caught between due to
 outmoded grand narratives of sexuality opression, TERFs exist in the same vein
 of outmoded grand narratives of *sexual* opression.
-
-### The Ignorant Schoolmaster
-
-_The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation_ by 
-Jacques Rancière. Recommended to me by Brian Callahan of RPI...
-
-Helps with generativity?
-
-### The Starfish and the Spider
-
-_The Starfish and the Spider: The Unstoppable Power of Leaderless
-Organizations_ by Ori Brafman and Rod A. Beckstorm.
-Recommended to me by Brian Callahan of RPI.
-
-Quite specifically aids in LRC's goal...
-
-### The Society of the Spectacle
-
-_The Society of the Spectacle_ by Guy Debord (book, 1967)...
-
-There's even a Film by the same name that Guy Debord made:
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/IoUIHBSiVAY" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### Miscellaneous reads to check out
-
-  * Debt: The First 5,000 Years by David Graeber. Related: [You Should Care
-    About The Bank Exactly As Much As It Cares About
-    You](https://www.currentaffairs.org/2018/05/you-should-care-about-your-bank-exactly-as-much-as-they-care-about-you)
-  * Foucault
-  * Das Kapital by Marx
-  * Mutual Aid by Kropotkin
-  * _Grey Eminence_ by Aldous Huxley...
-  * Bartleby the Scrivner, see also this article by Zizek:
-    http://myheartwillgoonandsoonandsoon.blogspot.com/2017/05/i-would-prefer-not-to-is-to-be-taken.html
-
-## Questions & answers
-
-Here's a conversation I had with someone, but I've changed it up a bit to be
-more informative and digestible.
-
-Q: Are all these political? Tyranny of Structurelessness, The Politics of
-Fear, Writing Culture, etc., give me that impression.
-
-A: Depends on what you mean by "political." For example, The Politics of Fear
-gives us a framework for rhetoric, The Tyranny of Structurelessness a framework
-for unstructured opression, etc. I see this kind of political theory as an
-organizational reserach theory much larger in scope. It is the framework which
-describes the operations of society akin to anthropology (which Graeber
-highlights as a glaring lack of interdisciplinary understanding with regards to
-systems of organization).
-
-Q: I see you include books which don't tackle leaderlessness, like Capitalist
-Realism and Das Kapital. I'm not sure what they have to do with anything?
-
-A: "Capitalist Realism," for example, is composed of sources like Zizek who are
-statist anti-capitalists, however, the framework it provides is a useful
-language for describing larger concepts.
-
-Q: These do sound like they're framed in a highly academic, and a very
-particular kind of academic at that, tone and language. I strongly dislike
-academia, principally for the politics and that they are completelydisconnected
-with reality. Academics, people who've spent their entire adult life living in
-the sphere of academia don't understand what life outside an ivory tower is
-like.
-
-A: Then you'd probably enjoy reading  "The Ignorant Schoolmaster." The ideology
-(Zizek) of statism affects this too--pedagogical ideology as academia, again,
-statism casts a reflection of itself here as well, that even in our concept of
-education it is a statist conceptualization, education is a prescriptive
-system: the teacher and the student.  In the first chapter of _Fragments of an
-Anarchist Anthropology_, Graeber delvies into anarchy being inherently
-incompatible with academia today. That one of the core features of anarchy is
-concerning itself more with application than high theory, however this doesn't
-omit room for high theory.  Consider this, you talk about how people in the
-ivory tower are completely dissonant on what's going on around them--this is a
-result of that state mentality, it is that when you become a teacher that you
-are "house trained" and that you inevitably lose connection as you become
-ever-submerged in an academic culture which demands you speak their language
-and articulate their ideals.  I trace this back to again: the reflection of
-statism reflects itself across a fractal of society. _Writing Culture_ talks
-about how academia can never be representative so long at it is statist (as
-does the ignorant schoolmaster and David Graeber's fragments of an anarchist
-anthropology).
-
-Q: So when you say "statist" do you mean the presence of a power dynamic?  Or
-do you mean the presence of some organized hierarchical structure of society ?
-I still fail to see how it's germane to the teacher/student relationship as it
-exists now and how it has existed for ages
-
-A: David Graeber poses a falseness of the postmodern, of "modernity", because
-from the anthropological identification of capitalism and statism they are
-kinship systems, kinship systems which have persisted, that fundamental
-societal interplay negating any sense of postmodernity through some great
-cataclysmic change (in fact change has never operated this way, but that's
-another topic).  The conceptualization of a shift from kinship systems to
-something greater, "an enlightenment" of democracy shifting us away from the
-aforementioned, is this very kind of "cataclysmic change" I specify as being
-nonexistant, and thus no such postmodernism exists.  When I say "state" I mean
-exclusive power, the prescriptive, the policy, the ability a nonmajority to
-hold exclusive power as a few over the many. If you want an introduction to
-anarchist theory _Fragments of an Anarchist Anthropology_ offers a great
-framework.
-
-Q: What scale are you talking about in terms of organization?
-
-A: Again, I mean: "[the state] creates a reflection of itself across a fractal
-of society." at every scale of society, affecting organization at every scale,
-statism is an anthropological way of our life--a thing we do not know we know.
-For example, postcolonial theory states that those from outside of a culture
-misrepresent those they attempt to document inherently because they are
-representatives and those observations are formed from an exclusive 
-
-Q: Describe how Zizek uses the word _ideology_, and what "a reflection of
-itself a cross a fractal of society" means more precisely, since I am
-unfamiliar with Zizek and I don't know if there are subtleties to the meaning
-of the latter beyond "you can observe this phenomenon in a variety of scales in
-society."
-
-A:  Zizek uses the word "ideology" to mean "what we don't know we know" and
-uses that framework to describe the danger of capitalism is that it does not
-use the old repressive methods of Stalin-esque propaganda, but rather
-implements itself through this kind of "ideology," again, in regard to "a
-reflection of itself across a fractal of society" means that statism and
-capitalism imbues itself its mentality its essence its "ideology" (Zizek again
-here as we talked about) through everything we do because it is exactly that:
-that which we do not know we know, and as such, it is our understanding of
-organization and interplay for any scale of society.  It is this interesting point
-Zizek delivers: this is how capitalism is maintained, rather than, again,
-Stalin-esque maintenance through propaganda.
-
-Q: Why do you disagree with Zizek's conclusions that a state is necessary?
-
-A:  Because his conceptions of anarchist modes of decision-making are
-outmoded, because the advent of technology brings possibilities of automating
-consensus and direct democracy. However, Zizek's views are more complicated
-than this (e.g., the selfish locality in a globalist network of humanity).
-
-Q: Who decides which methods are used?
-
-A: This is a complicated topic. It's both that revolutionary action is the
-subversion of the state by basically replacing it, but on the other hand within
-the state it is ultimately controlled by the state and the general anthropology
-interplay
-
-Q: How do you counteract the desire for power?  I can't imagine a world in
-which people don't pursue the accumulation of power.  Perhaps there exist a
-group of people whose predisposition is to exist at the top of a social
-hierarchy. There are those who will connive to usurp the structures in place to
-gain power to use for their benefit, but if you have any concentration of power
-it inherently becomes one in which a hierarchy exists. I see anarchy as a
-highly unstable system a high energy state, so to speak, in which the system
-will try to reach a more stable equilibrium by a redistribution of power (its
-actors pursuing this end). On that topic, how does a military without a
-hierarchy exist?
-
-A: It is true in any system that people will have a desire for power. Please
-"The Tyranny of Structurelessness" and my analysis of it.  Also, _Mutual Aid: A
-Factor of Evolution_ is really good as it summarizes Darwinian relation to
-human anthropology (Kropotkin was a close friend of Darwin).  I recommend it
-because mutual aid does seem to be THE factor of the world's most proliferated
-species. People can govern through a formalized general agreeance and enforce
-it in the same way.  That is, what about the concentration of power of
-confederate will?  As long as the people get to have order over the military's
-actions anarchies can obviously create societal contracts with representative
-structures like nuclear facilities and the military where snap judgements are
-required.  The important thing is that ultimately the policy and direction of
-society is set by a ruling few and that these services answer to those ruling
-elite and not the general populous, i.e., in this case the military holds no
-exclusive power over "policy." I hate to talk about "the military" and "policy"
-in this way and in the scope of this booklist, but it does seem to draw some
-useful parallels and analogies to other services an anarchy might
-utilize/render.
-
-Q: So the mob dictates the actions of others? Isn't this tyranny of the
-majority?
-
-A: If you utilize the concepts, the ideology, behind _The Tyranny of the
-Majority_ then you have to accept that democracy itself is futile.  I and
-others have proposed the tyranny of tyranny itself is the real hazard.  Also,
-if you believe this, then why trust people to elect representatives in the
-first place?  We instead are forced into a system in which a kinship system
-allows us to only vote for rich families who have long maintained state
-structures.
-
-Q: But won't abuses of power always happen because power exists and people are animals?
-
-A: So why aren't you an anarchist? Zimbardo posed it is not the "bad apples,"
-but rather the ill soil creating toxic trees. Anarchism is fundamentally posing
-that the state creates the ill soil, enabling power to be abused by the few who
-will act in disregard of the many (those we label as the exceptions, the "bad
-apples").  We should collectively and democratically decide, as a people, what
-our societal agreement is, which these agreements can affect/effect services of
-society, even those with "necessary hierarchy" like the military, those
-services are still ultimately accountable and managed by the people, rather
-than what we have now where elites decide to go to war on our behalf (Iraq,
-Afghanistan, Libya, etc.).  Historically war has not been the role of the
-people but rather the role of people in power to decide.  If you seem to agree
-with these ideals, then why prevent yourself--why not aim for something better?
-Surely statist capitalism is not the end all be all (in fact _Capitalist
-Realism_ is a book which describes the problem in society now where we cannot
-imagine existence without capitalism [and i would say statism as well]).  "If
-you're not a utopianist you're schmuck," and so anarchism provides a framework
-you apparently agree with that we can move toward through revolutionary actions
-of making anarchism paradigm.
-
-Q: I think that any violent or sudden means to change society will inherently
-result in a worse system and I think that the system is too entrenched to be
-changed nonviolently.
-
-A: I personally am a pacifist-but this is likely a position of privilege. It's
-important to realize legislative violence exists and that almost all "peaceful
-movements" that drastically changed society have been accompanied by an equal
-violent movement along side it.  So it's conflicting but ultimately I would say
-that 1. I'm a pacifist and I don't believe killing people to get things done,
-and 2. Zizek brings up how in _V for Vendetta_ ends with the government being
-overthrown. The problem is what happens in _V for Vendetta: Part 2_, what
-happens after they've overthrown the government requires a specific plan or
-something worse will take its place.  I don't believe in violent overthrows,
-but this does trace back to something important: that anarchism is concerned
-with the practical implementation, the actual plan of an alternative to
-capitalist statism. This is the failing of the left: an inability to provide an
-actual alternative rather than kneejerk "poverty is bad" type protests .  Zizek
-and capitalism realism talk about this tendency in GREAT detail and even talks
-about how this kind of thing is not only systemic of capitalism, but it
-supports capitalism as it overvaluates belief, i.e., "I believe capitalism is
-bad and therefore it is okay for me to be complicit in its operation," either
-fullstop or in the self-tricking like citizen-level environmentalism or
-choosing the ethical product will ultimately solve its issues--this very
-concept of capitalist realism in which we cannot create an alternative to
-capitalism, but can only imagine remedying its worst excesses.
-
-Q: I don't think you need a leader for everything you participate in, that
-forcing a leadership role isn't wise.
-
-A: I think its most important that people who are ultimately a part of a system
-ultimately have control over that system and regardless of who they employ to
-render their will (not in the republic sense because this generates exclusive
-power over the aforementioned), as we talked about with military.
-
-Q: none of this seems like its something practical that we can control
-
-A: You can subvert the state through the revolutionary action of creating
-paradigm through implementation of anarchism.  The Black Panthers realized
-this through direct action by implementing services like: breakfast program,
-lawyer tiplines, etc.  The biggest issue in leftist politics rn is actually
-formalizing an explicit alternative. Anarchism has taken the place of Marxism
-in modern academic culture it is a prohibited speech except where used in
-coded language through topics like mutual aid, direct democracy, etc., but it
-is in these practical applications that the paradigm is set, the revolutionary
-action is played, as was Marxism, increasingly anarchist application and theory
-becomes an inevitability, so did Marxism entering the sphere introduce to the
-public acceptance of "socialism," and a possibility of someone like Bernie
-Sanders (though this again is in the "worst excesses" thing we talked about
-earlier, this surely exemplifies what I speak of here).
-
-
