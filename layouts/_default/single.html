@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+
+{{ if .Params.toc }}
+<style type="text/css">
+  .toc-override ul {
+    list-style-type: square!important;
+    list-style-position: inside!important;
+    display: block!important;
+  }
+  #TableOfContents{
+    border-bottom: none!important;
+    list-style-type: square!important;
+    padding-top: 1.5rem;
+    display: block!important;
+  }
+  .toc-override li {
+    list-style-type: square!important;
+    margin-left: 20px!important;
+    display: block!important;
+  }
+</style>
+<nav class="toc-override">
+{{ .TableOfContents }}
+</nav>
+{{ end }}
+
+{{ partial "article" . }}
+{{ partial "single_footer" . }}
+
+{{ end }}

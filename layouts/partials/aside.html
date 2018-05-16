@@ -40,30 +40,6 @@
         {{ end }}
 
         <li>{{ .ReadingTime }} min read</li>
-
-        {{ if .Params.toc }}
-        <style type="text/css">
-          .toc-override ul {
-            list-style-type: square!important;
-            list-style-position: inside!important;
-            display: block!important;
-          }
-          #TableOfContents{
-            border-bottom: none!important;
-            list-style-type: square!important;
-            padding-top: 1.5rem;
-            display: block!important;
-          }
-          .toc-override li {
-            list-style-type: square!important;
-            margin-left: 20px!important;
-            display: block!important;
-          }
-        </style>
-        <li class="toc-override">
-        {{ .TableOfContents }}
-        </li>
-        {{ end }}
     </ul>
 </aside>
 
