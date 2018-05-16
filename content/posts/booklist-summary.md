@@ -138,7 +138,7 @@ statism. Anarchism has taken the place of Marxism in modern academic culture.
 Anarchism is a prohibited speech except where used in coded language through
 topics like mutual aid, direct democracy, etc. However, through quotidian
 application the alternative becomes realized, the paradigm is set, it is
-registerd with the big Other.
+[registered with the big Other](#capitalist-realism).
 
 Tying this booklist together is the notion that hierarchal ideologies (statism
 and capitalism, for example) infect our imagination (Capitalist Realism). These
@@ -151,28 +151,32 @@ these hierarchies is that they convince us that nothing else is possible.  How
 we act and live in this collective fiction is often in direct contradiction
 with our internalized individual beliefs or knowledge.
 
-XXX: I think even more fundamental to these experiences was anarchist schooling and
+XXX: I think even more fundamental to these experiences was 
 constantly experiencing the horror of the loss of my autonomy.
-Authoritarian narrative (trap exclusionary feminism lol), removal of autonomy,
-this is Gender Trouble.
-I think there’s a tendency to appeal to this sort of gender/narrative
-authority, that we need to find our place in society, because really, society
-makes this decision that doesn’t need to be made: you can think of this as “the
-binary,” but I think it’s more complicated than that (see: how trans women will
-treat you if you identify as trap/femboy/etc.). I believe that for full gender
-autonomy you must just realize that there are certain things you are wanting so
-badly for your expression and your appearance that honestly this should be
-enough. However, it is the ideology of hyperheterosexualized gender which
-infects our imagination in even our concepts of gender autonomy.
-Do what you want! You know you want these changes so go for it! You don’t need
-to be “fully registered” by the big Other–because if you try to look for a root
-cause, you’ll never find it–the big Other can never be encountered within
-itself, you will only find those engaging in acts of interpretation of what the
-big Other prescribes, the collective fiction about gender in this case. You
-know yourself best. Realize that this sense of gender autonomy–which nobody can
-strip from you for only you can realize your true happiness regardless of these
-constructs people/the big Other attempt to prescribe you–is something
-important.
+This came in many forms, such as being committed (mental health), to how people
+tried to regulate my life when I was impoverished, to the [narrative authority which attempts to remove my gender autonomy.](#gender-trouble).
+That last bit I find interesting--the tendency to appeal to this gender
+narrative authority to find our place in society (the [Zizek-Lacanism is "the
+big Other"](#capitalist-realism). This condition of having to one
+of the available prescriptions of identity allotted by this narrative authority
+is a terrible one that has harmed me. This condition is the basis for the
+gender binary, but I also think it's more complicated than that. For example,
+despite the history of deweaponization of words, some trans women aren't very
+kind to variants of trans femininity, specifically in my experience, those who are
+trans femme but identify as traps.
+
+For full gender autonomy (something we shouldn't be stripped of) one must
+realize certain things one desires for expression and appearance should be
+enough of a justification in itself. However, the ideology of
+hyperheterosexualized gender which infects our concepts of gender (autonomy).
+I'll restate: do what you want--if you desire changes hormone therapy can induce you should
+do it. Make no appeal to narrative authority; you don't need to be fully registered
+by the collective fiction of gender, no such ultimate gender narrative authority can
+ever be encountered, you will only find those engaging in acts of
+interpretation fo that the gender narrative authority prescribes (the big
+Other; the collective fiction). Realize that this sense of gender autonomy is
+crucial, it should never be stripped from us, and perhaps done in disregard of
+these constructions the narrative authority attempts to prescribe.
 
 ## Capitalist Realism
 
