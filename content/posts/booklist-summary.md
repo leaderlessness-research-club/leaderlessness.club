@@ -154,6 +154,24 @@ XXX: I think even more fundamental to these experiences was anarchist schooling 
 constantly experiencing the horror of the loss of my autonomy.
 Authoritarian narrative (trap exclusionary feminism lol), removal of autonomy,
 this is Gender Trouble.
+I think there’s a tendency to appeal to this sort of gender/narrative
+authority, that we need to find our place in society, because really, society
+makes this decision that doesn’t need to be made: you can think of this as “the
+binary,” but I think it’s more complicated than that (see: how trans women will
+treat you if you identify as trap/femboy/etc.). I believe that for full gender
+autonomy you must just realize that there are certain things you are wanting so
+badly for your expression and your appearance that honestly this should be
+enough. However, it is the ideology of hyperheterosexualized gender which
+infects our imagination in even our concepts of gender autonomy.
+Do what you want! You know you want these changes so go for it! You don’t need
+to be “fully registered” by the big Other–because if you try to look for a root
+cause, you’ll never find it–the big Other can never be encountered within
+itself, you will only find those engaging in acts of interpretation of what the
+big Other prescribes, the collective fiction about gender in this case. You
+know yourself best. Realize that this sense of gender autonomy–which nobody can
+strip from you for only you can realize your true happiness regardless of these
+constructs people/the big Other attempt to prescribe you–is something
+important.
 
 ## Capitalist Realism
 
